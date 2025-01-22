@@ -96,6 +96,5 @@ Proxmox VE simplifies server management while offering powerful features suitabl
 
 * [https://noted.lol/proxmox-for-beginners/](https://noted.lol/proxmox-for-beginners/)
 * [https://www.youtube.com/watch?v=GaP-wkyfLrQ\&list=PL8cE5Nxf6M6bBTixIuAAViwXBqlk4PBOh\&index=1\&ab\_channel=TechArkit](https://www.youtube.com/watch?v=GaP-wkyfLrQ\&list=PL8cE5Nxf6M6bBTixIuAAViwXBqlk4PBOh\&index=1\&ab_channel=TechArkit)
-
-
+* [https://medium.com/@Harshii/getting-started-with-proxmox-a-beginners-guide-to-virtualization-c038ade4d30a](https://medium.com/@Harshii/getting-started-with-proxmox-a-beginners-guide-to-virtualization-c038ade4d30a)
 
