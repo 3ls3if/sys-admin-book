@@ -22,6 +22,7 @@
     * [Add a Domain](email-and-office-365/office-365/add-a-domain.md)
     * [Manage MFA](email-and-office-365/office-365/manage-mfa.md)
     * [Assign Global Admin Roles](email-and-office-365/office-365/assign-global-admin-roles.md)
+    * [Create APP Password](email-and-office-365/office-365/create-app-password.md)
 * [DevOps](devops.md)
 * [HP Servers](hp-servers.md)
 * [Firewalls](firewalls.md)
