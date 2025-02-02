@@ -6,6 +6,7 @@
     * [Introduction](virtualization/proxmox-ve/introduction.md)
 * [Web Servers](web-servers.md)
 * [Database Servers](database-servers.md)
+* [Web Dev Stacks](web-dev-stacks.md)
 * [IT Ticketing Systems](it-ticketing-systems.md)
 * [Linux Servers](linux-servers.md)
 * [AWS Environment](aws-environment.md)
