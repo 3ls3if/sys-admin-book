@@ -5,6 +5,7 @@
   * [Proxmox VE](virtualization/proxmox-ve/README.md)
     * [Introduction](virtualization/proxmox-ve/introduction.md)
 * [Web Servers](web-servers.md)
+* [Database Servers](database-servers.md)
 * [IT Ticketing Systems](it-ticketing-systems.md)
 * [Linux Servers](linux-servers.md)
 * [AWS Environment](aws-environment.md)
