@@ -1,5 +1,5 @@
 ---
-icon: house-laptop
+icon: microsoft
 ---
 
 # Office 365

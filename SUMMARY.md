@@ -34,6 +34,7 @@
     * [Manage MFA](email-and-office-365/office-365/manage-mfa.md)
     * [Assign Global Admin Roles](email-and-office-365/office-365/assign-global-admin-roles.md)
     * [Create APP Password](email-and-office-365/office-365/create-app-password.md)
+  * [Google Workspace](email-and-office-365/google-workspace.md)
 * [DevOps](devops.md)
 * [HP Servers](hp-servers.md)
 * [Firewalls](firewalls.md)
