@@ -39,4 +39,6 @@
 * [HP Servers](hp-servers.md)
 * [Firewalls](firewalls.md)
 * [Networking](networking.md)
+* [Migration](migration/README.md)
+  * [Drive Migration](migration/drive-migration.md)
 * [Other Technologies](other-technologies.md)
