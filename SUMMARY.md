@@ -50,5 +50,6 @@
 * [Firewalls](firewalls.md)
 * [Networking](networking.md)
 * [Migration](migration/README.md)
-  * [Drive Migration](migration/drive-migration.md)
+  * [Drive Migration](migration/drive-migration/README.md)
+    * [Google Drive to One Drive](migration/drive-migration/google-drive-to-one-drive.md)
 * [Other Technologies](other-technologies.md)
