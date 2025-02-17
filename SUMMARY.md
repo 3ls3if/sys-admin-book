@@ -1,6 +1,14 @@
 # Table of contents
 
 * [Windows Server](README.md)
+  * [FTP Server](windows-server/ftp-server/README.md)
+    * [Install FTP Server (IIS)](windows-server/ftp-server/install-ftp-server-iis.md)
+    * [Create User Group](windows-server/ftp-server/create-user-group.md)
+    * [Add FTP Site (IIS)](windows-server/ftp-server/add-ftp-site-iis.md)
+    * [User Isolation](windows-server/ftp-server/user-isolation.md)
+    * [Allow Firewall](windows-server/ftp-server/allow-firewall.md)
+    * [FTP Client (FileZilla)](windows-server/ftp-server/ftp-client-filezilla.md)
+    * [FTP Server (FileZilla)](windows-server/ftp-server/ftp-server-filezilla.md)
 * [Virtualization](virtualization/README.md)
   * [Proxmox VE](virtualization/proxmox-ve/README.md)
     * [Introduction](virtualization/proxmox-ve/introduction.md)
