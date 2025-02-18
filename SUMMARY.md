@@ -31,6 +31,7 @@
     * [Godaddy-CPanel: Generate a CSR](backup-and-security/ssl-certificates/godaddy-cpanel-generate-a-csr.md)
     * [Godaddy-CPanel: Install SSL Certificate](backup-and-security/ssl-certificates/godaddy-cpanel-install-ssl-certificate.md)
     * [Plesk: Generate CSR](backup-and-security/ssl-certificates/plesk-generate-csr.md)
+    * [Plesk: Let's Encrypt SSL Installation](backup-and-security/ssl-certificates/plesk-lets-encrypt-ssl-installation.md)
     * [Plesk: Installing the SSL certificate](backup-and-security/ssl-certificates/plesk-installing-the-ssl-certificate.md)
     * [Win-ACME Let's Encrypt SSL](backup-and-security/ssl-certificates/win-acme-lets-encrypt-ssl.md)
     * [Certbot - Install SSL](backup-and-security/ssl-certificates/certbot-install-ssl.md)
