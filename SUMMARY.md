@@ -57,7 +57,6 @@
     * [Edit user attributes](email-and-office-365/google-workspace/edit-user-attributes.md)
     * [Manage user accounts](email-and-office-365/google-workspace/manage-user-accounts.md)
 * [DevOps](devops.md)
-* [HP Servers](hp-servers.md)
 * [Firewalls](firewalls.md)
 * [Networking](networking.md)
 * [Migration](migration/README.md)
