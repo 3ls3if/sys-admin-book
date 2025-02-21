@@ -9,6 +9,8 @@
     * [Allow Firewall](windows-server/ftp-server/allow-firewall.md)
     * [FTP Client (FileZilla)](windows-server/ftp-server/ftp-client-filezilla.md)
     * [FTP Server (FileZilla)](windows-server/ftp-server/ftp-server-filezilla.md)
+  * [Services](windows-server/services/README.md)
+    * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
 * [Virtualization](virtualization/README.md)
   * [Proxmox VE](virtualization/proxmox-ve/README.md)
     * [Introduction](virtualization/proxmox-ve/introduction.md)
