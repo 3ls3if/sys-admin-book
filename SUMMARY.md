@@ -37,6 +37,7 @@
   * [SSL Certificates](backup-and-security/ssl-certificates/README.md)
     * [Types of SSL Certificates](backup-and-security/ssl-certificates/types-of-ssl-certificates.md)
     * [IIS 10: Create CSR and Install SSL Certificate](backup-and-security/ssl-certificates/iis-10-create-csr-and-install-ssl-certificate.md)
+    * [IIS 7: Generate CSR for Wildcard SSL](backup-and-security/ssl-certificates/iis-7-generate-csr-for-wildcard-ssl.md)
     * [IIS 10: How to Install and Configure Your SSL Certificate on Windows Server](backup-and-security/ssl-certificates/iis-10-how-to-install-and-configure-your-ssl-certificate-on-windows-server.md)
     * [IIS: Export Pfx using MMC](backup-and-security/ssl-certificates/iis-export-pfx-using-mmc.md)
     * [IIS: Import Pfx using MMC](backup-and-security/ssl-certificates/iis-import-pfx-using-mmc.md)
