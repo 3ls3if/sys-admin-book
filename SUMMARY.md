@@ -76,6 +76,7 @@
     * [Restrict access to a Google Workspace service](email-and-office-365/google-workspace/restrict-access-to-a-google-workspace-service.md)
     * [Edit user attributes](email-and-office-365/google-workspace/edit-user-attributes.md)
     * [Manage user accounts](email-and-office-365/google-workspace/manage-user-accounts.md)
+    * [Suspend a User](email-and-office-365/google-workspace/suspend-a-user.md)
 * [DevOps](devops.md)
 * [Firewalls](firewalls.md)
 * [Networking](networking.md)
