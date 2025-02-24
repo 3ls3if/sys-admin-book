@@ -1,6 +1,14 @@
 # Table of contents
 
 * [Windows Server](README.md)
+  * [Basic Configurations](windows-server/basic-configurations/README.md)
+    * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
+    * [Change Default RDP Port](windows-server/basic-configurations/change-default-rdp-port.md)
+    * [Create a User](windows-server/basic-configurations/create-a-user.md)
+    * [Add user to Administrator group](windows-server/basic-configurations/add-user-to-administrator-group.md)
+    * [Add user to Remote Desktop Users group](windows-server/basic-configurations/add-user-to-remote-desktop-users-group.md)
+    * [Allow Multiple Remote Desktop Connections](windows-server/basic-configurations/allow-multiple-remote-desktop-connections.md)
+    * [Enable Insure Guest Authentication](windows-server/basic-configurations/enable-insure-guest-authentication.md)
   * [FTP Server](windows-server/ftp-server/README.md)
     * [Install FTP Server (IIS)](windows-server/ftp-server/install-ftp-server-iis.md)
     * [Create User Group](windows-server/ftp-server/create-user-group.md)
