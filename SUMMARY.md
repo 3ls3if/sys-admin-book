@@ -9,6 +9,8 @@
     * [Add user to Remote Desktop Users group](windows-server/basic-configurations/add-user-to-remote-desktop-users-group.md)
     * [Allow Multiple Remote Desktop Connections](windows-server/basic-configurations/allow-multiple-remote-desktop-connections.md)
     * [Enable Insure Guest Authentication](windows-server/basic-configurations/enable-insure-guest-authentication.md)
+    * [Shrink Partition](windows-server/basic-configurations/shrink-partition.md)
+    * [Extend Partition](windows-server/basic-configurations/extend-partition.md)
   * [FTP Server](windows-server/ftp-server/README.md)
     * [Install FTP Server (IIS)](windows-server/ftp-server/install-ftp-server-iis.md)
     * [Create User Group](windows-server/ftp-server/create-user-group.md)
