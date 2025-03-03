@@ -99,6 +99,8 @@
     * [Edit user attributes](email-and-office-365/google-workspace/edit-user-attributes.md)
     * [Manage user accounts](email-and-office-365/google-workspace/manage-user-accounts.md)
     * [Suspend a User](email-and-office-365/google-workspace/suspend-a-user.md)
+  * [MailEnable](email-and-office-365/mailenable.md)
+  * [SmarterMail](email-and-office-365/smartermail.md)
 * [DevOps](devops.md)
 * [Firewalls](firewalls.md)
 * [Networking](networking.md)
