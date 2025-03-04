@@ -109,4 +109,5 @@
     * [Google Drive to One Drive](migration/drive-migration/google-drive-to-one-drive.md)
   * [Mail Migration](migration/mail-migration.md)
 * [Monitoring](monitoring.md)
+* [Data Center](data-center.md)
 * [Other Technologies](other-technologies.md)
