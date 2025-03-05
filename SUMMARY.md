@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Windows Server](README.md)
+* [System Configuration](README.md)
+  * [Windows](system-configuration/windows.md)
+  * [Linux](system-configuration/linux.md)
+  * [Mac](system-configuration/mac.md)
+* [Windows Server](<README (1).md>)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
     * [Change Default RDP Port](windows-server/basic-configurations/change-default-rdp-port.md)
