@@ -83,6 +83,7 @@
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
       * [MS SQL Restore Backup](backup-and-security/backup/database/ms-sql-restore-backup.md)
 * [Email and Office 365](email-and-office-365/README.md)
+  * [Mail Clients](email-and-office-365/mail-clients.md)
   * [Office 365](email-and-office-365/office-365/README.md)
     * [Intro & Subscriptions](email-and-office-365/office-365/intro-and-subscriptions.md)
     * [How to Create a Trial Account](email-and-office-365/office-365/how-to-create-a-trial-account.md)
