@@ -1,7 +1,8 @@
 # Table of contents
 
 * [System Configuration](README.md)
-  * [Windows](system-configuration/windows.md)
+  * [Windows](system-configuration/windows/README.md)
+    * [OneDrive for Business, Map as Network Drive in Windows](system-configuration/windows/onedrive-for-business-map-as-network-drive-in-windows.md)
   * [Linux](system-configuration/linux.md)
   * [Mac](system-configuration/mac/README.md)
     * [Factory Reset Mac Mini](system-configuration/mac/factory-reset-mac-mini.md)
