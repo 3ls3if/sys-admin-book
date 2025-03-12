@@ -1,0 +1,6 @@
+---
+icon: galaxy
+---
+
+# System Configuration
+

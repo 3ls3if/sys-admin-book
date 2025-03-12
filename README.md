@@ -1,6 +1,6 @@
 ---
-icon: galaxy
+icon: microchip
 ---
 
-# System Configuration
+# Hardware/Physical Machines
 

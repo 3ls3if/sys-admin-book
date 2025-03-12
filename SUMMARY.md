@@ -1,6 +1,7 @@
 # Table of contents
 
-* [System Configuration](README.md)
+* [Hardware/Physical Machines](README.md)
+* [System Configuration](<README (2).md>)
   * [Windows](system-configuration/windows/README.md)
     * [OneDrive for Business, Map as Network Drive in Windows](system-configuration/windows/onedrive-for-business-map-as-network-drive-in-windows.md)
   * [Linux](system-configuration/linux.md)
