@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Hardware/Physical Machines](README.md)
+  * [Physical Networking](hardware-physical-machines/physical-networking/README.md)
+    * [Patch Panel](hardware-physical-machines/physical-networking/patch-panel.md)
 * [System Configuration](<README (2).md>)
   * [Windows](system-configuration/windows/README.md)
     * [OneDrive for Business, Map as Network Drive in Windows](system-configuration/windows/onedrive-for-business-map-as-network-drive-in-windows.md)
