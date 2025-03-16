@@ -122,6 +122,7 @@
   * [SmarterMail](email-and-office-365/smartermail/README.md)
     * [SmarterMail Installation](email-and-office-365/smartermail/smartermail-installation.md)
     * [SmarterMail Server Setup](email-and-office-365/smartermail/smartermail-server-setup.md)
+    * [Installation and Configuration (Practical)](email-and-office-365/smartermail/installation-and-configuration-practical.md)
 * [DevOps](devops.md)
 * [Firewalls](firewalls.md)
 * [Networking](networking/README.md)
