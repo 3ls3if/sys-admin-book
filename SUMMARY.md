@@ -130,6 +130,7 @@
     * [Google Drive to One Drive](migration/drive-migration/google-drive-to-one-drive.md)
   * [Mail Migration](migration/mail-migration/README.md)
     * [Google Workspace to Office 365](migration/mail-migration/google-workspace-to-office-365.md)
+    * [IMAP to Office 365](migration/mail-migration/imap-to-office-365.md)
 * [Monitoring](monitoring.md)
 * [Data Center](data-center.md)
 * [Other Technologies](other-technologies.md)
