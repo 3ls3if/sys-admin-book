@@ -120,6 +120,7 @@
     * [Suspend a User](email-and-office-365/google-workspace/suspend-a-user.md)
   * [MailEnable](email-and-office-365/mailenable.md)
   * [SmarterMail](email-and-office-365/smartermail/README.md)
+    * [SmarterMail Installation](email-and-office-365/smartermail/smartermail-installation.md)
     * [SmarterMail Server Setup](email-and-office-365/smartermail/smartermail-server-setup.md)
 * [DevOps](devops.md)
 * [Firewalls](firewalls.md)
