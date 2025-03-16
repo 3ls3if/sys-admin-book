@@ -51,6 +51,7 @@
     * [Install IIS](web-servers/iis/install-iis.md)
     * [Configure Default Site](web-servers/iis/configure-default-site.md)
     * [Application Pool](web-servers/iis/application-pool.md)
+    * [Deploying a Laravel app on Windows using IIS](web-servers/iis/deploying-a-laravel-app-on-windows-using-iis.md)
 * [VPN/Proxy Servers](vpn-proxy-servers/README.md)
   * [Reverse Proxy](vpn-proxy-servers/reverse-proxy/README.md)
     * [IIS - Node.js Application](vpn-proxy-servers/reverse-proxy/iis-node.js-application.md)
