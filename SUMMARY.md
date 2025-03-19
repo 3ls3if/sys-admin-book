@@ -112,6 +112,7 @@
     * [Change a user name and email address](email-and-office-365/office-365/change-a-user-name-and-email-address.md)
     * [Reset MFA for Microsoft 365 User](email-and-office-365/office-365/reset-mfa-for-microsoft-365-user.md)
     * [Configure email forwarding](email-and-office-365/office-365/configure-email-forwarding.md)
+    * [Add email aliases to a user](email-and-office-365/office-365/add-email-aliases-to-a-user.md)
   * [Google Workspace](email-and-office-365/google-workspace/README.md)
     * [Intro & Plans](email-and-office-365/google-workspace/intro-and-plans.md)
     * [Create your Google Workspace trial account](email-and-office-365/google-workspace/create-your-google-workspace-trial-account.md)
