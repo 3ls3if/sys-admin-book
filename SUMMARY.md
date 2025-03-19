@@ -98,6 +98,7 @@
   * [Mail Clients](email-and-office-365/mail-clients/README.md)
     * [Outlook](email-and-office-365/mail-clients/outlook/README.md)
       * [Maximum number of Exchange accounts in an Outlook profile](email-and-office-365/mail-clients/outlook/maximum-number-of-exchange-accounts-in-an-outlook-profile.md)
+      * [Enable automatic forwarding in new Outlook](email-and-office-365/mail-clients/outlook/enable-automatic-forwarding-in-new-outlook.md)
   * [Office 365](email-and-office-365/office-365/README.md)
     * [Intro & Subscriptions](email-and-office-365/office-365/intro-and-subscriptions.md)
     * [How to Create a Trial Account](email-and-office-365/office-365/how-to-create-a-trial-account.md)
