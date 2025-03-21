@@ -96,6 +96,8 @@
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
       * [MS SQL Restore Backup](backup-and-security/backup/database/ms-sql-restore-backup.md)
 * [Email and Office 365](email-and-office-365/README.md)
+  * [Troubleshooting](email-and-office-365/troubleshooting/README.md)
+    * [Run a message trace in the Exchange admin center](email-and-office-365/troubleshooting/run-a-message-trace-in-the-exchange-admin-center.md)
   * [Mail Clients](email-and-office-365/mail-clients/README.md)
     * [Outlook](email-and-office-365/mail-clients/outlook/README.md)
       * [Maximum number of Exchange accounts in an Outlook profile](email-and-office-365/mail-clients/outlook/maximum-number-of-exchange-accounts-in-an-outlook-profile.md)
