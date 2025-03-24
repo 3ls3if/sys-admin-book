@@ -12,6 +12,7 @@
   * [Linux](system-configuration/linux.md)
   * [Mac](system-configuration/mac/README.md)
     * [Factory Reset Mac Mini](system-configuration/mac/factory-reset-mac-mini.md)
+    * [Install FortiClient VPN](system-configuration/mac/install-forticlient-vpn.md)
 * [Windows Server](<README (1).md>)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
