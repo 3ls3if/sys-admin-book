@@ -14,6 +14,8 @@
   * [Mac](system-configuration/mac/README.md)
     * [Factory Reset Mac Mini](system-configuration/mac/factory-reset-mac-mini.md)
     * [Install FortiClient VPN](system-configuration/mac/install-forticlient-vpn.md)
+    * [Remove FortiClient VPN for Macs](system-configuration/mac/remove-forticlient-vpn-for-macs.md)
+    * [Setting Microsoft Teams Notifications in MacOS](system-configuration/mac/setting-microsoft-teams-notifications-in-macos.md)
 * [Windows Server](<README (1).md>)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
