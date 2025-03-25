@@ -147,6 +147,7 @@
     * [Guest Access vs. External Access](email-and-office-365/microsoft-teams/guest-access-vs.-external-access.md)
     * [Adding Guests To Microsoft Teams Team](email-and-office-365/microsoft-teams/adding-guests-to-microsoft-teams-team.md)
     * [Teams Chat DIfferent Domain: Enable External Access](email-and-office-365/microsoft-teams/teams-chat-different-domain-enable-external-access.md)
+    * [Setup Teams Time Zone and Work Hours](email-and-office-365/microsoft-teams/setup-teams-time-zone-and-work-hours.md)
 * [DevOps](devops.md)
 * [Firewalls](firewalls.md)
 * [Networking](networking/README.md)
