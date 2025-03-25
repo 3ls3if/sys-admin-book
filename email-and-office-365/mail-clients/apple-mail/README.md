@@ -1,0 +1,6 @@
+---
+icon: apple
+---
+
+# Apple Mail
+

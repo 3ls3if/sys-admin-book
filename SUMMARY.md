@@ -113,6 +113,8 @@
       * [Enable automatic forwarding in new Outlook](email-and-office-365/mail-clients/outlook/enable-automatic-forwarding-in-new-outlook.md)
       * [Add Email Signature](email-and-office-365/mail-clients/outlook/add-email-signature.md)
       * [Create Email Singature](email-and-office-365/mail-clients/outlook/create-email-singature.md)
+    * [Apple Mail](email-and-office-365/mail-clients/apple-mail/README.md)
+      * [Add email accounts in Mail on Mac](email-and-office-365/mail-clients/apple-mail/add-email-accounts-in-mail-on-mac.md)
   * [Office 365](email-and-office-365/office-365/README.md)
     * [Intro & Subscriptions](email-and-office-365/office-365/intro-and-subscriptions.md)
     * [How to Create a Trial Account](email-and-office-365/office-365/how-to-create-a-trial-account.md)
