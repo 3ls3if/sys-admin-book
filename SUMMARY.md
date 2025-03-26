@@ -146,6 +146,7 @@
     * [SmarterMail Installation](email-and-office-365/smartermail/smartermail-installation.md)
     * [SmarterMail Server Setup](email-and-office-365/smartermail/smartermail-server-setup.md)
     * [Installation and Configuration (Practical)](email-and-office-365/smartermail/installation-and-configuration-practical.md)
+    * [Enable / Disable Domain in SmarterMail](email-and-office-365/smartermail/enable-disable-domain-in-smartermail.md)
   * [Microsoft Teams](email-and-office-365/microsoft-teams/README.md)
     * [Guest Access vs. External Access](email-and-office-365/microsoft-teams/guest-access-vs.-external-access.md)
     * [Adding Guests To Microsoft Teams Team](email-and-office-365/microsoft-teams/adding-guests-to-microsoft-teams-team.md)
