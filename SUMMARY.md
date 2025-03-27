@@ -167,4 +167,5 @@
     * [IMAP to Office 365](migration/mail-migration/imap-to-office-365.md)
 * [Monitoring](monitoring.md)
 * [Data Center](data-center.md)
-* [Other Technologies](other-technologies.md)
+* [Other Technologies](other-technologies/README.md)
+  * [Some R\&Ds](other-technologies/some-r-and-ds.md)
