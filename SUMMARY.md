@@ -115,6 +115,7 @@
       * [Enable automatic forwarding in new Outlook](email-and-office-365/mail-clients/outlook/enable-automatic-forwarding-in-new-outlook.md)
       * [Add Email Signature](email-and-office-365/mail-clients/outlook/add-email-signature.md)
       * [Create Email Singature](email-and-office-365/mail-clients/outlook/create-email-singature.md)
+      * [Gmail Account Login in Outlook](email-and-office-365/mail-clients/outlook/gmail-account-login-in-outlook.md)
     * [Apple Mail](email-and-office-365/mail-clients/apple-mail/README.md)
       * [Add email accounts in Mail on Mac](email-and-office-365/mail-clients/apple-mail/add-email-accounts-in-mail-on-mac.md)
       * [Add Mail Signatures](email-and-office-365/mail-clients/apple-mail/add-mail-signatures.md)
