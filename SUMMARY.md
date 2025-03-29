@@ -88,6 +88,7 @@
     * [IIS: Import Pfx using MMC](backup-and-security/ssl-certificates/iis-import-pfx-using-mmc.md)
     * [IIS: Export Pfx using IIS Manager](backup-and-security/ssl-certificates/iis-export-pfx-using-iis-manager.md)
     * [IIS: Import Pfx using IIS Manager](backup-and-security/ssl-certificates/iis-import-pfx-using-iis-manager.md)
+    * [cPanel: Export PFX](backup-and-security/ssl-certificates/cpanel-export-pfx.md)
     * [Godaddy-CPanel: Generate a CSR](backup-and-security/ssl-certificates/godaddy-cpanel-generate-a-csr.md)
     * [Godaddy-CPanel: Install SSL Certificate](backup-and-security/ssl-certificates/godaddy-cpanel-install-ssl-certificate.md)
     * [cPanel: Generate CSR](backup-and-security/ssl-certificates/cpanel-generate-csr.md)
