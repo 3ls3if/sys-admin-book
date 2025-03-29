@@ -168,6 +168,7 @@
   * [Mail Migration](migration/mail-migration/README.md)
     * [Google Workspace to Office 365](migration/mail-migration/google-workspace-to-office-365.md)
     * [IMAP to Office 365](migration/mail-migration/imap-to-office-365.md)
+    * [Migration Using PST File Method](migration/mail-migration/migration-using-pst-file-method.md)
 * [Monitoring](monitoring.md)
 * [Data Center](data-center.md)
 * [Other Technologies](other-technologies/README.md)
