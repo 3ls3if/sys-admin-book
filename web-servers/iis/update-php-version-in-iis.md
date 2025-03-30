@@ -49,7 +49,7 @@ Access it via `http://localhost/phpinfo.php` in your browser.
 3. Open `php.ini` and configure necessary settings like `extension_dir`:
 
 ```ini
-iniCopyEditextension_dir = "C:\PHP8\ext"
+extension_dir = "C:\PHP8\ext"
 ```
 
 
@@ -57,7 +57,7 @@ iniCopyEditextension_dir = "C:\PHP8\ext"
 4. Update any required extensions by uncommenting lines (remove `;`):
 
 ```ini
-iniCopyEditextension=curl
+extension=curl
 extension=gd
 extension=mbstring
 extension=mysqli
