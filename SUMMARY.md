@@ -100,6 +100,7 @@
     * [Plesk: Export Public & Private Key](backup-and-security/ssl-certificates/plesk-export-public-and-private-key.md)
     * [Win-ACME Let's Encrypt SSL](backup-and-security/ssl-certificates/win-acme-lets-encrypt-ssl.md)
     * [Certbot - Install SSL](backup-and-security/ssl-certificates/certbot-install-ssl.md)
+    * [Export Leaf, Root, and Intermediate Files](backup-and-security/ssl-certificates/export-leaf-root-and-intermediate-files.md)
   * [Backup](backup-and-security/backup/README.md)
     * [Database](backup-and-security/backup/database/README.md)
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
