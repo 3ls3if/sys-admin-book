@@ -113,3 +113,14 @@ php -v
 
 Or refresh `http://localhost/phpinfo.php` to confirm the new version.
 
+
+
+
+
+***
+
+## <mark style="color:orange;">REFERENCES</mark>
+
+* [https://docs.faveohelpdesk.com/docs/installation/providers/enterprise/php-upgrade/#windows](https://docs.faveohelpdesk.com/docs/installation/providers/enterprise/php-upgrade/#windows)
+* [https://www.youtube.com/watch?v=k\_DT-mdU00k\&pp=ygUZdXBkYXRlIHBocCB2ZXJzaW9uIGluIGlpcw%3D%3D](https://www.youtube.com/watch?v=k_DT-mdU00k\&pp=ygUZdXBkYXRlIHBocCB2ZXJzaW9uIGluIGlpcw%3D%3D)
+
