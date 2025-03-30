@@ -173,6 +173,7 @@
     * [IMAP to Office 365](migration/mail-migration/imap-to-office-365.md)
     * [Migration Using PST File Method](migration/mail-migration/migration-using-pst-file-method.md)
   * [VM Migration](migration/vm-migration.md)
+  * [Website Migration](migration/website-migration.md)
 * [Monitoring](monitoring.md)
 * [Data Center](data-center.md)
 * [Other Technologies](other-technologies/README.md)
