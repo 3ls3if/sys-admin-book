@@ -40,6 +40,7 @@
     * [Create a Logon Banner (Legal Notice)](windows-server/group-policy/create-a-logon-banner-legal-notice.md)
     * [Enable / Disable Copy-Paste Policy](windows-server/group-policy/enable-disable-copy-paste-policy.md)
     * [Disable Shutdown, Restart Options](windows-server/group-policy/disable-shutdown-restart-options.md)
+    * [Disable Multiple Session for Single User](windows-server/group-policy/disable-multiple-session-for-single-user.md)
   * [Services](windows-server/services/README.md)
     * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
 * [Control Panels](control-panels/README.md)
