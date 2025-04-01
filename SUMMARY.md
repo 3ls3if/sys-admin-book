@@ -154,6 +154,7 @@
     * [Manage user accounts](email-and-office-365/google-workspace/manage-user-accounts.md)
     * [Suspend a User](email-and-office-365/google-workspace/suspend-a-user.md)
     * [Generate a Transfer Token](email-and-office-365/google-workspace/generate-a-transfer-token.md)
+    * [Reduce Licenses in Google Workspace](email-and-office-365/google-workspace/reduce-licenses-in-google-workspace.md)
   * [MailEnable](email-and-office-365/mailenable.md)
   * [SmarterMail](email-and-office-365/smartermail/README.md)
     * [SmarterMail Installation](email-and-office-365/smartermail/smartermail-installation.md)
