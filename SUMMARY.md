@@ -43,6 +43,7 @@
     * [Disable Multiple Session for Single User](windows-server/group-policy/disable-multiple-session-for-single-user.md)
   * [Services](windows-server/services/README.md)
     * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
+  * [Task Scheduler](windows-server/task-scheduler.md)
 * [Control Panels](control-panels/README.md)
   * [Plesk](control-panels/plesk/README.md)
     * [Set Hard Quota on disk space for subscription(s)](control-panels/plesk/set-hard-quota-on-disk-space-for-subscription-s.md)
