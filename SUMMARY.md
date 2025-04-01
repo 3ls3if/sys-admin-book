@@ -39,6 +39,7 @@
     * [Block Access to the Control Panel for All Users](windows-server/group-policy/block-access-to-the-control-panel-for-all-users.md)
     * [Create a Logon Banner (Legal Notice)](windows-server/group-policy/create-a-logon-banner-legal-notice.md)
     * [Enable / Disable Copy-Paste Policy](windows-server/group-policy/enable-disable-copy-paste-policy.md)
+    * [Disable Shutdown, Restart Options](windows-server/group-policy/disable-shutdown-restart-options.md)
   * [Services](windows-server/services/README.md)
     * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
 * [Control Panels](control-panels/README.md)
