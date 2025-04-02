@@ -16,6 +16,7 @@
     * [Install FortiClient VPN](system-configuration/mac/install-forticlient-vpn.md)
     * [Remove FortiClient VPN for Macs](system-configuration/mac/remove-forticlient-vpn-for-macs.md)
     * [Setting Microsoft Teams Notifications in MacOS](system-configuration/mac/setting-microsoft-teams-notifications-in-macos.md)
+    * [Download and Install Whatsapp](system-configuration/mac/download-and-install-whatsapp.md)
 * [Windows Server](<README (1).md>)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
