@@ -168,6 +168,7 @@
     * [Adding Guests To Microsoft Teams Team](email-and-office-365/microsoft-teams/adding-guests-to-microsoft-teams-team.md)
     * [Teams Chat DIfferent Domain: Enable External Access](email-and-office-365/microsoft-teams/teams-chat-different-domain-enable-external-access.md)
     * [Setup Teams Time Zone and Work Hours](email-and-office-365/microsoft-teams/setup-teams-time-zone-and-work-hours.md)
+    * [Add Contact Numbers in Profile Page](email-and-office-365/microsoft-teams/add-contact-numbers-in-profile-page.md)
   * [Microsoft Defender for Office 365](email-and-office-365/microsoft-defender-for-office-365.md)
 * [DevOps](devops.md)
 * [Firewalls](firewalls.md)
