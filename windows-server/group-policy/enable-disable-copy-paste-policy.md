@@ -54,6 +54,19 @@ To disable copy and paste between a local machine and a Virtual Machine (VM), yo
 
 ***
 
+{% hint style="success" %}
+One way to prevent users from copying files from a remote desktop session is to disable drive redirection. This c**an be done by following these steps:**
+
+1. <mark style="color:blue;">Open the Local Group Policy Editor by typing "gpedit.msc" in the Run dialog box (press Windows key + R to open the Run dialog box).</mark>
+2. <mark style="color:blue;">Navigate to Computer Configuration > Administrative Templates > Windows Components > Remote Desktop Services > Remote Desktop Session Host > Device and Resource Redirection.</mark>
+3. <mark style="color:blue;">Double-click the "Do not allow drive redirection" policy setting.</mark>
+4. <mark style="color:blue;">Select "Enabled" and click "OK".</mark>
+{% endhint %}
+
+
+
+***
+
 #### **Step 3: Apply Changes**
 
 1.  <mark style="color:green;">Open</mark> <mark style="color:green;"></mark><mark style="color:green;">**Command Prompt**</mark> <mark style="color:green;"></mark><mark style="color:green;">or</mark> <mark style="color:green;"></mark><mark style="color:green;">**PowerShell**</mark> <mark style="color:green;"></mark><mark style="color:green;">and run:</mark>
