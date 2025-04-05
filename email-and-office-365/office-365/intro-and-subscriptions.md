@@ -4,6 +4,8 @@ icon: lightbulb
 
 # Intro & Subscriptions
 
+{% embed url="https://m365maps.com/" %}
+
 Microsoft 365 offers a variety of licensing options tailored to meet the diverse needs of individuals and organizations. Here's an overview of the key licenses available:
 
 **1. Microsoft 365 Personal and Family Plans:**
@@ -44,3 +46,12 @@ Additionally, Microsoft has been integrating AI capabilities into its Office sui
 [theverge.com](https://www.theverge.com/2025/1/17/24345865/microsoft-ai-announcements-2025-notepad?utm_source=chatgpt.com)
 
 By understanding these licensing options, you can make an informed decision that aligns with your specific needs and maximizes the value of Microsoft's productivity tools.
+
+
+
+***
+
+## REFERENCES
+
+* [https://m365maps.com/](https://m365maps.com/)
+
