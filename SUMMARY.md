@@ -200,3 +200,5 @@
 * [Other Technologies](other-technologies/README.md)
   * [Some R\&Ds](other-technologies/some-r-and-ds/README.md)
     * [Active vs. Passive Mode in FTP](other-technologies/some-r-and-ds/active-vs.-passive-mode-in-ftp.md)
+    * [IIS Recycling and Virtual Memory Limit](other-technologies/some-r-and-ds/iis-recycling-and-virtual-memory-limit.md)
+    * [IIS Application Pool](other-technologies/some-r-and-ds/iis-application-pool.md)
