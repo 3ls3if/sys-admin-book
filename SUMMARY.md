@@ -53,6 +53,8 @@
     * [Set Hard Quota on disk space for subscription(s)](control-panels/plesk/set-hard-quota-on-disk-space-for-subscription-s.md)
     * [Changing MX, A, and CNAME Records](control-panels/plesk/changing-mx-a-and-cname-records.md)
     * [Host Node.js Application](control-panels/plesk/host-node.js-application.md)
+    * [Add FTP account](control-panels/plesk/add-ftp-account.md)
+    * [Remove FTP account](control-panels/plesk/remove-ftp-account.md)
   * [SolidCP](control-panels/solidcp.md)
   * [cPanel](control-panels/cpanel.md)
 * [Virtualization](virtualization/README.md)
