@@ -52,3 +52,5 @@ First login to onedrive in your local machine and copy the file path.
 * [https://learn.microsoft.com/en-us/sharepointmigration/migrating-content-to-onedrive-for-business](https://learn.microsoft.com/en-us/sharepointmigration/migrating-content-to-onedrive-for-business)
 * [https://learn.microsoft.com/en-us/sharepointmigration/mm-get-started](https://learn.microsoft.com/en-us/sharepointmigration/mm-get-started)
 * [https://learn.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool](https://learn.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool)
+* [https://techcommunity.microsoft.com/blog/spblog/mover-migration-now-available-worldwide/1185228](https://techcommunity.microsoft.com/blog/spblog/mover-migration-now-available-worldwide/1185228)
+* [https://learn.microsoft.com/en-us/sharepointmigration/new-and-improved-features-in-the-sharepoint-migration-tool](https://learn.microsoft.com/en-us/sharepointmigration/new-and-improved-features-in-the-sharepoint-migration-tool)
