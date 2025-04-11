@@ -191,6 +191,7 @@
 * [Migration](migration/README.md)
   * [Drive Migration](migration/drive-migration/README.md)
     * [Google Drive to One Drive](migration/drive-migration/google-drive-to-one-drive.md)
+    * [One Drive to One Drive \[SharePoint Migration Tool\]](migration/drive-migration/one-drive-to-one-drive-sharepoint-migration-tool.md)
   * [Mail Migration](migration/mail-migration/README.md)
     * [Google Workspace to Office 365](migration/mail-migration/google-workspace-to-office-365.md)
     * [IMAP to Office 365](migration/mail-migration/imap-to-office-365.md)
