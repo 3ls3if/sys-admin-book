@@ -37,4 +37,10 @@ After selecting and scanning the drives you want to migrate, use the following s
 2. <mark style="color:green;">Select the drives you want to migrate, then select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Migrate**</mark><mark style="color:green;">.</mark>
 3. <mark style="color:green;">When migration successfully completes, each drive will show a</mark> <mark style="color:green;"></mark><mark style="color:green;">**Migration status**</mark> <mark style="color:green;"></mark><mark style="color:green;">of</mark> <mark style="color:green;"></mark><mark style="color:green;">**Completed**</mark><mark style="color:green;">.</mark>
 
-\
+
+
+***
+
+## REFERENCES
+
+* [https://learn.microsoft.com/en-us/microsoft-365/admin/moveto-microsoft-365/migrate-files-migration-manager?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/admin/moveto-microsoft-365/migrate-files-migration-manager?view=o365-worldwide)
