@@ -197,6 +197,7 @@
     * [Google Workspace to Office 365](migration/mail-migration/google-workspace-to-office-365.md)
     * [IMAP to Office 365](migration/mail-migration/imap-to-office-365.md)
     * [Migration Using PST File Method](migration/mail-migration/migration-using-pst-file-method.md)
+    * [Office 365 to Google Workspace Migration](migration/mail-migration/office-365-to-google-workspace-migration.md)
   * [VM Migration](migration/vm-migration.md)
   * [Website Migration](migration/website-migration.md)
   * [Database Migration](migration/database-migration.md)
