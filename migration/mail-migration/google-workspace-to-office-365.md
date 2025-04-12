@@ -47,7 +47,7 @@ We have divided this procedure into several parts for a clear understanding. Fol
 1. <mark style="color:orange;">Later, configure the following:</mark>
 
 * <mark style="color:orange;">Creating a Google Service Account</mark>
-* <mark style="color:orange;">Enabling API Usage for Project</mark>
+* <mark style="color:orange;">Enabling API Usage for Project (Gmail API, People API, Calendar API, Contacts API).</mark>
 * <mark style="color:orange;">Granting Access to Google tenants for service accounts. Tap Next.</mark>
 
 2\. <mark style="color:green;">Furthermore, create a</mark> <mark style="color:green;"></mark><mark style="color:green;">**new migration endpoint**</mark> <mark style="color:green;"></mark><mark style="color:green;">and hit</mark> <mark style="color:green;"></mark><mark style="color:green;">**Next**</mark><mark style="color:green;">.</mark>
