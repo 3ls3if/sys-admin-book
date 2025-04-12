@@ -79,3 +79,4 @@ Your manual procedure for migration ends here. You have an alternative freeway t
 ## REFERENCES
 
 * [https://www.linkedin.com/pulse/how-migrate-google-workspace-office-365-easy-steps-lovely-baghel-sfijf/](https://www.linkedin.com/pulse/how-migrate-google-workspace-office-365-easy-steps-lovely-baghel-sfijf/)
+* [https://support.google.com/a/answer/7378726?hl=en](https://support.google.com/a/answer/7378726?hl=en)
