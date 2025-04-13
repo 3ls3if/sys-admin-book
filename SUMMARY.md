@@ -187,6 +187,8 @@
 * [Firewalls](firewalls/README.md)
   * [Windows Firewall](firewalls/windows-firewall/README.md)
     * [Allow Ports on Windows Firewall](firewalls/windows-firewall/allow-ports-on-windows-firewall.md)
+  * [Sophos Firewall](firewalls/sophos-firewall/README.md)
+    * [Set up a new firewall with Sophos Central](firewalls/sophos-firewall/set-up-a-new-firewall-with-sophos-central.md)
 * [Networking](networking/README.md)
   * [Cisco Router Config](networking/cisco-router-config.md)
   * [Cisco Switch Config](networking/cisco-switch-config/README.md)
