@@ -155,6 +155,7 @@
     * [Add email aliases to a user](email-and-office-365/office-365/add-email-aliases-to-a-user.md)
     * [Change Username or Email Address](email-and-office-365/office-365/change-username-or-email-address.md)
     * [Export Mailbox to PST From Office 365](email-and-office-365/office-365/export-mailbox-to-pst-from-office-365.md)
+    * [Import PST to Exchange Online (Microsoft O365)](email-and-office-365/office-365/import-pst-to-exchange-online-microsoft-o365.md)
   * [Google Workspace](email-and-office-365/google-workspace/README.md)
     * [Intro & Plans](email-and-office-365/google-workspace/intro-and-plans.md)
     * [Create your Google Workspace trial account](email-and-office-365/google-workspace/create-your-google-workspace-trial-account.md)
