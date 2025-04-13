@@ -182,6 +182,7 @@
     * [Add Contact Numbers in Profile Page](email-and-office-365/microsoft-teams/add-contact-numbers-in-profile-page.md)
   * [Microsoft Defender for Office 365](email-and-office-365/microsoft-defender-for-office-365/README.md)
     * [Remove blocked users from the Restricted entities page](email-and-office-365/microsoft-defender-for-office-365/remove-blocked-users-from-the-restricted-entities-page.md)
+  * [Enable archive mailboxes for Microsoft 365](email-and-office-365/enable-archive-mailboxes-for-microsoft-365.md)
 * [DevOps](devops.md)
 * [Firewalls](firewalls/README.md)
   * [Windows Firewall](firewalls/windows-firewall/README.md)
