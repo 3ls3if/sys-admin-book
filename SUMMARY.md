@@ -24,6 +24,7 @@
     * [Create a User](windows-server/basic-configurations/create-a-user.md)
     * [Add user to Administrator group](windows-server/basic-configurations/add-user-to-administrator-group.md)
     * [Add user to Remote Desktop Users group](windows-server/basic-configurations/add-user-to-remote-desktop-users-group.md)
+    * [Allow log on locally - security policy setting](windows-server/basic-configurations/allow-log-on-locally-security-policy-setting.md)
     * [Allow Multiple Remote Desktop Connections](windows-server/basic-configurations/allow-multiple-remote-desktop-connections.md)
     * [Enable Insure Guest Authentication](windows-server/basic-configurations/enable-insure-guest-authentication.md)
     * [Shrink Partition](windows-server/basic-configurations/shrink-partition.md)
