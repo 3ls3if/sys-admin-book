@@ -49,6 +49,7 @@
     * [Disable Automatic Lock Screen in Windows Server](windows-server/group-policy/disable-automatic-lock-screen-in-windows-server.md)
   * [Services](windows-server/services/README.md)
     * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
+    * [Node-windows Library](windows-server/services/node-windows-library.md)
   * [Task Scheduler](windows-server/task-scheduler/README.md)
     * [Automate Program Execution](windows-server/task-scheduler/automate-program-execution.md)
 * [Control Panels](control-panels/README.md)
