@@ -46,6 +46,7 @@
     * [Enable / Disable Copy-Paste Policy](windows-server/group-policy/enable-disable-copy-paste-policy.md)
     * [Disable Shutdown, Restart Options](windows-server/group-policy/disable-shutdown-restart-options.md)
     * [Disable Multiple Session for Single User](windows-server/group-policy/disable-multiple-session-for-single-user.md)
+    * [Disable Automatic Lock Screen in Windows Server](windows-server/group-policy/disable-automatic-lock-screen-in-windows-server.md)
   * [Services](windows-server/services/README.md)
     * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
   * [Task Scheduler](windows-server/task-scheduler/README.md)
