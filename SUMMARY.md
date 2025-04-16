@@ -88,6 +88,7 @@
     * [Change SA Account Password](database-servers/ms-sql/change-sa-account-password.md)
     * [Enable Network Access to SQL Express](database-servers/ms-sql/enable-network-access-to-sql-express.md)
     * [Create and configure a user in MSSQL](database-servers/ms-sql/create-and-configure-a-user-in-mssql.md)
+    * [Clear SQL Server Cache](database-servers/ms-sql/clear-sql-server-cache.md)
 * [Web Dev Stacks](web-dev-stacks.md)
 * [IT Ticketing Systems](it-ticketing-systems/README.md)
   * [Jira Ticketing System](it-ticketing-systems/jira-ticketing-system.md)
