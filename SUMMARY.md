@@ -151,6 +151,7 @@
     * [Creating & Managing Roles](email-and-office-365/office-365/creating-and-managing-roles.md)
     * [Add a Domain](email-and-office-365/office-365/add-a-domain.md)
     * [Manage MFA](email-and-office-365/office-365/manage-mfa.md)
+    * [Let users reset their own passwords](email-and-office-365/office-365/let-users-reset-their-own-passwords.md)
     * [Assign Global Admin Roles](email-and-office-365/office-365/assign-global-admin-roles.md)
     * [Create APP Password](email-and-office-365/office-365/create-app-password.md)
     * [Change a user name and email address](email-and-office-365/office-365/change-a-user-name-and-email-address.md)
