@@ -165,6 +165,7 @@
     * [Import PST to Exchange Online (Microsoft O365)](email-and-office-365/office-365/import-pst-to-exchange-online-microsoft-o365.md)
     * [Enable archive mailboxes for Microsoft 365](email-and-office-365/office-365/enable-archive-mailboxes-for-microsoft-365.md)
     * [Grant Export Permission in M365 Compliance Center](email-and-office-365/office-365/grant-export-permission-in-m365-compliance-center.md)
+    * [Generate Transfer Token](email-and-office-365/office-365/generate-transfer-token.md)
   * [Google Workspace](email-and-office-365/google-workspace/README.md)
     * [Intro & Plans](email-and-office-365/google-workspace/intro-and-plans.md)
     * [Create your Google Workspace trial account](email-and-office-365/google-workspace/create-your-google-workspace-trial-account.md)
