@@ -4,6 +4,18 @@ icon: download
 
 # Export Mailbox to PST From Office 365
 
+{% hint style="warning" %}
+#### **Use Internet Explorer or Edge (with ClickOnce Enabled) and Export permission should be enabled for eDiscovery Manager**
+
+Downloading PSTs from eDiscovery **requires ClickOnce**, which only works in:
+
+* **Internet Explorer (fully supported)**
+* **Microsoft Edge (ClickOnce must be enabled)** — Make sure you've done this:
+  * Go to: `edge://flags/#edge-click-once`
+  * Set **ClickOnce support** to **Enabled**
+  * Restart Edge
+{% endhint %}
+
 ## Export PST from Office 365 Via eDiscovery Search
 
 1. <mark style="color:green;">Log in to your Office 365 Admin portal using your credentials.</mark>
