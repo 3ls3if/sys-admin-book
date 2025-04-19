@@ -77,6 +77,7 @@
     * [Installing PHP](web-servers/iis/installing-php.md)
     * [Deploying a Laravel app on Windows using IIS](web-servers/iis/deploying-a-laravel-app-on-windows-using-iis.md)
     * [Update PHP Version in IIS](web-servers/iis/update-php-version-in-iis.md)
+    * [Host a Node.js /w Next.js Application](web-servers/iis/host-a-node.js-w-next.js-application.md)
 * [VPNs and Proxy Servers](vpns-and-proxy-servers/README.md)
   * [Reverse Proxy](vpns-and-proxy-servers/reverse-proxy/README.md)
     * [IIS - Node.js Application](vpns-and-proxy-servers/reverse-proxy/iis-node.js-application.md)
