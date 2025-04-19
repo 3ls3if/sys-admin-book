@@ -227,7 +227,7 @@
     * [Visualize Data in Grafana](monitoring/grafana/visualize-data-in-grafana.md)
   * [Loki](monitoring/loki.md)
 * [Data Center](data-center/README.md)
-  * [HPE ProLiant DL380 Gen10 Configuration](data-center/hpe-proliant-dl380-gen10-configuration.md)
+  * [HPE ProLiant ILO Configuration](data-center/hpe-proliant-ilo-configuration.md)
 * [Other Technologies](other-technologies/README.md)
   * [Some R\&Ds](other-technologies/some-r-and-ds/README.md)
     * [Active vs. Passive Mode in FTP](other-technologies/some-r-and-ds/active-vs.-passive-mode-in-ftp.md)
