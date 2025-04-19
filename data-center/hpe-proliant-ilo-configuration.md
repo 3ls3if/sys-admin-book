@@ -6,7 +6,6 @@ icon: gear
 
 {% hint style="success" %}
 iLO (Integrated Lights-Out) is a proprietary **embedded server management technology by Hewlett Packard Enterprise (HPE)**. It's essentially a **dedicated management processor** built into HPE ProLiant and some other HPE servers, allowing administrators to **remotely manage servers** even when the OS is not running or the server is powered off.\
-\
 
 
 #### Key Uses of iLO in HPE Servers:
@@ -98,7 +97,7 @@ Procedure
 6. <mark style="color:green;">Disable DHCP:</mark>
    1. <mark style="color:orange;">Click Network options.</mark>
    2. <mark style="color:orange;">Select OFF in the DHCP Enable menu. The IP Address, Subnet Mask, and Gateway IP Address boxes become editable. When DHCP enable is set to ON, user cannot edit these values.</mark>
-7. <mark style="color:green;">Enter values in theIP Address,Subnet Mask and Gateway IP Address boxes.</mark>
+7. <mark style="color:green;">Enter values in the IP Address, Subnet Mask and Gateway IP Address boxes.</mark>
 8. <mark style="color:green;">To save the changes and exit, press F12. The iLO 5 configuration utility prompts user to confirm that user want to save the pending configuration changes.</mark>
 9.  <mark style="color:green;">To save and exit, clickYes - Save Changes.</mark>
 
@@ -109,7 +108,7 @@ Procedure
 11. <mark style="color:green;">Resume the normal boot process</mark>
     1. <mark style="color:orange;">Start the iLO remote console. The iLO 5 configuration utility is still open from the previous session.</mark>
     2. <mark style="color:orange;">Press ESC several times to navigate to the System Configuration page.</mark>
-    3. <mark style="color:orange;">To exit the system utilities and resume the normal boot process, clickExit and resume system boot.</mark>
+    3. <mark style="color:orange;">To exit the system utilities and resume the normal boot process, click Exit and resume system boot.</mark>
 
 &#x20;
 
@@ -125,6 +124,53 @@ If you use DHCP:
 
 * <mark style="color:green;">The iLO management port must be connected to a network that is connected to a DHCP server, and iLO must be on the network before power is applied. DHCP sends a request soon after power is applied. If the DHCP request is not answered when iLO first boots, it will reissue the request at 90-second intervals.</mark>
 * <mark style="color:green;">The DHCP server must be configured to provide DNS and WINS name resolution.</mark>
+
+***
+
+## **Access iLO from Your Laptop**
+
+**1. Connect to the Same Network**
+
+<mark style="color:green;">Make sure your</mark> <mark style="color:green;"></mark><mark style="color:green;">**laptop is on the same network/subnet**</mark> <mark style="color:green;"></mark><mark style="color:green;">as the iLO port, unless you've set it up with a public IP or through VPN access.</mark>
+
+**2. Get the iLO IP Address**
+
+You probably set a static IP or got it from DHCP. If unsure:
+
+* <mark style="color:green;">Check the iLO display on the server’s front panel (if it has one).</mark>
+* <mark style="color:green;">Boot into BIOS → iLO Configuration Utility (press</mark> <mark style="color:green;"></mark><mark style="color:green;">`F8`</mark> <mark style="color:green;"></mark><mark style="color:green;">during POST when prompted).</mark>
+* <mark style="color:green;">Or check DHCP logs/router if you used dynamic IP.</mark>
+
+**3. Access via Web Browser**
+
+* <mark style="color:green;">Open a browser (Chrome/Firefox/Edge).</mark>
+*   <mark style="color:green;">Type in the iLO IP address:</mark>
+
+    ```
+    https://<iLO_IP>
+    ```
+
+    <mark style="color:green;">Example:</mark>
+
+    ```
+    https://192.168.1.100
+    ```
+* <mark style="color:green;">Accept the SSL certificate warning (iLO uses a self-signed cert by default).</mark>
+
+**4. Log in**
+
+* <mark style="color:green;">Use the</mark> <mark style="color:green;"></mark><mark style="color:green;">**iLO credentials**</mark> <mark style="color:green;"></mark><mark style="color:green;">you configured (or default ones from the server tag/card if unchanged).</mark>
+* <mark style="color:green;">Default iLO username is often</mark> <mark style="color:green;"></mark><mark style="color:green;">`Administrator`</mark><mark style="color:green;">.</mark>
+
+**5. You're in!**
+
+Now you’ll see the **iLO web interface**, where you can:
+
+* <mark style="color:green;">View server health</mark>
+* <mark style="color:green;">Open remote console</mark>
+* <mark style="color:green;">Mount virtual media</mark>
+* <mark style="color:green;">Power cycle the server</mark>
+* <mark style="color:green;">Configure settings</mark>
 
 
 
