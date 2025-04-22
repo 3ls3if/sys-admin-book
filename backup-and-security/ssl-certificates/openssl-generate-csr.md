@@ -75,7 +75,11 @@ This displays the CSR details and ensures everything is correct.
 
 
 
+{% hint style="warning" %}
+## Export Public Key from CRT file
 
+openssl x509 -in certificate.crt -pubkey -noout
+{% endhint %}
 
 ***
 
