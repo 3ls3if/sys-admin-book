@@ -41,6 +41,7 @@
     * [Configure Passive Mode in FileZilla Server](windows-server/ftp-server/configure-passive-mode-in-filezilla-server.md)
     * [Configuring Windows Firewall for FileZilla Server](windows-server/ftp-server/configuring-windows-firewall-for-filezilla-server.md)
     * [FileZilla: Password reset](windows-server/ftp-server/filezilla-password-reset.md)
+    * [Generate a New Self-Signed Certificate](windows-server/ftp-server/generate-a-new-self-signed-certificate.md)
   * [Group Policy](windows-server/group-policy/README.md)
     * [Block Access to the Control Panel for All Users](windows-server/group-policy/block-access-to-the-control-panel-for-all-users.md)
     * [Create a Logon Banner (Legal Notice)](windows-server/group-policy/create-a-logon-banner-legal-notice.md)
