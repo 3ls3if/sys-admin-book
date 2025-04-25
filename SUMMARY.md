@@ -61,6 +61,7 @@
     * [Host Node.js Application](control-panels/plesk/host-node.js-application.md)
     * [Add FTP account](control-panels/plesk/add-ftp-account.md)
     * [Remove FTP account](control-panels/plesk/remove-ftp-account.md)
+    * [Download a folder using Plesk File Manager](control-panels/plesk/download-a-folder-using-plesk-file-manager.md)
   * [SolidCP](control-panels/solidcp.md)
   * [cPanel](control-panels/cpanel.md)
 * [Virtualization](virtualization/README.md)
