@@ -4,6 +4,10 @@ icon: square-minus
 
 # Recovering administrator access to your account
 
+### Shortcut Link
+
+* [https://toolbox.googleapps.com/apps/recovery/domain\_in\_use](https://toolbox.googleapps.com/apps/recovery/domain_in_use)
+
 ### Recover administrator access using support-assisted recovery
 
 {% hint style="warning" %}
