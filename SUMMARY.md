@@ -54,6 +54,7 @@
     * [Node-windows Library](windows-server/services/node-windows-library.md)
   * [Task Scheduler](windows-server/task-scheduler/README.md)
     * [Automate Program Execution](windows-server/task-scheduler/automate-program-execution.md)
+    * [Restart Windows Server Daily](windows-server/task-scheduler/restart-windows-server-daily.md)
 * [Control Panels](control-panels/README.md)
   * [Plesk](control-panels/plesk/README.md)
     * [Set Hard Quota on disk space for subscription(s)](control-panels/plesk/set-hard-quota-on-disk-space-for-subscription-s.md)
