@@ -57,6 +57,7 @@
     * [Restart Windows Server Daily](windows-server/task-scheduler/restart-windows-server-daily.md)
   * [Auditing and Diagnostincs](windows-server/auditing-and-diagnostincs/README.md)
     * [Enabling the System Event Audit Log](windows-server/auditing-and-diagnostincs/enabling-the-system-event-audit-log.md)
+    * [Audit RDP Port Change Event](windows-server/auditing-and-diagnostincs/audit-rdp-port-change-event.md)
   * [Event Viewer](windows-server/event-viewer/README.md)
     * [Restart / Shutdown Event](windows-server/event-viewer/restart-shutdown-event.md)
 * [Control Panels](control-panels/README.md)
