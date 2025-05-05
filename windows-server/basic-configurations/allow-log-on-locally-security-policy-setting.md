@@ -56,3 +56,5 @@ To allow local user logins on a Windows Server, you need to configure the "<mark
 ## REFERENCES
 
 * [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/allow-log-on-locally](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/allow-log-on-locally)
+* [https://learn.microsoft.com/en-us/answers/questions/2188466/windows-local-login?forum=windowserver-all\&referrer=answers](https://learn.microsoft.com/en-us/answers/questions/2188466/windows-local-login?forum=windowserver-all\&referrer=answers)
+* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-groups](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-groups)
