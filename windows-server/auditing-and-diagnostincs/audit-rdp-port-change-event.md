@@ -57,3 +57,6 @@ Security Settings → Advanced Audit Policy Configuration → Object Access
 
 
 
+{% hint style="warning" %}
+gpupdate /force
+{% endhint %}
