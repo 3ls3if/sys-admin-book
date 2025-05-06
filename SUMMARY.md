@@ -98,6 +98,7 @@
     * [Enable Network Access to SQL Express](database-servers/ms-sql/enable-network-access-to-sql-express.md)
     * [Create and configure a user in MSSQL](database-servers/ms-sql/create-and-configure-a-user-in-mssql.md)
     * [Clear SQL Server Cache](database-servers/ms-sql/clear-sql-server-cache.md)
+    * [Setting Infinite Timeout in SQL Server Contexts](database-servers/ms-sql/setting-infinite-timeout-in-sql-server-contexts.md)
 * [Web Dev Stacks](web-dev-stacks/README.md)
   * [MERN (w/ Next)](web-dev-stacks/mern-w-next/README.md)
     * [Build and Run Node.js Project with Next.js](web-dev-stacks/mern-w-next/build-and-run-node.js-project-with-next.js.md)
