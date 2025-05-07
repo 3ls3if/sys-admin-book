@@ -145,6 +145,7 @@
     * [Not receiving email](email-and-office-365/troubleshooting/not-receiving-email.md)
     * [Office 365 Apps Activation Error](email-and-office-365/troubleshooting/office-365-apps-activation-error.md)
     * [Gmail Issue: Clearing Cache and Cookies](email-and-office-365/troubleshooting/gmail-issue-clearing-cache-and-cookies.md)
+    * [Excel worksheet, right click insert not functioning](email-and-office-365/troubleshooting/excel-worksheet-right-click-insert-not-functioning.md)
   * [Mail Clients](email-and-office-365/mail-clients/README.md)
     * [Outlook](email-and-office-365/mail-clients/outlook/README.md)
       * [Maximum number of Exchange accounts in an Outlook profile](email-and-office-365/mail-clients/outlook/maximum-number-of-exchange-accounts-in-an-outlook-profile.md)
