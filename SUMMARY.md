@@ -141,6 +141,8 @@
       * [MS SQL Restore Backup](backup-and-security/backup/database/ms-sql-restore-backup.md)
   * [Microsoft Defender for Endpoint](backup-and-security/microsoft-defender-for-endpoint/README.md)
     * [Introduction & Licenses](backup-and-security/microsoft-defender-for-endpoint/introduction-and-licenses.md)
+  * [Vulnerability Scanning](backup-and-security/vulnerability-scanning/README.md)
+    * [OpenVAS Quick Guide](backup-and-security/vulnerability-scanning/openvas-quick-guide.md)
 * [Email and Office 365](email-and-office-365/README.md)
   * [Troubleshooting](email-and-office-365/troubleshooting/README.md)
     * [Run a message trace in the Exchange admin center](email-and-office-365/troubleshooting/run-a-message-trace-in-the-exchange-admin-center.md)
