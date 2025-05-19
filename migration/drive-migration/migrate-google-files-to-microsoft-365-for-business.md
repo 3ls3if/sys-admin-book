@@ -44,3 +44,5 @@ After selecting and scanning the drives you want to migrate, use the following s
 ## REFERENCES
 
 * [https://learn.microsoft.com/en-us/microsoft-365/admin/moveto-microsoft-365/migrate-files-migration-manager?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/admin/moveto-microsoft-365/migrate-files-migration-manager?view=o365-worldwide)
+* [https://learn.microsoft.com/en-us/microsoft-365/admin/moveto-microsoft-365/migrate-files-migration-manager?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/admin/moveto-microsoft-365/migrate-files-migration-manager?view=o365-worldwide)
+* [https://support.microsoft.com/en-us/topic/this-article-has-been-retired-24399d07-7368-4bf4-81d6-7b7b95134dea](https://support.microsoft.com/en-us/topic/this-article-has-been-retired-24399d07-7368-4bf4-81d6-7b7b95134dea)
