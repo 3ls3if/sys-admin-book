@@ -19,6 +19,8 @@
     * [Setting Microsoft Teams Notifications in MacOS](system-configuration/mac/setting-microsoft-teams-notifications-in-macos.md)
     * [Download and Install Whatsapp](system-configuration/mac/download-and-install-whatsapp.md)
 * [Windows Server](<README (1).md>)
+  * [Troubleshooting](windows-server/troubleshooting/README.md)
+    * [100% Disk Usage Issue](windows-server/troubleshooting/100-disk-usage-issue.md)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
     * [Change Default RDP Port](windows-server/basic-configurations/change-default-rdp-port.md)
