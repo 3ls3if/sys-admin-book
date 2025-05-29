@@ -42,3 +42,11 @@ Note: The option to allow browser notifications may appear only after selecting 
 * Go to **System > Notifications**.
 * Ensure that **Notifications** are turned **On**.
 * Scroll down to find your browser (e.g., **Google Chrome** or **Microsoft Edge**) and ensure that notifications are enabled for it.
+
+
+
+***
+
+## REFERENCES
+
+* [https://youtu.be/TZ4oDf\_rPOo](https://youtu.be/TZ4oDf_rPOo)
