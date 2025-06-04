@@ -71,3 +71,4 @@ Intune is priced per user, per month, and organizations can purchase it as a sta
 
 * [https://www.techtarget.com/searchitchannel/definition/Microsoft-Intune](https://www.techtarget.com/searchitchannel/definition/Microsoft-Intune)
 * [https://www.microsoft.com/en-us/security/business/endpoint-management/microsoft-intune](https://www.microsoft.com/en-us/security/business/endpoint-management/microsoft-intune)
+* [https://www.microsoft.com/en-us/security/business/microsoft-intune-pricing](https://www.microsoft.com/en-us/security/business/microsoft-intune-pricing)
