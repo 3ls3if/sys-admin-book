@@ -1,3 +1,7 @@
+---
+icon: building-shield
+---
+
 # Create a Retention Policy for Archiving in M365
 
 ## Create retention tags – rules for email archiving
