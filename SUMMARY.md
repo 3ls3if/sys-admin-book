@@ -147,6 +147,8 @@
       * [MS SQL Restore Backup](backup-and-security/backup/database/ms-sql-restore-backup.md)
   * [Microsoft Defender for Endpoint](backup-and-security/microsoft-defender-for-endpoint/README.md)
     * [Introduction & Licenses](backup-and-security/microsoft-defender-for-endpoint/introduction-and-licenses.md)
+  * [Microsoft Intune - Endpoint Management](backup-and-security/microsoft-intune-endpoint-management/README.md)
+    * [Product Introduction](backup-and-security/microsoft-intune-endpoint-management/product-introduction.md)
   * [Vulnerability Scanning](backup-and-security/vulnerability-scanning/README.md)
     * [OpenVAS Quick Guide](backup-and-security/vulnerability-scanning/openvas-quick-guide.md)
     * [Nessus Quick Guide](backup-and-security/vulnerability-scanning/nessus-quick-guide.md)
