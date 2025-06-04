@@ -225,6 +225,8 @@
     * [Add Contact Numbers in Profile Page](email-and-office-365/microsoft-teams/add-contact-numbers-in-profile-page.md)
   * [Microsoft Defender for Office 365](email-and-office-365/microsoft-defender-for-office-365/README.md)
     * [Remove blocked users from the Restricted entities page](email-and-office-365/microsoft-defender-for-office-365/remove-blocked-users-from-the-restricted-entities-page.md)
+  * [Microsoft Purview](email-and-office-365/microsoft-purview/README.md)
+    * [Create a Retention Policy for Archiving in M365](email-and-office-365/microsoft-purview/create-a-retention-policy-for-archiving-in-m365.md)
 * [DevOps](devops.md)
 * [Firewalls and Access Points](firewalls-and-access-points/README.md)
   * [Windows Firewall](firewalls-and-access-points/windows-firewall/README.md)
