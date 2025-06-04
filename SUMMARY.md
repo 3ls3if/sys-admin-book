@@ -173,6 +173,7 @@
       * [Add Mail Signatures](email-and-office-365/mail-clients/apple-mail/add-mail-signatures.md)
     * [Gmail](email-and-office-365/mail-clients/gmail/README.md)
       * [Mail Forwarding to Another Account](email-and-office-365/mail-clients/gmail/mail-forwarding-to-another-account.md)
+      * [Set Up an Auto-Reply (Vacation Responder) in Gmail](email-and-office-365/mail-clients/gmail/set-up-an-auto-reply-vacation-responder-in-gmail.md)
   * [Office 365](email-and-office-365/office-365/README.md)
     * [Intro & Subscriptions](email-and-office-365/office-365/intro-and-subscriptions.md)
     * [How to Create a Trial Account](email-and-office-365/office-365/how-to-create-a-trial-account.md)
