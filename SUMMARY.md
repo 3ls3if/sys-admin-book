@@ -71,6 +71,7 @@
     * [Remove FTP account](control-panels/plesk/remove-ftp-account.md)
     * [Download a folder using Plesk File Manager](control-panels/plesk/download-a-folder-using-plesk-file-manager.md)
     * [Install WordPress on domain using WP Toolkit](control-panels/plesk/install-wordpress-on-domain-using-wp-toolkit.md)
+    * [Change the name of a Subscription system user](control-panels/plesk/change-the-name-of-a-subscription-system-user.md)
   * [OVI Panel](control-panels/ovi-panel/README.md)
     * [DNS Zone Editor](control-panels/ovi-panel/dns-zone-editor.md)
   * [SolidCP](control-panels/solidcp/README.md)
