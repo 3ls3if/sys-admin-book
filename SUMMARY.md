@@ -163,6 +163,7 @@
     * [Gmail Issue: Clearing Cache and Cookies](email-and-office-365/troubleshooting/gmail-issue-clearing-cache-and-cookies.md)
     * [Excel worksheet, right click insert not functioning](email-and-office-365/troubleshooting/excel-worksheet-right-click-insert-not-functioning.md)
     * [Microsoft 365 Apps activation error: “Your organization has disabled this device”](email-and-office-365/troubleshooting/microsoft-365-apps-activation-error-your-organization-has-disabled-this-device.md)
+  * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup.md)
   * [Email Authentication](email-and-office-365/email-authentication/README.md)
     * [Protocols](email-and-office-365/email-authentication/protocols.md)
   * [Mail Clients](email-and-office-365/mail-clients/README.md)
