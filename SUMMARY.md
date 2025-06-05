@@ -142,6 +142,8 @@
     * [Certbot - Install SSL](backup-and-security/ssl-certificates/certbot-install-ssl.md)
     * [Export Leaf, Root, and Intermediate Files](backup-and-security/ssl-certificates/export-leaf-root-and-intermediate-files.md)
     * [XAMPP - Let's Encrypt SSL Installation](backup-and-security/ssl-certificates/xampp-lets-encrypt-ssl-installation.md)
+    * [JBoss Web Server: CSR Generation](backup-and-security/ssl-certificates/jboss-web-server-csr-generation.md)
+    * [JBoss: Install SSL Certificate](backup-and-security/ssl-certificates/jboss-install-ssl-certificate.md)
   * [Backup](backup-and-security/backup/README.md)
     * [Database](backup-and-security/backup/database/README.md)
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
