@@ -242,6 +242,7 @@
     * [Set up a new firewall with Sophos Central](firewalls-and-access-points/sophos-firewall/set-up-a-new-firewall-with-sophos-central.md)
     * [Enable Sophos Central management of Sophos Firewall](firewalls-and-access-points/sophos-firewall/enable-sophos-central-management-of-sophos-firewall.md)
 * [Networking](networking/README.md)
+  * [Troubleshooting](networking/troubleshooting.md)
   * [Cisco Router Config](networking/cisco-router-config.md)
   * [Cisco Switch Config](networking/cisco-switch-config/README.md)
     * [Basic Data and Voice VLAN Setup Homelab](networking/cisco-switch-config/basic-data-and-voice-vlan-setup-homelab.md)
