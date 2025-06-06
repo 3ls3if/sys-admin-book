@@ -101,3 +101,4 @@ If Microsoft 365 blocks or flags your connector, try the following:
 
 * [https://medium.com/@kumarnirbhay041/how-to-set-up-connectors-between-microsoft-365-and-smartermail-1cc9df6a0403](https://medium.com/@kumarnirbhay041/how-to-set-up-connectors-between-microsoft-365-and-smartermail-1cc9df6a0403)
 * [https://support.duocircle.com/support/solutions/articles/5000875472-outbound-routing-from-office-365-to-smarthost](https://support.duocircle.com/support/solutions/articles/5000875472-outbound-routing-from-office-365-to-smarthost)
+* [https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail](https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
