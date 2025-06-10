@@ -110,6 +110,7 @@
     * [Clear SQL Server Cache](database-servers/ms-sql/clear-sql-server-cache.md)
     * [Setting Infinite Timeout in SQL Server Contexts](database-servers/ms-sql/setting-infinite-timeout-in-sql-server-contexts.md)
     * [Take SQL Server Database Offline](database-servers/ms-sql/take-sql-server-database-offline.md)
+    * [Memory configuration](database-servers/ms-sql/memory-configuration.md)
 * [Web Dev Stacks](web-dev-stacks/README.md)
   * [MERN (w/ Next)](web-dev-stacks/mern-w-next/README.md)
     * [Build and Run Node.js Project with Next.js](web-dev-stacks/mern-w-next/build-and-run-node.js-project-with-next.js.md)
