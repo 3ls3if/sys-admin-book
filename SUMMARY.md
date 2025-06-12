@@ -103,6 +103,7 @@
   * [MS SQL](database-servers/ms-sql/README.md)
     * [Download and Install](database-servers/ms-sql/download-and-install.md)
     * [Install SSMS](database-servers/ms-sql/install-ssms.md)
+    * [Uninstall an Instance of SQL Server](database-servers/ms-sql/uninstall-an-instance-of-sql-server.md)
     * [Enable SA Account](database-servers/ms-sql/enable-sa-account.md)
     * [Change SA Account Password](database-servers/ms-sql/change-sa-account-password.md)
     * [Enable Network Access to SQL Express](database-servers/ms-sql/enable-network-access-to-sql-express.md)
