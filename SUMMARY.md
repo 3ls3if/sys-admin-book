@@ -92,6 +92,7 @@
     * [Configure Default Site](web-servers/iis/configure-default-site.md)
     * [Application Pool](web-servers/iis/application-pool.md)
     * [Installing PHP](web-servers/iis/installing-php.md)
+    * [Deploy a PHP Application](web-servers/iis/deploy-a-php-application.md)
     * [Deploying a Laravel app on Windows using IIS](web-servers/iis/deploying-a-laravel-app-on-windows-using-iis.md)
     * [Update PHP Version in IIS](web-servers/iis/update-php-version-in-iis.md)
     * [Host a Node.js /w Next.js Application](web-servers/iis/host-a-node.js-w-next.js-application.md)
