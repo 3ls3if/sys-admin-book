@@ -62,6 +62,7 @@
     * [Enabling the System Event Audit Log](windows-server/auditing-and-diagnostincs/enabling-the-system-event-audit-log.md)
     * [Audit RDP Port Change Event](windows-server/auditing-and-diagnostincs/audit-rdp-port-change-event.md)
     * [Check the read/write speed of your hard drive](windows-server/auditing-and-diagnostincs/check-the-read-write-speed-of-your-hard-drive.md)
+    * [Clear temp file and .trc file](windows-server/auditing-and-diagnostincs/clear-temp-file-and-.trc-file.md)
   * [Event Viewer](windows-server/event-viewer/README.md)
     * [Restart / Shutdown Event](windows-server/event-viewer/restart-shutdown-event.md)
 * [Control Panels](control-panels/README.md)
