@@ -166,6 +166,7 @@
     * [Nessus Quick Guide](backup-and-security/vulnerability-scanning/nessus-quick-guide.md)
   * [Acronis](backup-and-security/acronis/README.md)
     * [Download and Install the Acronis Cyber Protection Agent](backup-and-security/acronis/download-and-install-the-acronis-cyber-protection-agent.md)
+    * [Performing a file-level recovery](backup-and-security/acronis/performing-a-file-level-recovery.md)
 * [Email and Office 365](email-and-office-365/README.md)
   * [Troubleshooting](email-and-office-365/troubleshooting/README.md)
     * [Run a message trace in the Exchange admin center](email-and-office-365/troubleshooting/run-a-message-trace-in-the-exchange-admin-center.md)
