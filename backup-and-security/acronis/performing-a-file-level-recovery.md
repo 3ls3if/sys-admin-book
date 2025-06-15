@@ -1,5 +1,5 @@
 ---
-icon: file-circle-check
+icon: recycle
 ---
 
 # Performing a file-level recovery
@@ -8,41 +8,28 @@ icon: file-circle-check
 
 
 
-1.  Go back to the service console (SC).
+1. Please select _DEVICES_-> _All devices_ in the blue main menu on the left.
+2. In the device view select the server device and select _Recovery_ on the right popping up menu.
 
-    Please select _DEVICES_ -> _All devices_ in the blue main menu on the left.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+3. Select the most recent recovery point and click on _Recover > Files/folders_
 
-2. In the device view select the new machine and click the "Gear" on the top right side, select Protect on the popping up menu (if the machine is not yet their, please check Activities and wait some Minutes for the system to finalize registration process)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+4. Browse and select _C:\Backupfiles_ folder and click _Recover_ on the right popping up menu.
 
-3. Create a new Protection plan for Backup.
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-**Please use the following details:**
+5. Make sure _Original location_ is selected and click Start Recovery.
 
-Protection Plan name: ses-hrzps3d0o-file (If the correct vm session ID is not shown, please click the gear on top to find you actual ID.)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Backup > What to back up: Files/folders – C:\Backupfiles
+6. Select _Overwrite an existing file if it is older_ and click _PROCEED_
 
-Backup > Where to back up: Cloud Storage
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Backup > Schedule: Daily, Monday to Friday at 12.30pm
-
-Backup > How long to keep: By number of copies, 5 copies
-
-Backup > Encryption: Enable, set a password (Acronis123) and select AES256
-
-Keep all other Backup module settings on defaults
-
-Disable all other modules (except for Backup)
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-4. Once the Protection Plan has been created, run it once manually to create a backup.
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
