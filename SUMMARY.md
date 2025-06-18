@@ -190,6 +190,7 @@
       * [Create Email Singature](email-and-office-365/mail-clients/outlook/create-email-singature.md)
       * [Gmail Account Login in Outlook](email-and-office-365/mail-clients/outlook/gmail-account-login-in-outlook.md)
       * [Enable desktop notifications for Outlook on the Web (OWA) in Windows](email-and-office-365/mail-clients/outlook/enable-desktop-notifications-for-outlook-on-the-web-owa-in-windows.md)
+      * [Move Mails to Specific Folders](email-and-office-365/mail-clients/outlook/move-mails-to-specific-folders.md)
     * [Apple Mail](email-and-office-365/mail-clients/apple-mail/README.md)
       * [Add email accounts in Mail on Mac](email-and-office-365/mail-clients/apple-mail/add-email-accounts-in-mail-on-mac.md)
       * [Add Mail Signatures](email-and-office-365/mail-clients/apple-mail/add-mail-signatures.md)
