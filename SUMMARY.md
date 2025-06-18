@@ -65,6 +65,7 @@
     * [Clear temp file and .trc file](windows-server/auditing-and-diagnostincs/clear-temp-file-and-.trc-file.md)
   * [Event Viewer](windows-server/event-viewer/README.md)
     * [Restart / Shutdown Event](windows-server/event-viewer/restart-shutdown-event.md)
+  * [Active Directory](windows-server/active-directory.md)
 * [Control Panels](control-panels/README.md)
   * [Plesk](control-panels/plesk/README.md)
     * [Set Hard Quota on disk space for subscription(s)](control-panels/plesk/set-hard-quota-on-disk-space-for-subscription-s.md)
