@@ -155,6 +155,7 @@
     * [JBoss Web Server: CSR Generation](backup-and-security/ssl-certificates/jboss-web-server-csr-generation.md)
     * [JBoss: Install SSL Certificate](backup-and-security/ssl-certificates/jboss-install-ssl-certificate.md)
     * [Export a Let’s Encrypt SSL Certificate with Private Key via MMC Console](backup-and-security/ssl-certificates/export-a-lets-encrypt-ssl-certificate-with-private-key-via-mmc-console.md)
+    * [OpenSSL: Extract Private Key](backup-and-security/ssl-certificates/openssl-extract-private-key.md)
   * [Backup](backup-and-security/backup/README.md)
     * [Database](backup-and-security/backup/database/README.md)
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
