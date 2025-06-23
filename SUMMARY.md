@@ -184,6 +184,7 @@
     * [Gmail Issue: Clearing Cache and Cookies](email-and-office-365/troubleshooting/gmail-issue-clearing-cache-and-cookies.md)
     * [Excel worksheet, right click insert not functioning](email-and-office-365/troubleshooting/excel-worksheet-right-click-insert-not-functioning.md)
     * [Microsoft 365 Apps activation error: “Your organization has disabled this device”](email-and-office-365/troubleshooting/microsoft-365-apps-activation-error-your-organization-has-disabled-this-device.md)
+    * [Fix Selected user account does not exist in tenant](email-and-office-365/troubleshooting/fix-selected-user-account-does-not-exist-in-tenant.md)
   * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup/README.md)
     * [Set Up Connectors Between Microsoft 365 and SmarterMail](email-and-office-365/hybrid-mail-setup/set-up-connectors-between-microsoft-365-and-smartermail.md)
   * [Email Authentication](email-and-office-365/email-authentication/README.md)
