@@ -1,0 +1,6 @@
+---
+icon: f
+---
+
+# FortiGate Firewall
+
