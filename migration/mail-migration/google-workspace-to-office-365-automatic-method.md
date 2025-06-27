@@ -48,6 +48,17 @@ It might take up to 15 minutes to propagate role assignment changes across the g
 
 ***
 
+{% hint style="danger" %}
+## ISSUES
+
+* **Problem:** The Google Cloud service account used for the migration might not have the required permissions to create and manage keys, leading to the JSON file not being downloaded automatically.&#x20;
+* **Solution:**
+  * Navigate to Google Cloud's IAM & Admin console and ensure the service account has the **Organization Policy Administrator** role.&#x20;
+  * In **Organization Policies**, locate **"Disable service account key creation"** and set it to **OFF.**&#x20;
+{% endhint %}
+
+***
+
 ## Start an automated Google Workspace migration batch in EAC
 
 1.  In the [Exchange Admin center](https://admin.exchange.microsoft.com/), go to **Migration**, and then select **Add migration batch**.
@@ -198,3 +209,5 @@ The filter options for the Google Workspace migration are:
 
 * [https://learn.microsoft.com/en-us/exchange/mailbox-migration/google-workspace-migration-prerequisites](https://learn.microsoft.com/en-us/exchange/mailbox-migration/google-workspace-migration-prerequisites)
 * [https://learn.microsoft.com/en-us/exchange/mailbox-migration/automated-migration-neweac](https://learn.microsoft.com/en-us/exchange/mailbox-migration/automated-migration-neweac)
+* [https://www.c-sharpcorner.com/article/fix-google-to-office-365-migration-error-service-account-key/](https://www.c-sharpcorner.com/article/fix-google-to-office-365-migration-error-service-account-key/)
+* [https://learn.microsoft.com/en-us/answers/questions/1624193/google-workspace-migration-json-download-issue](https://learn.microsoft.com/en-us/answers/questions/1624193/google-workspace-migration-json-download-issue)
