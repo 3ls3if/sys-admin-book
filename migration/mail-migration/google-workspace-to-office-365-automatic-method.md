@@ -57,6 +57,27 @@ It might take up to 15 minutes to propagate role assignment changes across the g
   * In **Organization Policies**, locate **"Disable service account key creation"** and set it to **OFF.**&#x20;
 {% endhint %}
 
+{% hint style="danger" %}
+## Additional Settings
+
+I had the same problem after completing the EOP wizard for Workspace migration. Took me a couple of hours to figure out 8-/
+
+With a Workspace super admin, login to [https://console.cloud.google.com](https://console.cloud.google.com). Make sure you're working in the root org.
+
+* Select IAM and admin.
+* In IAM on left-hand menu, edit permissions for organisation.
+* Add Organisation Policy Administrator and save.
+* Go to Organisation policies in left-hand menu.
+* Search for 'Disable service account key creation'.
+* Edit policy, set Enforcement to Off and save.
+* Change workspace from root org to the project the 365 wizard created. Mine was called projectnamempij.
+* In IAM and admin, go to Service accounts in left-hand menu.
+* In the 3 dots menu besides the service account, select Manage keys.
+* When in service account, Add key -> Create new key.
+* The json file is created and downloaded.
+* Create a new endpoint in Exchange Online and use the downloaded json
+{% endhint %}
+
 ***
 
 ## Start an automated Google Workspace migration batch in EAC
