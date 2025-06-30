@@ -6,6 +6,22 @@ icon: g
 
 ## Prerequisites
 
+{% hint style="success" %}
+## Need to Enable the below Settings on admin.google.com
+
+<mark style="color:red;">"Google Cloud Platform service has been disabled. Please contact your administrator to turn the service on in the Google Workspace Admin console." - ERROR while creating the migration batch</mark>\
+
+
+* **Go to** the [Google Admin Console](https://admin.google.com).
+* Navigate to:\
+  **Apps** → **Additional Google services**.
+* Search for **"Google Cloud Platform"** or **"Cloud Platform"**.
+* Click on it and **enable the service** for the organizational unit (OU) your account belongs to.
+* Enable Service Account Creation option for all users.
+
+
+{% endhint %}
+
 ### Check Google Cloud platform permissions <a href="#check-google-cloud-platform-permissions" id="check-google-cloud-platform-permissions"></a>
 
 An [automated scenario](https://learn.microsoft.com/en-us/exchange/mailbox-migration/automated-migration-neweac) requires the Google Migration administrator to be able to perform the following steps in the [Google admin console](https://admin.google.com/AdminHome):
@@ -22,7 +38,7 @@ The Google Migration administrator needs the following permissions to complete t
 
 The most secure way to achieve completion of these four steps is to assign the following roles to the Google Migration administrator:
 
-* <mark style="color:green;">Projector Creator</mark>
+* <mark style="color:green;">Project Creator</mark>
 * <mark style="color:green;">Service Accounts Creator</mark>
 
 Here's how you do it:
@@ -36,7 +52,25 @@ Here's how you do it:
 5. <mark style="color:green;">Select the appropriate resource and in the right-hand pane under the</mark> <mark style="color:green;"></mark><mark style="color:green;">**Permissions**</mark> <mark style="color:green;"></mark><mark style="color:green;">tab, select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Add Principal**</mark><mark style="color:green;">.</mark>
 6. <mark style="color:green;">Enter your Google Migration administrator credentials, enter</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Project Creator</mark>_ <mark style="color:green;"></mark><mark style="color:green;">in the filter, and select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Project Creator**</mark><mark style="color:green;">.</mark>
 7. <mark style="color:green;">Select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Add Another Role**</mark><mark style="color:green;">, enter</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Create Service Accounts</mark>_ <mark style="color:green;"></mark><mark style="color:green;">in the filter, and select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Create Service Accounts**</mark><mark style="color:green;">.</mark>
-8. <mark style="color:green;">Select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Save**</mark><mark style="color:green;">.</mark>
+8. <mark style="color:green;">**Other Roles (Need to Assign on the admin user):**</mark>
+   1. <mark style="color:green;">**Create Service Accounts**</mark>
+   2. <mark style="color:green;">**Organization Administrator**</mark>
+   3. <mark style="color:green;">**Owner**</mark>
+   4. <mark style="color:green;">**Service Account Key Admin**</mark>
+   5. <mark style="color:green;">**Service Account User**</mark>
+9. <mark style="color:green;">**Other Roles (Need to Assign on the Organization):**</mark>
+   1. <mark style="color:green;">**Access Transparency Admin**</mark>
+   2. <mark style="color:green;">**Browser**</mark>
+   3. <mark style="color:green;">**Create Service Accounts**</mark>
+   4. <mark style="color:green;">**Delete Service Accounts**</mark>
+   5. <mark style="color:green;">**Editor**</mark>
+   6. <mark style="color:green;">**Organization Administrator**</mark>
+   7. <mark style="color:green;">**Organization Policy Viewer**</mark>
+   8. <mark style="color:green;">**Owner**</mark>
+   9. <mark style="color:green;">**Project Creator**</mark>
+10. <mark style="color:green;">Select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Save**</mark><mark style="color:green;">.</mark>
+
+
 
 {% hint style="warning" %}
 **Note**
@@ -54,7 +88,7 @@ It might take up to 15 minutes to propagate role assignment changes across the g
 * **Problem:** The Google Cloud service account used for the migration might not have the required permissions to create and manage keys, leading to the JSON file not being downloaded automatically.&#x20;
 * **Solution:**
   * Navigate to Google Cloud's IAM & Admin console and ensure the service account has the **Organization Policy Administrator** role.&#x20;
-  * In **Organization Policies**, locate **"Disable service account key creation"** and set it to **OFF.**&#x20;
+  * In **Organization Policies**, locate **"Disable service account key creation"** and **"Disable Service Account Creation"** set it to **OFF.**&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -232,3 +266,4 @@ The filter options for the Google Workspace migration are:
 * [https://learn.microsoft.com/en-us/exchange/mailbox-migration/automated-migration-neweac](https://learn.microsoft.com/en-us/exchange/mailbox-migration/automated-migration-neweac)
 * [https://www.c-sharpcorner.com/article/fix-google-to-office-365-migration-error-service-account-key/](https://www.c-sharpcorner.com/article/fix-google-to-office-365-migration-error-service-account-key/)
 * [https://learn.microsoft.com/en-us/answers/questions/1624193/google-workspace-migration-json-download-issue](https://learn.microsoft.com/en-us/answers/questions/1624193/google-workspace-migration-json-download-issue)
+* [https://www.linkedin.com/posts/chetan-singh-6389981b0\_seamless-email-migration-from-g-suite-to-activity-7345290548653473793-twMn?utm\_source=share\&utm\_medium=member\_android\&rcm=ACoAADFEfowB2izMSJC2Z8cGa0uYHfk-IrktInc](https://www.linkedin.com/posts/chetan-singh-6389981b0_seamless-email-migration-from-g-suite-to-activity-7345290548653473793-twMn?utm_source=share\&utm_medium=member_android\&rcm=ACoAADFEfowB2izMSJC2Z8cGa0uYHfk-IrktInc)
