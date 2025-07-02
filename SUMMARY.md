@@ -196,6 +196,8 @@
   * [Automation](email-and-office-365/automation.md)
   * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup/README.md)
     * [Set Up Connectors Between Microsoft 365 and SmarterMail](email-and-office-365/hybrid-mail-setup/set-up-connectors-between-microsoft-365-and-smartermail.md)
+    * [Hybrid Setup: G-Suite to M365](email-and-office-365/hybrid-mail-setup/hybrid-setup-g-suite-to-m365.md)
+    * [Hybrid Setup: M365 to G-Suite](email-and-office-365/hybrid-mail-setup/hybrid-setup-m365-to-g-suite.md)
   * [Email Authentication](email-and-office-365/email-authentication/README.md)
     * [Protocols](email-and-office-365/email-authentication/protocols.md)
   * [Mail Clients](email-and-office-365/mail-clients/README.md)
