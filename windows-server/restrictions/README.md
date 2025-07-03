@@ -1,0 +1,6 @@
+---
+icon: pills
+---
+
+# Restrictions
+
