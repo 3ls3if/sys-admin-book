@@ -197,6 +197,7 @@
     * [Error 'Unknown or Disabled User!' when attempting to authenticate via web mail](email-and-office-365/troubleshooting/error-unknown-or-disabled-user-when-attempting-to-authenticate-via-web-mail.md)
     * [Can't log in to MailEnable webmail on Plesk for Windows: Unknown or Disabled User!](email-and-office-365/troubleshooting/cant-log-in-to-mailenable-webmail-on-plesk-for-windows-unknown-or-disabled-user.md)
     * [I cannot see the Auto-save button on my Microsoft Desktop 365](email-and-office-365/troubleshooting/i-cannot-see-the-auto-save-button-on-my-microsoft-desktop-365.md)
+    * [OneDrive Error: The credential is invalid. Unexpected sub status (6008)](email-and-office-365/troubleshooting/onedrive-error-the-credential-is-invalid.-unexpected-sub-status-6008.md)
   * [Automation](email-and-office-365/automation/README.md)
     * [Powershell: Deleting Users in Microsoft 365](email-and-office-365/automation/powershell-deleting-users-in-microsoft-365.md)
     * [Powershell: Recovering Deleted Users in Microsoft 365](email-and-office-365/automation/powershell-recovering-deleted-users-in-microsoft-365.md)
