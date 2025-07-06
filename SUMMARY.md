@@ -82,6 +82,7 @@
     * [Change the name of a Subscription system user](control-panels/plesk/change-the-name-of-a-subscription-system-user.md)
     * [Exporting and Importing Database Dumps](control-panels/plesk/exporting-and-importing-database-dumps.md)
     * [.NET Application Hosting](control-panels/plesk/.net-application-hosting.md)
+    * [Restore a user database](control-panels/plesk/restore-a-user-database.md)
   * [OVI Panel](control-panels/ovi-panel/README.md)
     * [DNS Zone Editor](control-panels/ovi-panel/dns-zone-editor.md)
   * [SolidCP](control-panels/solidcp/README.md)
