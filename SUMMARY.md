@@ -168,6 +168,7 @@
     * [Database](backup-and-security/backup/database/README.md)
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
       * [MS SQL Restore Backup](backup-and-security/backup/database/ms-sql-restore-backup.md)
+      * [Plesk: Restore Backup](backup-and-security/backup/database/plesk-restore-backup.md)
   * [Microsoft Defender for Endpoint](backup-and-security/microsoft-defender-for-endpoint/README.md)
     * [Introduction & Licenses](backup-and-security/microsoft-defender-for-endpoint/introduction-and-licenses.md)
   * [Microsoft Intune - Endpoint Management](backup-and-security/microsoft-intune-endpoint-management/README.md)
