@@ -58,6 +58,7 @@
   * [Task Scheduler](windows-server/task-scheduler/README.md)
     * [Automate Program Execution](windows-server/task-scheduler/automate-program-execution.md)
     * [Restart Windows Server Daily](windows-server/task-scheduler/restart-windows-server-daily.md)
+    * [How to Open a URL Daily at 2 AM Using Task Scheduler](windows-server/task-scheduler/how-to-open-a-url-daily-at-2-am-using-task-scheduler.md)
   * [Auditing and Diagnostincs](windows-server/auditing-and-diagnostincs/README.md)
     * [Enabling the System Event Audit Log](windows-server/auditing-and-diagnostincs/enabling-the-system-event-audit-log.md)
     * [Audit RDP Port Change Event](windows-server/auditing-and-diagnostincs/audit-rdp-port-change-event.md)
