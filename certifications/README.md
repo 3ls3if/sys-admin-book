@@ -1,0 +1,6 @@
+---
+icon: seal-exclamation
+---
+
+# Certifications
+
