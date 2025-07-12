@@ -111,6 +111,8 @@
 * [VPNs and Proxy Servers](vpns-and-proxy-servers/README.md)
   * [Reverse Proxy](vpns-and-proxy-servers/reverse-proxy/README.md)
     * [IIS - Node.js Application](vpns-and-proxy-servers/reverse-proxy/iis-node.js-application.md)
+  * [VPNs](vpns-and-proxy-servers/vpns/README.md)
+    * [Install and Uninstall Proton VPN on Windows](vpns-and-proxy-servers/vpns/install-and-uninstall-proton-vpn-on-windows.md)
 * [Database Servers](database-servers.md)
   * [MS SQL](database-servers/ms-sql/README.md)
     * [Download and Install](database-servers/ms-sql/download-and-install.md)
