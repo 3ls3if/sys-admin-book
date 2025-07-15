@@ -73,6 +73,8 @@
     * [Block Access to Specific Websites](windows-server/restrictions/block-access-to-specific-websites.md)
 * [Control Panels](control-panels/README.md)
   * [Plesk](control-panels/plesk/README.md)
+    * [Troubleshooting](control-panels/plesk/troubleshooting/README.md)
+      * [Plesk migration is stuck at the beginning: Preparing migration. Starting...](control-panels/plesk/troubleshooting/plesk-migration-is-stuck-at-the-beginning-preparing-migration.-starting....md)
     * [Set Hard Quota on disk space for subscription(s)](control-panels/plesk/set-hard-quota-on-disk-space-for-subscription-s.md)
     * [Changing MX, A, and CNAME Records](control-panels/plesk/changing-mx-a-and-cname-records.md)
     * [Host Node.js Application](control-panels/plesk/host-node.js-application.md)
