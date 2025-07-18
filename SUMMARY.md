@@ -87,6 +87,8 @@
     * [.NET Application Hosting](control-panels/plesk/.net-application-hosting.md)
     * [Restore a user database](control-panels/plesk/restore-a-user-database.md)
     * [Install WordPress on domain using WP Toolkit](control-panels/plesk/install-wordpress-on-domain-using-wp-toolkit-1.md)
+    * [Plesk 12.5 – Increase PHP Upload Limit](control-panels/plesk/plesk-12.5-increase-php-upload-limit.md)
+    * [How to Use the File Manager - Plesk](control-panels/plesk/how-to-use-the-file-manager-plesk.md)
   * [OVI Panel](control-panels/ovi-panel/README.md)
     * [DNS Zone Editor](control-panels/ovi-panel/dns-zone-editor.md)
   * [SolidCP](control-panels/solidcp/README.md)
