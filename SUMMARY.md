@@ -128,6 +128,7 @@
     * [Enable Network Access to SQL Express](database-servers/ms-sql/enable-network-access-to-sql-express.md)
     * [Create and configure a user in MSSQL](database-servers/ms-sql/create-and-configure-a-user-in-mssql.md)
     * [Clear SQL Server Cache](database-servers/ms-sql/clear-sql-server-cache.md)
+    * [Manual steps for MSSQL SQL Trace file Create, Start, Stop and Delete](database-servers/ms-sql/manual-steps-for-mssql-sql-trace-file-create-start-stop-and-delete.md)
     * [Setting Infinite Timeout in SQL Server Contexts](database-servers/ms-sql/setting-infinite-timeout-in-sql-server-contexts.md)
     * [Take SQL Server Database Offline](database-servers/ms-sql/take-sql-server-database-offline.md)
     * [Memory configuration](database-servers/ms-sql/memory-configuration.md)
