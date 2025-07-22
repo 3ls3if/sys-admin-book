@@ -323,6 +323,7 @@
     * [Migration Using PST File Method](migration/mail-migration/migration-using-pst-file-method.md)
     * [Office 365 to Google Workspace Migration](migration/mail-migration/office-365-to-google-workspace-migration.md)
     * [G-Suite to G-Suite Migration](migration/mail-migration/g-suite-to-g-suite-migration.md)
+    * [G-Suite to SmarterMail Migration](migration/mail-migration/g-suite-to-smartermail-migration.md)
   * [VM Migration](migration/vm-migration.md)
   * [Website Migration](migration/website-migration/README.md)
     * [Migrating IIS Sites Using Web Deploy](migration/website-migration/migrating-iis-sites-using-web-deploy.md)
