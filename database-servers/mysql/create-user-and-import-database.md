@@ -28,7 +28,7 @@ CREATE DATABASE example_db CHARACTER SET utf8 COLLATE utf8_general_ci;
 CREATE USER 'example_db'@'localhost' IDENTIFIED BY 'PaSSw0rd';
 
 -- 3. Grant all privileges to that user on the new database
-GRANT ALL PRIVILEGES ON tradedns_b2btrade4expor.* TO 'example_db'@'localhost';
+GRANT ALL PRIVILEGES ON example_db.* TO 'example_db'@'localhost';
 
 -- 4. Apply changes
 FLUSH PRIVILEGES;
