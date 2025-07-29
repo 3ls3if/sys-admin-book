@@ -293,6 +293,7 @@
     * [Add Contact Numbers in Profile Page](email-and-office-365/microsoft-teams/add-contact-numbers-in-profile-page.md)
   * [Microsoft Defender for Office 365](email-and-office-365/microsoft-defender-for-office-365/README.md)
     * [Remove blocked users from the Restricted entities page](email-and-office-365/microsoft-defender-for-office-365/remove-blocked-users-from-the-restricted-entities-page.md)
+    * [Disable or Modify the Spam Quarantine Policy](email-and-office-365/microsoft-defender-for-office-365/disable-or-modify-the-spam-quarantine-policy.md)
   * [Microsoft Purview](email-and-office-365/microsoft-purview/README.md)
     * [Create a Retention Policy for Archiving in M365](email-and-office-365/microsoft-purview/create-a-retention-policy-for-archiving-in-m365.md)
   * [Microsoft Entra ID](email-and-office-365/microsoft-entra-id/README.md)
