@@ -66,6 +66,7 @@
     * [Audit User LogOff Event](windows-server/auditing-and-diagnostincs/audit-user-logoff-event.md)
     * [Check the read/write speed of your hard drive](windows-server/auditing-and-diagnostincs/check-the-read-write-speed-of-your-hard-drive.md)
     * [Clear temp file and .trc file](windows-server/auditing-and-diagnostincs/clear-temp-file-and-.trc-file.md)
+    * [Track Who Deleted a Folder on Windows Server](windows-server/auditing-and-diagnostincs/track-who-deleted-a-folder-on-windows-server.md)
   * [Event Viewer](windows-server/event-viewer/README.md)
     * [Restart / Shutdown Event](windows-server/event-viewer/restart-shutdown-event.md)
     * [User Logoff Event](windows-server/event-viewer/user-logoff-event.md)
