@@ -6,7 +6,7 @@ icon: rectangle-terminal
 
 ## PowerShell Essentials – Notes
 
-```
+```powershell
 Get-Service
 EXPLANATION: Lists all services on the local computer along with their statuses.
 
