@@ -216,6 +216,7 @@
   * [Automation](email-and-office-365/automation/README.md)
     * [Powershell Commands](email-and-office-365/automation/powershell-commands.md)
     * [MS-Graph Commands](email-and-office-365/automation/ms-graph-commands.md)
+    * [MS-Graph: Manage Users and Groups](email-and-office-365/automation/ms-graph-manage-users-and-groups.md)
     * [Powershell: Deleting Users in Microsoft 365](email-and-office-365/automation/powershell-deleting-users-in-microsoft-365.md)
     * [Powershell: Recovering Deleted Users in Microsoft 365](email-and-office-365/automation/powershell-recovering-deleted-users-in-microsoft-365.md)
   * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup/README.md)
