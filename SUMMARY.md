@@ -198,6 +198,7 @@
     * [Performing a file-level recovery](backup-and-security/acronis/performing-a-file-level-recovery.md)
     * [Enabling Active Protection and Vulnerability Assessment](backup-and-security/acronis/enabling-active-protection-and-vulnerability-assessment.md)
     * [Endpoint Detection and Response (EDR)](backup-and-security/acronis/endpoint-detection-and-response-edr.md)
+  * [Sophos Endpoint Protection](backup-and-security/sophos-endpoint-protection.md)
 * [Email and Office 365](email-and-office-365/README.md)
   * [Troubleshooting](email-and-office-365/troubleshooting/README.md)
     * [Run a message trace in the Exchange admin center](email-and-office-365/troubleshooting/run-a-message-trace-in-the-exchange-admin-center.md)
