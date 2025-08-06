@@ -200,6 +200,8 @@
     * [Endpoint Detection and Response (EDR)](backup-and-security/acronis/endpoint-detection-and-response-edr.md)
   * [Sophos Endpoint Protection](backup-and-security/sophos-endpoint-protection/README.md)
     * [Sophos Endpoint Tech Specs](backup-and-security/sophos-endpoint-protection/sophos-endpoint-tech-specs.md)
+    * [Create an account](backup-and-security/sophos-endpoint-protection/create-an-account.md)
+    * [Activate your account and get software](backup-and-security/sophos-endpoint-protection/activate-your-account-and-get-software.md)
 * [Email and Office 365](email-and-office-365/README.md)
   * [Troubleshooting](email-and-office-365/troubleshooting/README.md)
     * [Run a message trace in the Exchange admin center](email-and-office-365/troubleshooting/run-a-message-trace-in-the-exchange-admin-center.md)
