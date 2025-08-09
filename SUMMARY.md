@@ -306,6 +306,7 @@
     * [Create a Retention Policy for Archiving in M365](email-and-office-365/microsoft-purview/create-a-retention-policy-for-archiving-in-m365.md)
   * [Microsoft Entra ID](email-and-office-365/microsoft-entra-id/README.md)
     * [Bulk Delete Users](email-and-office-365/microsoft-entra-id/bulk-delete-users.md)
+    * [Bulk create users](email-and-office-365/microsoft-entra-id/bulk-create-users.md)
   * [Exchange Admin](email-and-office-365/exchange-admin/README.md)
     * [Mail Flow Reports](email-and-office-365/exchange-admin/mail-flow-reports.md)
     * [Message Trace Reports](email-and-office-365/exchange-admin/message-trace-reports.md)
