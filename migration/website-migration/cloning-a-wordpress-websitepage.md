@@ -55,3 +55,5 @@ When the cloning is finished, the new clone will be displayed in the list of Wor
 ## REFERENCES
 
 * [https://docs.plesk.com/en-US/obsidian/administrator-guide/website-management/wordpress-toolkit.73391/?\_gl=1\*1hkq8r3\*\_gcl\_au\*MjY0MTkyNzA2LjE3NTQ3MTMyNjE.\*\_ga\*MjExOTc1Mzg0OS4xNzU0NzEzMjU1\*\_ga\_5SX3L7KZCY\*czE3NTQ3MTMyNTQkbzEkZzEkdDE3NTQ3MTM3NTIkajM5JGwwJGg1ODE3ODk3NzU.#cloning-a-wordpress-website](https://docs.plesk.com/en-US/obsidian/administrator-guide/website-management/wordpress-toolkit.73391/?_gl=1*1hkq8r3*_gcl_au*MjY0MTkyNzA2LjE3NTQ3MTMyNjE.*_ga*MjExOTc1Mzg0OS4xNzU0NzEzMjU1*_ga_5SX3L7KZCY*czE3NTQ3MTMyNTQkbzEkZzEkdDE3NTQ3MTM3NTIkajM5JGwwJGg1ODE3ODk3NzU.#cloning-a-wordpress-website)
+* plesk.com/kb/support/how-to-clone-a-wordpress-instance-in-plesk/
+
