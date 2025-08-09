@@ -343,6 +343,7 @@
   * [Website Migration](migration/website-migration/README.md)
     * [Migrating IIS Sites Using Web Deploy](migration/website-migration/migrating-iis-sites-using-web-deploy.md)
     * [Plesk to Plesk Migration](migration/website-migration/plesk-to-plesk-migration.md)
+    * [Migrate an existing WordPress website to Plesk](migration/website-migration/migrate-an-existing-wordpress-website-to-plesk.md)
   * [Database Migration](migration/database-migration.md)
 * [Monitoring](monitoring/README.md)
   * [Prometheus](monitoring/prometheus/README.md)
