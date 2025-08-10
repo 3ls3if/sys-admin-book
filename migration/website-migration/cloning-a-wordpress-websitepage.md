@@ -50,6 +50,44 @@ When the cloning is finished, the new clone will be displayed in the list of Wor
 
 
 
+## Troubleshooting
+
+{% hint style="warning" %}
+When you clone a WordPress site to another domain and get a **404 – File or directory not found** error, it usually means either:
+
+1. **The `.htaccess` file is missing or incorrect**
+2. **Permalinks are broken after migration**
+3. **The site URL is still pointing to the old domain**
+4. **Files didn’t copy to the right directory**
+{% endhint %}
+
+### Regenerate the `.htaccess` file (for Apache)
+
+If you’re on **Apache**, create or edit `.htaccess` in the root folder:
+
+```apacheconf
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+# END WordPress
+```
+
+Then in **WordPress Admin → Settings → Permalinks**, click **Save Changes** (even without changes) to regenerate rewrite rules.
+
+{% hint style="warning" %}
+**Saving permalinks after migration is like telling WordPress:**
+
+> “Forget everything you knew about my URLs. Re-learn them based on this new server and domain.”
+{% endhint %}
+
+
+
 ***
 
 ## REFERENCES
