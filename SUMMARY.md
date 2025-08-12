@@ -199,6 +199,7 @@
     * [Enabling Active Protection and Vulnerability Assessment](backup-and-security/acronis/enabling-active-protection-and-vulnerability-assessment.md)
     * [Endpoint Detection and Response (EDR)](backup-and-security/acronis/endpoint-detection-and-response-edr.md)
   * [Sophos Endpoint Protection](backup-and-security/sophos-endpoint-protection/README.md)
+    * [Policies](backup-and-security/sophos-endpoint-protection/policies.md)
     * [Sophos Endpoint Tech Specs](backup-and-security/sophos-endpoint-protection/sophos-endpoint-tech-specs.md)
     * [Create an account](backup-and-security/sophos-endpoint-protection/create-an-account.md)
     * [Activate your account and get software](backup-and-security/sophos-endpoint-protection/activate-your-account-and-get-software.md)
