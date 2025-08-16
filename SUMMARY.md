@@ -140,6 +140,8 @@
 * [Web Dev Stacks](web-dev-stacks/README.md)
   * [MERN (w/ Next)](web-dev-stacks/mern-w-next/README.md)
     * [Build and Run Node.js Project with Next.js](web-dev-stacks/mern-w-next/build-and-run-node.js-project-with-next.js.md)
+  * [XAMPP](web-dev-stacks/xampp/README.md)
+    * [Host React Application](web-dev-stacks/xampp/host-react-application.md)
 * [IT Ticketing Systems](it-ticketing-systems/README.md)
   * [Jira Ticketing System](it-ticketing-systems/jira-ticketing-system.md)
 * [Linux Servers](linux-servers.md)
