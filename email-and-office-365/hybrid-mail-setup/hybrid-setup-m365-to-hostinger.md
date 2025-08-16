@@ -50,7 +50,27 @@ To make Microsoft 365 the primary email handler:
 ✅ This ensures all incoming email first goes to Microsoft 365.
 {% endhint %}
 
+{% hint style="info" %}
+## Differences To Know
 
+* <mark style="color:blue;">**Partner organization connector**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">→ Usually used for external companies. It only routes mail to specific domains or specific recipient addresses you configure. Since you’re adding Hostinger mailboxes manually, Exchange Online will only relay messages for those exact accounts you entered.</mark>
+* <mark style="color:blue;">**Your organization’s email server connector + Internal Relay domain**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">→ Smarter, because you don’t have to manually maintain a list of users. Exchange Online first checks if the recipient exists in M365. If not, it automatically forwards to Hostinger for delivery.</mark>
+
+
+
+#### <mark style="color:blue;">Why Partner Organization might cause issues:</mark>
+
+* <mark style="color:blue;">You’ll need to</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**keep updating the connector manually**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">whenever a Hostinger mailbox changes.</mark>
+* <mark style="color:blue;">If you miss an account, Exchange Online will bounce mail instead of delivering to Hostinger.</mark>
+
+
+
+#### <mark style="color:blue;">The recommended setup for hybrid M365 ↔ Hostinger:</mark>
+
+1. <mark style="color:blue;">Set your domain in M365 as</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Internal Relay**</mark><mark style="color:blue;">.</mark>
+2. <mark style="color:blue;">Create a connector from</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Office 365 → Your organization’s email server**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">pointing to Hostinger SMTP.</mark>
+   * <mark style="color:blue;">That way, any non-M365 mailbox gets routed to Hostinger automatically.</mark>
+{% endhint %}
 
 ## Set Up a Connector in Microsoft 365
 
