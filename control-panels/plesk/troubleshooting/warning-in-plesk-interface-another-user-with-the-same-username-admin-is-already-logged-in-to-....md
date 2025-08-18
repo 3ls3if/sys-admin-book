@@ -2,7 +2,7 @@
 icon: triangle-exclamation
 ---
 
-# Page
+# Warning in Plesk interface: Another user with the same username (admin) is already logged in to ...
 
 ### Symptoms
 
