@@ -17,7 +17,7 @@ You can either let the server generate a private key for you by leaving the defa
 
 <figure><img src="https://filezillapro.com/wp-content/uploads/2024/09/screenshot_provided_self_signed_certificate-1024x694.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you select the Provided option, there are three ways to provide the private key:
 

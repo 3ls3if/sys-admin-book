@@ -25,7 +25,7 @@ Outbound messages report – This report shows the details of the emails that we
 \
 
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

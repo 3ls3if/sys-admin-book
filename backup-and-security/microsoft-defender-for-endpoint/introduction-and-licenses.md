@@ -6,7 +6,7 @@ icon: id-badge
 
 ## Introduction
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ​Microsoft Defender for Endpoint is an enterprise security platform designed to help organizations prevent, detect, investigate, and respond to advanced threats across various devices, including laptops, desktops, mobile devices, and network equipment. ​[Microsoft+2Microsoft Learn+2Agile IT+2](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint?utm_source=chatgpt.com)
 

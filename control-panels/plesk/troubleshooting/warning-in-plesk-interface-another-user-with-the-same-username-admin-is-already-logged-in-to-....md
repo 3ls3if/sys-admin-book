@@ -17,7 +17,7 @@ Another user with the same username (admin) is already logged in to Plesk.
 This behavior is expected if **Profile & Preferences > Allow multiple sessions under this account** option is enabled and several logins to Plesk UI were performed:\
 
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@ If it is required to disable multiple sessions perform the following steps:
 1. [Log into Plesk.](https://plesk-new.zendesk.com/hc/en-us/articles/12377667582743-How-to-login-to-Plesk-)
 2. Go to **Profile & Preferences >** disable **Allow multiple sessions under this account:**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 
 

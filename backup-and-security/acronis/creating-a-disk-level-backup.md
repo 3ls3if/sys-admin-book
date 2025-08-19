@@ -13,7 +13,7 @@ icon: album
     Please select _DEVICES_-> _All devices_ in the blue main menu on the left.
 2. In the device view select the new machine and select _Protect_ on the right popping up menu.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Create a new Protection plan for Backup.
 
@@ -39,5 +39,5 @@ Keep all other Backup module settings on defaults
 Disable all other modules (except for Backup)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 

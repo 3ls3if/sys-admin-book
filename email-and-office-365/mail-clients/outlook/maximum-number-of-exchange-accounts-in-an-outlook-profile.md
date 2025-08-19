@@ -26,7 +26,7 @@ Outlook 2016 values: a decimal value between 1 and 9999
 Outlook 2019 values: a decimal value between 1 and 9999
 ```
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the Group policy editor, the setting is under **Outlook** > **Account Settings** > **Exchange** > _Set maximum number of accounts per profile._
 
@@ -44,7 +44,7 @@ Outlook 2016 values: a decimal value between 1 and 9999
 Outlook 2019 values: a decimal value between 1 and 9999
 ```
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

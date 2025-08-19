@@ -17,7 +17,7 @@ icon: user
        Go to **Users** > click on a username > **Change Settings**.
 2. In the **Plesk Preferences** section, specify a new password and apply the changes.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
