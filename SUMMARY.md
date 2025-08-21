@@ -140,6 +140,7 @@
   * [MySQL](database-servers/mysql/README.md)
     * [Install and Configure MySQL](database-servers/mysql/install-and-configure-mysql.md)
     * [Create User and Import Database](database-servers/mysql/create-user-and-import-database.md)
+* [CDN Servers](cdn-servers.md)
 * [Web Dev Stacks](web-dev-stacks/README.md)
   * [MERN (w/ Next)](web-dev-stacks/mern-w-next/README.md)
     * [Build and Run Node.js Project with Next.js](web-dev-stacks/mern-w-next/build-and-run-node.js-project-with-next.js.md)
