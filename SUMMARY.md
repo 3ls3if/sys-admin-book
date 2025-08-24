@@ -279,6 +279,7 @@
     * [Generate Transfer Token](email-and-office-365/office-365/generate-transfer-token.md)
     * [Create Redirect Rule for Specific Mail ID](email-and-office-365/office-365/create-redirect-rule-for-specific-mail-id.md)
     * [Create distribution groups in the Microsoft 365 admin center](email-and-office-365/office-365/create-distribution-groups-in-the-microsoft-365-admin-center.md)
+    * [Configure Catch all Mailbox in Microsoft 365Page](email-and-office-365/office-365/configure-catch-all-mailbox-in-microsoft-365page.md)
   * [Google Workspace](email-and-office-365/google-workspace/README.md)
     * [Intro & Plans](email-and-office-365/google-workspace/intro-and-plans.md)
     * [Create your Google Workspace trial account](email-and-office-365/google-workspace/create-your-google-workspace-trial-account.md)
