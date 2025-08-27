@@ -12,15 +12,15 @@ icon: file-circle-check
 
     Please select _DEVICES_ -> _All devices_ in the blue main menu on the left.
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. In the device view select the new machine and click the "Gear" on the top right side, select Protect on the popping up menu (if the machine is not yet their, please check Activities and wait some Minutes for the system to finalize registration process)
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Create a new Protection plan for Backup.
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Please use the following details:**
@@ -42,7 +42,7 @@ Keep all other Backup module settings on defaults
 Disable all other modules (except for Backup)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Once the Protection Plan has been created, run it once manually to create a backup.
 

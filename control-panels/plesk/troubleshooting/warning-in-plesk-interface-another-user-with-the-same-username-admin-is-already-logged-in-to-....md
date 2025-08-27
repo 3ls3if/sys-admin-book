@@ -17,7 +17,7 @@ Another user with the same username (admin) is already logged in to Plesk.
 This behavior is expected if **Profile & Preferences > Allow multiple sessions under this account** option is enabled and several logins to Plesk UI were performed:\
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
