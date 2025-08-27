@@ -315,6 +315,7 @@
     * [Remove blocked users from the Restricted entities page](email-and-office-365/microsoft-defender-for-office-365/remove-blocked-users-from-the-restricted-entities-page.md)
     * [Disable or Modify the Spam Quarantine Policy](email-and-office-365/microsoft-defender-for-office-365/disable-or-modify-the-spam-quarantine-policy.md)
     * [Locate the newest alert in Microsoft 365 Defender](email-and-office-365/microsoft-defender-for-office-365/locate-the-newest-alert-in-microsoft-365-defender.md)
+    * [Create a safe attachment policy](email-and-office-365/microsoft-defender-for-office-365/create-a-safe-attachment-policy.md)
   * [Microsoft Purview](email-and-office-365/microsoft-purview/README.md)
     * [Create a Retention Policy for Archiving in M365](email-and-office-365/microsoft-purview/create-a-retention-policy-for-archiving-in-m365.md)
   * [Microsoft Entra ID](email-and-office-365/microsoft-entra-id/README.md)
