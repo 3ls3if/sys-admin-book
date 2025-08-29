@@ -192,6 +192,7 @@
       * [Plesk: Restore Backup](backup-and-security/backup/database/plesk-restore-backup.md)
   * [Microsoft Defender for Endpoint](backup-and-security/microsoft-defender-for-endpoint/README.md)
     * [Introduction & Licenses](backup-and-security/microsoft-defender-for-endpoint/introduction-and-licenses.md)
+    * [Onboard devices to Microsoft Defender for Endpoint](backup-and-security/microsoft-defender-for-endpoint/onboard-devices-to-microsoft-defender-for-endpoint.md)
   * [Microsoft Intune - Endpoint Management](backup-and-security/microsoft-intune-endpoint-management/README.md)
     * [Product Introduction](backup-and-security/microsoft-intune-endpoint-management/product-introduction.md)
     * [Intune Policies for MacOS](backup-and-security/microsoft-intune-endpoint-management/intune-policies-for-macos.md)
