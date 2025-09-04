@@ -194,6 +194,7 @@
     * [Introduction & Licenses](backup-and-security/microsoft-defender-for-endpoint/introduction-and-licenses.md)
     * [Onboard devices to Microsoft Defender for Endpoint](backup-and-security/microsoft-defender-for-endpoint/onboard-devices-to-microsoft-defender-for-endpoint.md)
     * [Create an endpoint device group in Microsoft 365 Defender](backup-and-security/microsoft-defender-for-endpoint/create-an-endpoint-device-group-in-microsoft-365-defender.md)
+    * [Deploy Defender For Cloud Apps (MDCA) & Block Unwanted Applications](backup-and-security/microsoft-defender-for-endpoint/deploy-defender-for-cloud-apps-mdca-and-block-unwanted-applications.md)
   * [Microsoft Intune - Endpoint Management](backup-and-security/microsoft-intune-endpoint-management/README.md)
     * [Product Introduction](backup-and-security/microsoft-intune-endpoint-management/product-introduction.md)
     * [Intune Policies for MacOS](backup-and-security/microsoft-intune-endpoint-management/intune-policies-for-macos.md)
