@@ -321,6 +321,7 @@
     * [Create a safe attachment policy](email-and-office-365/microsoft-defender-for-office-365/create-a-safe-attachment-policy.md)
     * [Setup an attack simulation to test Software Devs.](email-and-office-365/microsoft-defender-for-office-365/setup-an-attack-simulation-to-test-software-devs..md)
   * [Microsoft Purview](email-and-office-365/microsoft-purview/README.md)
+    * [Create a retention policy for Exchange Online](email-and-office-365/microsoft-purview/create-a-retention-policy-for-exchange-online.md)
     * [Create a Retention Policy for Archiving in M365](email-and-office-365/microsoft-purview/create-a-retention-policy-for-archiving-in-m365.md)
     * [How to Apply Retention Tags to Non-Default Folders in Office 365](email-and-office-365/microsoft-purview/how-to-apply-retention-tags-to-non-default-folders-in-office-365.md)
   * [Microsoft Entra ID](email-and-office-365/microsoft-entra-id/README.md)
