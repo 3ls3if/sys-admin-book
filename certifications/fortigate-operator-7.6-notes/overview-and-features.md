@@ -8,7 +8,7 @@ icon: exclamation
 
 FortiGate is a next-generation firewall (NGFW) that delivers industry-leading enterprise security with full visibility and threat protection.
 
-<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Benefits of Using FortiGate
 
@@ -19,19 +19,19 @@ FortiGate is a next-generation firewall (NGFW) that delivers industry-leading en
 * An excellent user experience
 * Operational efficiency and automated workflows
 
-<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## FortiGate Platform Structure
 
 The FortiGate platform adds strength without compromising flexibility, through combining several key elements: FortiGuard Subscription Services, security features, the FortiOS operating system, and security processing units (SPUs). FortiGate can also integrate with other Fortinet products.
 
-<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## FortiGate Models
 
 There are many different FortiGate models, ranging from entry-level hardware appliances to high-end appliances. FortiGate-VM, a virtual appliance, offers the same protection as the physical appliances for public and private cloud. This ensures that FortiGate can fit seamlessly into your environment.
 
-<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## FortiGate Features
 
@@ -42,7 +42,7 @@ FortiGate offers a variety of features to protect and secure your network. These
 * Security scanning such as antivirus, web filtering, and application control
 * Monitoring and logging
 
-<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## FortiGate Labs
 

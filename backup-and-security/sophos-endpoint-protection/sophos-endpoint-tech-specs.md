@@ -20,25 +20,25 @@ Windows Server and Linux devices require a subscription to [Intercept X for Serv
 
 ## Sophos Endpoint Features
 
-<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Sophos Extended Detection and Response Features
 
-<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Sophos Managed Detection and Response
 
-<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Sophos Zero Trust Network Access
 
-<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

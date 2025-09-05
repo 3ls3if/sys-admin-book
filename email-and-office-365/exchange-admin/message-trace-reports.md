@@ -27,7 +27,7 @@ As an admin, you can find out what happened to an email message whether a messag
 \
 
 
-<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

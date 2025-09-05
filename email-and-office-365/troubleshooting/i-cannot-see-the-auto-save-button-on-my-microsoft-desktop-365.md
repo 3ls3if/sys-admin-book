@@ -12,7 +12,7 @@ To add the AutoSave to the top of the screen use the dropdown arrow to the right
 In the window to Customize the Quick Access Toolbar scroll down in the left window to the selection "Turn\
 AutoSave Off/On. Click on that and then click on Add>> in the middle between the windows and then click OK
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
