@@ -22,7 +22,7 @@ icon: circle-down
 
     Navigate to the top right side, click the blue "+ Add" Button and click on Servers -> Windows to download the Agent.
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.  On the VM navigate to the download folder and run the installer.
 
@@ -32,15 +32,15 @@ icon: circle-down
 
 4. Wait for the installation to complete and register the machine using the token provided form the installer.
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. If the registration process is not working correct, you can click Show registration info at the installer window. Please copy the token (right mouse click, copy).
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Go back to the Service Console (Firefox), select DEVICES in the blue main menu on the left, navigate to the top right side, click the blue "+ Add" Button and scroll down to REGISTRATION VIA CODE and click REGISTER.
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7.  Past the token from the Agent installer and click **CHECK CODE**
 

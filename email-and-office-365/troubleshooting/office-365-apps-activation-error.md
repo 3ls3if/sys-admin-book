@@ -42,7 +42,7 @@ icon: key
 
 The solution is to use this tool : [https://office-reset.com](https://office-reset.com/) and select the following option&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

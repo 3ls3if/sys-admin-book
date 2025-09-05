@@ -7,7 +7,7 @@ icon: floppy-disk-pen
 \
 To add the AutoSave to the top of the screen use the dropdown arrow to the right of the Quick Access Toolbar. If you don't see the Quick Access Toolbar, check the Ribbon Controls and make sure that it is selected to show it. In the Quick Access dropdown menu select More Commands
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the window to Customize the Quick Access Toolbar scroll down in the left window to the selection "Turn\
 AutoSave Off/On. Click on that and then click on Add>> in the middle between the windows and then click OK

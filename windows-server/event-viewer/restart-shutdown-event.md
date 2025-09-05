@@ -31,7 +31,7 @@ icon: power-off
 wevtutil qe system "/q:*[System [(EventID=6006)]]" /rd:true /f:text /c:1
 ```
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you want to check out multiple codes at once, it’s easier to use PowerShell. Press <kbd>Win</kbd> + <kbd>X</kbd> and select “Terminal (Admin)” or “PowerShell (Admin)” depending on your version of Windows.
@@ -43,9 +43,9 @@ If you want to check out multiple codes at once, it’s easier to use PowerShell
 Get-EventLog -LogName System |? {$_.EventID -in (6005,6006,6008,6009,1074,1076)} | ft TimeGenerated,EventId,Message -AutoSize -wrap
 ```
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Using TurnedOnTimesView
 
