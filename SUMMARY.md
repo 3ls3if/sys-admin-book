@@ -324,6 +324,7 @@
     * [Create a retention policy for Exchange Online](email-and-office-365/microsoft-purview/create-a-retention-policy-for-exchange-online.md)
     * [Create a Retention Policy for Archiving in M365](email-and-office-365/microsoft-purview/create-a-retention-policy-for-archiving-in-m365.md)
     * [How to Apply Retention Tags to Non-Default Folders in Office 365](email-and-office-365/microsoft-purview/how-to-apply-retention-tags-to-non-default-folders-in-office-365.md)
+    * [Create a sensitive info type for Credit Cards using a function](email-and-office-365/microsoft-purview/create-a-sensitive-info-type-for-credit-cards-using-a-function.md)
   * [Microsoft Entra ID](email-and-office-365/microsoft-entra-id/README.md)
     * [Bulk Delete Users](email-and-office-365/microsoft-entra-id/bulk-delete-users.md)
     * [Bulk create users](email-and-office-365/microsoft-entra-id/bulk-create-users.md)
