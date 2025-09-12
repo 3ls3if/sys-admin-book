@@ -66,7 +66,7 @@ This is the simplest and most reliable approach.
 
 If you want to keep using `Trusted_Connection=True`, you must grant the IIS App Pool identity access to the database:
 
-`CREATE LOGIN [IIS APPPOOL\collegevedas.com] FROM WINDOWS;USE [TestDB];CREATE USER [IIS APPPOOL\Test.com] FOR LOGIN [IIS APPPOOL\test.com];ALTER ROLE db_owner ADD MEMBER [IIS APPPOOL\test.com];`
+`CREATE LOGIN [IIS APPPOOL\Test.com] FROM WINDOWS;USE [TestDB];CREATE USER [IIS APPPOOL\Test.com] FOR LOGIN [IIS APPPOOL\test.com];ALTER ROLE db_owner ADD MEMBER [IIS APPPOOL\test.com];`
 
 This explicitly tells SQL Server to trust the IIS Application Pool account and grant it permissions.
 
