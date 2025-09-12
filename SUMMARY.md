@@ -112,6 +112,8 @@
     * [Proxmox Virtual Environment (PVE) – Useful Commands](virtualization/proxmox-ve/proxmox-virtual-environment-pve-useful-commands.md)
 * [Web Servers](web-servers.md)
   * [IIS](web-servers/iis/README.md)
+    * [Troubleshooting](web-servers/iis/troubleshooting/README.md)
+      * [Fixing the "Login failed for user 'IIS APPPOOL'" Error in SQL Server with IIS and ASP.NET Core](web-servers/iis/troubleshooting/fixing-the-login-failed-for-user-iis-apppool-error-in-sql-server-with-iis-and-asp.net-core.md)
     * [Install IIS](web-servers/iis/install-iis.md)
     * [Configure Default Site](web-servers/iis/configure-default-site.md)
     * [Application Pool](web-servers/iis/application-pool.md)
