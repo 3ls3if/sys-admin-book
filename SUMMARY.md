@@ -22,6 +22,7 @@
   * [Troubleshooting](windows-server/troubleshooting/README.md)
     * [100% Disk Usage Issue](windows-server/troubleshooting/100-disk-usage-issue.md)
     * [Maximum Path Length Limitation](windows-server/troubleshooting/maximum-path-length-limitation.md)
+    * [Delete pagefile.sys file from C drive](windows-server/troubleshooting/delete-pagefile.sys-file-from-c-drive.md)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
     * [Change Default RDP Port](windows-server/basic-configurations/change-default-rdp-port.md)
