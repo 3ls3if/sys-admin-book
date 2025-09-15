@@ -82,6 +82,7 @@
     * [Troubleshooting](control-panels/plesk/troubleshooting/README.md)
       * [Plesk migration is stuck at the beginning: Preparing migration. Starting...](control-panels/plesk/troubleshooting/plesk-migration-is-stuck-at-the-beginning-preparing-migration.-starting....md)
       * [Warning in Plesk interface: Another user with the same username (admin) is already logged in to ...](control-panels/plesk/troubleshooting/warning-in-plesk-interface-another-user-with-the-same-username-admin-is-already-logged-in-to-....md)
+      * [Warning on the “Database Servers” page in Plesk: Unable to determine the TCP port number used by Mic](control-panels/plesk/troubleshooting/warning-on-the-database-servers-page-in-plesk-unable-to-determine-the-tcp-port-number-used-by-mic.md)
     * [Set Hard Quota on disk space for subscription(s)](control-panels/plesk/set-hard-quota-on-disk-space-for-subscription-s.md)
     * [Changing MX, A, and CNAME Records](control-panels/plesk/changing-mx-a-and-cname-records.md)
     * [Host Node.js Application](control-panels/plesk/host-node.js-application.md)
