@@ -305,6 +305,7 @@
     * [Forceful Domain Takeover in Microsoft 365 as External Admin](email-and-office-365/office-365/forceful-domain-takeover-in-microsoft-365-as-external-admin.md)
     * [Create a private MS 365 group named Finance](email-and-office-365/office-365/create-a-private-ms-365-group-named-finance.md)
     * [Send emails from alias in Outlook 365 Web](email-and-office-365/office-365/send-emails-from-alias-in-outlook-365-web.md)
+    * [Add External Users in Groups via Microsoft 365 Admin Center](email-and-office-365/office-365/add-external-users-in-groups-via-microsoft-365-admin-center.md)
   * [Google Workspace](email-and-office-365/google-workspace/README.md)
     * [Intro & Plans](email-and-office-365/google-workspace/intro-and-plans.md)
     * [Create your Google Workspace trial account](email-and-office-365/google-workspace/create-your-google-workspace-trial-account.md)
