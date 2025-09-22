@@ -359,6 +359,7 @@
     * [Use Entra ID protection to set User Risk to Medium](email-and-office-365/microsoft-entra-id/use-entra-id-protection-to-set-user-risk-to-medium.md)
     * [Create a conditional access policy that blocks high risk Android](email-and-office-365/microsoft-entra-id/create-a-conditional-access-policy-that-blocks-high-risk-android.md)
     * [Enable QR code support and set require MFA to all users](email-and-office-365/microsoft-entra-id/enable-qr-code-support-and-set-require-mfa-to-all-users.md)
+    * [Detect Logons Outside of Trusted Locations in Microsoft Entra ID](email-and-office-365/microsoft-entra-id/detect-logons-outside-of-trusted-locations-in-microsoft-entra-id.md)
   * [Exchange Admin](email-and-office-365/exchange-admin/README.md)
     * [Mail Flow Reports](email-and-office-365/exchange-admin/mail-flow-reports.md)
     * [Message Trace Reports](email-and-office-365/exchange-admin/message-trace-reports.md)
