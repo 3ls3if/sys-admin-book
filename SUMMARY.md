@@ -419,5 +419,6 @@
     * [IIS Application Pool](other-technologies/some-r-and-ds/iis-application-pool.md)
 * [Certifications](certifications/README.md)
   * [MS-102 Microsoft 365 Administrator: Notes](certifications/ms-102-microsoft-365-administrator-notes.md)
+  * [SC-200 Microsoft Security Operations Analyst: Notes](certifications/sc-200-microsoft-security-operations-analyst-notes.md)
   * [FortiGate Operator 7.6: Notes](certifications/fortigate-operator-7.6-notes/README.md)
     * [Overview and Features](certifications/fortigate-operator-7.6-notes/overview-and-features.md)
