@@ -8,6 +8,26 @@ icon: windows
 
 Tenant to Tenant migration is needed when we want to move mailboxes from one tenant to another tenant in Microsoft Office 365 and this is also called cross-tenant migration. In this article, we will describe the complete process for Office365 to Office365 migration and provides complete steps to prepare the source and target tenant for the cross-tenant or [tenant to tenant migration](https://www.cloudbik.com/solutions/microsoft-365-tenant-migrations/) to move mailboxes. First Let’s discuss about this in detail.
 
+{% hint style="warning" %}
+### Licensing <a href="#licensing" id="licensing"></a>
+
+**Important**
+
+Cross-Tenant migrations require a per user license (one-time fee) and can be assigned either on the source or target user object. This license also covers [OneDrive migration](https://learn.microsoft.com/en-us/microsoft-365/enterprise/cross-tenant-onedrive-migration?view=o365-worldwide). Cross Tenant User Data Migration is available as an add-on to the following Microsoft 365 subscription plans: Microsoft 365 Business Basic, Standard, and Premium; Microsoft 365 F1/F3/E3/E5/; Office 365 F3/E1/E3/E5; Exchange Online; SharePoint in Microsoft 365; OneDrive and EDU.
+
+
+
+&#x20;**Warning**
+
+You must purchase, or verify you can purchase, cross-tenant user data migration licenses before the next steps. Migrations fail if this step isn't completed. Microsoft doesn't offer exceptions for this licensing requirement.
+
+If you don't have the proper license assigned to the user being migrated, the migration fails, and you receive an error that is similar to the following example:
+
+```code
+Error: CrossTenantMigrationWithoutLicensePermanentException: No license was found for the source recipient, '65c3c3ea-2b9a-44d0-a685-9bfe300f8c87', or the target recipient, '65c3c3ea-2b9a-44d0-a685-9bfe300f8c87'. A Cross-tenant User Data Migration license is required to move a mailbox between tenants.
+```
+{% endhint %}
+
 **Table of Content:**
 
 * [What is Tenant to Tenant Migration and How to Perform Office 365 Tenant Migration?](https://www.cloudbik.com/resources/blog/perform-office-365-tenant-to-tenant-migration/#section1)
@@ -449,3 +469,4 @@ Read more: [**Enable-OrganizationCustomization with or without PowerShell**](htt
 * [https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/create-service-principal-cross-tenant?pivots=msgraph-powershell](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/create-service-principal-cross-tenant?pivots=msgraph-powershell)
 * [https://www.cloudbik.com/resources/blog/perform-office-365-tenant-to-tenant-migration/](https://www.cloudbik.com/resources/blog/perform-office-365-tenant-to-tenant-migration/)
 * [https://microsoft.github.io/CSS-Exchange/Admin/Clear-MailboxPermission/](https://microsoft.github.io/CSS-Exchange/Admin/Clear-MailboxPermission/)
+* [https://learn.microsoft.com/en-us/microsoft-365/enterprise/cross-tenant-mailbox-migration?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/enterprise/cross-tenant-mailbox-migration?view=o365-worldwide)
