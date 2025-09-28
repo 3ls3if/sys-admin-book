@@ -145,6 +145,7 @@
     * [Setting Infinite Timeout in SQL Server Contexts](database-servers/ms-sql/setting-infinite-timeout-in-sql-server-contexts.md)
     * [Take SQL Server Database Offline](database-servers/ms-sql/take-sql-server-database-offline.md)
     * [Memory configuration](database-servers/ms-sql/memory-configuration.md)
+    * [How to increase database size in sql server](database-servers/ms-sql/how-to-increase-database-size-in-sql-server.md)
   * [MySQL](database-servers/mysql/README.md)
     * [Install and Configure MySQL](database-servers/mysql/install-and-configure-mysql.md)
     * [Create User and Import Database](database-servers/mysql/create-user-and-import-database.md)
