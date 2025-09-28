@@ -29,3 +29,6 @@ icon: copy
 </Directory>
 ```
 
+```
+cd C:\xampp\apache\bin httpd.exe -t -D DUMP_INCLUDES
+```
