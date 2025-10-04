@@ -402,6 +402,8 @@
     * [M365 Tenant to Tenant Migration - SysTools Migrator (Paid)](migration/mail-migration/m365-tenant-to-tenant-migration-systools-migrator-paid.md)
     * [M365 Tenant to Tenant Migration - Veeam (Backup and Restore method)](migration/mail-migration/m365-tenant-to-tenant-migration-veeam-backup-and-restore-method/README.md)
       * [Veeam Backup for Microsoft Office 365 – Configuration](migration/mail-migration/m365-tenant-to-tenant-migration-veeam-backup-and-restore-method/veeam-backup-for-microsoft-office-365-configuration.md)
+      * [Veeam Backup for Microsoft Office 365 – Backup Job Creation](migration/mail-migration/m365-tenant-to-tenant-migration-veeam-backup-and-restore-method/veeam-backup-for-microsoft-office-365-backup-job-creation.md)
+      * [Veeam Backup for Microsoft Office 365 – Restore](migration/mail-migration/m365-tenant-to-tenant-migration-veeam-backup-and-restore-method/veeam-backup-for-microsoft-office-365-restore.md)
   * [VM Migration](migration/vm-migration.md)
   * [Website Migration](migration/website-migration/README.md)
     * [Migrating IIS Sites Using Web Deploy](migration/website-migration/migrating-iis-sites-using-web-deploy.md)
