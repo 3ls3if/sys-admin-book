@@ -2,7 +2,7 @@
 icon: windows
 ---
 
-# M365 Tenant to Tenant Migration
+# M365 Tenant to Tenant Migration - Native Method
 
 ## Perform Office 365 Tenant to Tenant Migration Step by Step
 
