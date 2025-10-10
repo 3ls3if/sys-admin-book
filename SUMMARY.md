@@ -151,6 +151,7 @@
   * [MySQL](database-servers/mysql/README.md)
     * [Install and Configure MySQL](database-servers/mysql/install-and-configure-mysql.md)
     * [Create User and Import Database](database-servers/mysql/create-user-and-import-database.md)
+    * [Importing a Database Using MySQL](database-servers/mysql/importing-a-database-using-mysql.md)
   * [Postgresql](database-servers/postgresql/README.md)
     * [Troubleshooting](database-servers/postgresql/troubleshooting/README.md)
       * [Connection Failed: Error](database-servers/postgresql/troubleshooting/connection-failed-error.md)
