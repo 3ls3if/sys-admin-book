@@ -75,6 +75,8 @@
   * [Active Directory](windows-server/active-directory.md)
   * [Restrictions](windows-server/restrictions/README.md)
     * [Block Access to Specific Websites](windows-server/restrictions/block-access-to-specific-websites.md)
+  * [Powershell Scripts](windows-server/powershell-scripts/README.md)
+    * [IIS log parser — extract client IPs for requests served on s-port 80 or 443](windows-server/powershell-scripts/iis-log-parser-extract-client-ips-for-requests-served-on-s-port-80-or-443.md)
 * [Containers](containers/README.md)
   * [Install Docker: Windows Server](containers/install-docker-windows-server.md)
 * [Control Panels](control-panels/README.md)
