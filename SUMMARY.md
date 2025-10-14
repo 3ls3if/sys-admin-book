@@ -105,6 +105,7 @@
   * [OVI Panel](control-panels/ovi-panel/README.md)
     * [DNS Zone Editor](control-panels/ovi-panel/dns-zone-editor.md)
   * [SolidCP](control-panels/solidcp/README.md)
+    * [Installation and Configuration of SolidCP Control Panel on Windows](control-panels/solidcp/installation-and-configuration-of-solidcp-control-panel-on-windows.md)
     * [Add a MS SQL database in SolidCP](control-panels/solidcp/add-a-ms-sql-database-in-solidcp.md)
   * [cPanel](control-panels/cpanel.md)
 * [Virtualization](virtualization/README.md)
