@@ -69,6 +69,7 @@
     * [Check the read/write speed of your hard drive](windows-server/auditing-and-diagnostincs/check-the-read-write-speed-of-your-hard-drive.md)
     * [Clear temp file and .trc file](windows-server/auditing-and-diagnostincs/clear-temp-file-and-.trc-file.md)
     * [Track Who Deleted a Folder on Windows Server](windows-server/auditing-and-diagnostincs/track-who-deleted-a-folder-on-windows-server.md)
+    * [Detecting Who Executed RuntimeBroker.exe and Enabling Tracking](windows-server/auditing-and-diagnostincs/detecting-who-executed-runtimebroker.exe-and-enabling-tracking.md)
   * [Event Viewer](windows-server/event-viewer/README.md)
     * [Restart / Shutdown Event](windows-server/event-viewer/restart-shutdown-event.md)
     * [User Logoff Event](windows-server/event-viewer/user-logoff-event.md)
