@@ -79,6 +79,8 @@
   * [Powershell Scripts](windows-server/powershell-scripts/README.md)
     * [IIS log parser — extract client IPs for requests served on s-port 80 or 443](windows-server/powershell-scripts/iis-log-parser-extract-client-ips-for-requests-served-on-s-port-80-or-443.md)
   * [Malware Detection & Prevention](windows-server/malware-detection-and-prevention/README.md)
+    * [Tools](windows-server/malware-detection-and-prevention/tools/README.md)
+      * [Microsoft Safety Scanner – stand-alone scan tool for Windows](windows-server/malware-detection-and-prevention/tools/microsoft-safety-scanner-stand-alone-scan-tool-for-windows.md)
     * [Detection](windows-server/malware-detection-and-prevention/detection/README.md)
       * [Malware Detection (Runtime Broker Issue)](windows-server/malware-detection-and-prevention/detection/malware-detection-runtime-broker-issue.md)
 * [Containers](containers/README.md)
