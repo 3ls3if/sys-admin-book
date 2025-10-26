@@ -85,6 +85,7 @@
       * [Malware Detection (Runtime Broker Issue)](windows-server/malware-detection-and-prevention/detection/malware-detection-runtime-broker-issue.md)
   * [Server Monitoring Scripts](windows-server/server-monitoring-scripts/README.md)
     * [PowerShell script for continuous server monitoring](windows-server/server-monitoring-scripts/powershell-script-for-continuous-server-monitoring.md)
+    * [Monitor and Log all active TCP connections](windows-server/server-monitoring-scripts/monitor-and-log-all-active-tcp-connections.md)
 * [Containers](containers/README.md)
   * [Install Docker: Windows Server](containers/install-docker-windows-server.md)
 * [Control Panels](control-panels/README.md)
