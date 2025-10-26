@@ -83,6 +83,8 @@
       * [Microsoft Safety Scanner – stand-alone scan tool for Windows](windows-server/malware-detection-and-prevention/tools/microsoft-safety-scanner-stand-alone-scan-tool-for-windows.md)
     * [Detection](windows-server/malware-detection-and-prevention/detection/README.md)
       * [Malware Detection (Runtime Broker Issue)](windows-server/malware-detection-and-prevention/detection/malware-detection-runtime-broker-issue.md)
+  * [Server Monitoring Scripts](windows-server/server-monitoring-scripts/README.md)
+    * [PowerShell script for continuous server monitoring](windows-server/server-monitoring-scripts/powershell-script-for-continuous-server-monitoring.md)
 * [Containers](containers/README.md)
   * [Install Docker: Windows Server](containers/install-docker-windows-server.md)
 * [Control Panels](control-panels/README.md)
