@@ -424,6 +424,7 @@
       * [Veeam Backup for Microsoft Office 365 – Restore](migration/mail-migration/m365-tenant-to-tenant-migration-veeam-backup-and-restore-method/veeam-backup-for-microsoft-office-365-restore.md)
     * [M365 Tenant to Tenant Migration - Acronis (Backup and Restore metho)](migration/mail-migration/m365-tenant-to-tenant-migration-acronis-backup-and-restore-metho.md)
     * [Migrate Hostinger Email to Google Workspace or Gmail Account](migration/mail-migration/migrate-hostinger-email-to-google-workspace-or-gmail-account.md)
+    * [Migrate Google Workspace to SmarterMail](migration/mail-migration/migrate-google-workspace-to-smartermail.md)
   * [VM Migration](migration/vm-migration.md)
   * [Website Migration](migration/website-migration/README.md)
     * [Migrating IIS Sites Using Web Deploy](migration/website-migration/migrating-iis-sites-using-web-deploy.md)
