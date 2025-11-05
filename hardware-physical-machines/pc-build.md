@@ -1,6 +1,0 @@
----
-icon: desktop
----
-
-# PC Build
-
