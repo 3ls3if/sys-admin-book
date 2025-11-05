@@ -275,6 +275,7 @@
     * [MS-Graph: Manage Users and Groups](email-and-office-365/automation/ms-graph-manage-users-and-groups.md)
     * [Powershell: Deleting Users in Microsoft 365](email-and-office-365/automation/powershell-deleting-users-in-microsoft-365.md)
     * [Powershell: Recovering Deleted Users in Microsoft 365](email-and-office-365/automation/powershell-recovering-deleted-users-in-microsoft-365.md)
+    * [Enable Archive Policy & Assign Retention Tag for a User in Microsoft 365](email-and-office-365/automation/enable-archive-policy-and-assign-retention-tag-for-a-user-in-microsoft-365.md)
   * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup/README.md)
     * [Set Up Connectors Between Microsoft 365 and SmarterMail](email-and-office-365/hybrid-mail-setup/set-up-connectors-between-microsoft-365-and-smartermail.md)
     * [Hybrid Setup: G-Suite to M365](email-and-office-365/hybrid-mail-setup/hybrid-setup-g-suite-to-m365.md)
