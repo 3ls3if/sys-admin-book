@@ -344,6 +344,7 @@
     * [Reduce Licenses in Google Workspace](email-and-office-365/google-workspace/reduce-licenses-in-google-workspace.md)
     * [Auto-forward From Google Workspace Using Routing](email-and-office-365/google-workspace/auto-forward-from-google-workspace-using-routing.md)
     * [Recovering administrator access to your account](email-and-office-365/google-workspace/recovering-administrator-access-to-your-account.md)
+    * [Restricting Email Communication to One Domain in Google Workspace (Gmail)](email-and-office-365/google-workspace/restricting-email-communication-to-one-domain-in-google-workspace-gmail.md)
   * [MailEnable](email-and-office-365/mailenable/README.md)
     * [Enable/Disable a User](email-and-office-365/mailenable/enable-disable-a-user.md)
   * [SmarterMail](email-and-office-365/smartermail/README.md)
