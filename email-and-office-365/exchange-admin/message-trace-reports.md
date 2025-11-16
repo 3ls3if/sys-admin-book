@@ -36,3 +36,4 @@ As an admin, you can find out what happened to an email message whether a messag
 ## REFERENCES
 
 * [https://o365reports.com/2022/11/29/discover-the-hidden-places-of-mail-flow-reports-in-microsoft-365/](https://o365reports.com/2022/11/29/discover-the-hidden-places-of-mail-flow-reports-in-microsoft-365/)
+* [https://o365reports.com/2024/10/15/message-trace-in-the-new-exchange-admin-center-a-complete-guide/](https://o365reports.com/2024/10/15/message-trace-in-the-new-exchange-admin-center-a-complete-guide/)
