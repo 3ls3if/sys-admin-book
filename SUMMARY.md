@@ -455,6 +455,7 @@
     * [Understanding the Orleans Silo Service in SmartSms: Why It Matters and How to Handle It](other-technologies/some-r-and-ds/understanding-the-orleans-silo-service-in-smartsms-why-it-matters-and-how-to-handle-it.md)
     * [Why a True Hybrid Mail Setup Between Microsoft 365 and Hostinger Is Not Possible](other-technologies/some-r-and-ds/why-a-true-hybrid-mail-setup-between-microsoft-365-and-hostinger-is-not-possible.md)
     * [How to Generate an SSL Certificate CSR as per HDFC Bank’s Updated Security Requirements](other-technologies/some-r-and-ds/how-to-generate-an-ssl-certificate-csr-as-per-hdfc-banks-updated-security-requirements.md)
+    * [Understanding SQL Server Express Edition Storage Limits and Their Impact on Application Data](other-technologies/some-r-and-ds/understanding-sql-server-express-edition-storage-limits-and-their-impact-on-application-data.md)
 * [Certifications](certifications/README.md)
   * [MS-102 Microsoft 365 Administrator: Notes](certifications/ms-102-microsoft-365-administrator-notes.md)
   * [SC-200 Microsoft Security Operations Analyst: Notes](certifications/sc-200-microsoft-security-operations-analyst-notes.md)
