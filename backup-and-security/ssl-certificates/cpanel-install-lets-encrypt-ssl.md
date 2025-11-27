@@ -10,7 +10,7 @@ This tutorial assumes you’ve already logged in to [**cPanel.**](https://chemic
 
 **1)** Once you are logged in to cPanel, scroll down the page to the ‘SECURITY’ area. Then click on **SSL/TLS Status** icon.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2)** The next step is to issue a new SSL certificate for the desired domain name. Select one or multiple domains/subdomains, then click ‘**Run AutoSSL**‘. It will take a few minutes for the SSL Certificate to be issued and installed.
 

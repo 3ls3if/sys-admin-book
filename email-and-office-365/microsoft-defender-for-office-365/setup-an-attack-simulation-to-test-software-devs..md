@@ -16,7 +16,7 @@ Scroll down and click Show all
 
 Click Security
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Scroll and click Attack simulation training
 

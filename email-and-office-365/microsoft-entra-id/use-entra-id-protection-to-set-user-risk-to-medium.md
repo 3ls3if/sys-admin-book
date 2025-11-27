@@ -14,7 +14,7 @@ Use Entra ID protection to set User Risk to Medium & Above. Sign In Risk to Low 
 
 Scroll up and click Show portal menu
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Scroll and click Security
 
