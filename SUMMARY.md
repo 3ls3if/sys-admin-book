@@ -462,6 +462,7 @@
     * [Understanding SQL Server Express Edition Storage Limits and Their Impact on Application Data](other-technologies/some-r-and-ds/understanding-sql-server-express-edition-storage-limits-and-their-impact-on-application-data.md)
     * [Fixing a SUSPECT Database in SQL Server and Restoring User Permissions: Complete Troubleshooting Gui](other-technologies/some-r-and-ds/fixing-a-suspect-database-in-sql-server-and-restoring-user-permissions-complete-troubleshooting-gui.md)
     * [Fixing SSL Certificate Chain Issues in IIS and API Applications](other-technologies/some-r-and-ds/fixing-ssl-certificate-chain-issues-in-iis-and-api-applications.md)
+    * [Understanding Exchange Online Plan 2 Licensing and Its Impact on Microsoft 365 Mailbox Features](other-technologies/some-r-and-ds/understanding-exchange-online-plan-2-licensing-and-its-impact-on-microsoft-365-mailbox-features.md)
 * [Certifications](certifications/README.md)
   * [MS-102 Microsoft 365 Administrator: Notes](certifications/ms-102-microsoft-365-administrator-notes.md)
   * [SC-200 Microsoft Security Operations Analyst: Notes](certifications/sc-200-microsoft-security-operations-analyst-notes.md)
