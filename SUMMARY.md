@@ -55,6 +55,7 @@
     * [Disable Multiple Session for Single User](windows-server/group-policy/disable-multiple-session-for-single-user.md)
     * [Disable Automatic Lock Screen in Windows Server](windows-server/group-policy/disable-automatic-lock-screen-in-windows-server.md)
     * [How to Automatically Free User Resources on Windows Server After Logout or Disconnection](windows-server/group-policy/how-to-automatically-free-user-resources-on-windows-server-after-logout-or-disconnection.md)
+    * [How to Disable or Relax Password Policy in Windows Server (Active Directory Domain)](windows-server/group-policy/how-to-disable-or-relax-password-policy-in-windows-server-active-directory-domain.md)
   * [Services](windows-server/services/README.md)
     * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
     * [Node-windows Library](windows-server/services/node-windows-library.md)
