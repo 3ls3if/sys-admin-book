@@ -4,9 +4,8 @@ icon: forward
 
 # Enable automatic forwarding in new Outlook
 
-How to enable automatic forwarding in new Outlook\
-
-
+How to enable automatic forwarding in new Outlook<br>
+-----------------------------------------------------
 
 1. <mark style="color:green;">At the top of the​​​​​​​ new Outlook window, select Settings .</mark>
 2. <mark style="color:green;">Select Mail > Forwarding.</mark>&#x20;
@@ -14,8 +13,7 @@ How to enable automatic forwarding in new Outlook\
 
     <mark style="color:green;">Note: If you want a copy of the original message to remain in your mailbox, select Keep a copy of forwarded messages.</mark>
 
-\
-
+<br>
 
 ***
 

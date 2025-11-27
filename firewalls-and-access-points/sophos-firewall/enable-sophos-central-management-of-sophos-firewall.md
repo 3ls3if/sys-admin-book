@@ -47,8 +47,7 @@ You can only register and manage firewalls with Sophos Central that connect to t
 
     ![Select Sophos Central services.](https://docs.sophos.com/central/customer/help/en-us/images/SFCentralServicesSelect.png)
 
-\
-
+<br>
 
 ***
 

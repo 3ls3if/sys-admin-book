@@ -11,8 +11,7 @@ NOTE: OneDrive for Business is not designed to be accessed over a mapped drive. 
 1\) Open Internet Explorer\
 2\) Go to [https://portal.office.com](https://portal.office.com/)\
 3\) Sign in with your email address and password\
-4\) Check the box that says "Don't show this again" and click "Yes"\
-
+4\) Check the box that says "Don't show this again" and click "Yes"<br>
 
 <figure><img src="https://itcompany.services/images/one-drive1.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,8 +51,7 @@ NOTE: OneDrive for Business is not designed to be accessed over a mapped drive. 
 4\) Select a free drive letter\
 5\) In the folder box, paste the URL from you clipboard, adding the word DOCUMENTS to the end. (Example): https://itcomp-my.sharepoint.com/personal/YOURID\_domain\_name\_com/Documents/\
 \
-\
-
+<br>
 
 <figure><img src="https://itcompany.services/images/one-drive4a.png" alt=""><figcaption></figcaption></figure>
 

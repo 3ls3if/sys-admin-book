@@ -38,8 +38,7 @@ As an alternative, you can enter a direct link to Microsoft admin center in a we
 
 **Enter Office 365 admin account name and password to sign in.**
 
-Office 365 admin center is available only for organization accounts using business subscription plans. Accounts for organizations should be configured to use a domain for Office 365 services. The Office 365 admin center is not available for separate home users who use personal accounts and subscription plans.\
-
+Office 365 admin center is available only for organization accounts using business subscription plans. Accounts for organizations should be configured to use a domain for Office 365 services. The Office 365 admin center is not available for separate home users who use personal accounts and subscription plans.<br>
 
 ***
 
@@ -68,8 +67,7 @@ Once you log into Microsoft 365 admin center (formerly known as Office 365 admin
 
 3\. The _Admin centers_ panel.
 
-Let’s look at each panel of the interface of Microsoft 365 admin center in detail.\
-
+Let’s look at each panel of the interface of Microsoft 365 admin center in detail.<br>
 
 ***
 
@@ -214,8 +212,7 @@ The _Admin centers_ section that is located in the bottom of the navigation pane
 
 The Microsoft 365 admin center is the updated version of Office 365 admin center. It is now a unified management interface for configuring all Microsoft cloud services and applications for an organization. The Microsoft 365 admin center allows administrators to access all admin centers from a single pane of glass – administrators can open the Exchange Online admin center, SharePoint Online admin center, OneDrive admin center, and so on. The Office 365 company administrator can delegate some administrative tasks to other users by using admin roles. Overall, the Microsoft 365 admin center provides a high level of flexibility and usability for administrators.
 
-\
-
+<br>
 
 
 

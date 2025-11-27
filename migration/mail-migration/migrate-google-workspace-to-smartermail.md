@@ -20,12 +20,10 @@ You must have [2-Step-Verification](https://itsupport.umd.edu/itsupport?id=kb_ar
 1. Visit your [App passwords](https://myaccount.google.com/apppasswords) page. You may be asked to sign in to your Google Account.
 2. At the bottom, click **Select app** and choose the app you're using. You can also select **Other** and enter you own custom app name.
 3. Click **Select device** and choose the device you're using. You can also select **Other** and enter you own custom device name.
-4.  Click **Generate**.\
-
+4.  Click **Generate**.<br>
 
     <figure><img src="https://itsupport.umd.edu/create-app-password-gmail-google-account.pngx" alt=""><figcaption></figcaption></figure>
-5.  Be sure to copy the password that was generated. When using the password, do not use spaces.\
-
+5.  Be sure to copy the password that was generated. When using the password, do not use spaces.<br>
 
     <figure><img src="https://itsupport.umd.edu/Yourapppassword.pngx" alt=""><figcaption></figcaption></figure>
 {% endhint %}

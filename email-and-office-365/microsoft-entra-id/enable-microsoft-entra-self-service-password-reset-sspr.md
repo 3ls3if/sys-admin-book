@@ -46,8 +46,7 @@ You did successfully configure Self-Service Password Reset for the cloud-only te
 
 Do you have a hybrid deployment (on-premises and cloud)? Follow the next step.
 
-\
-
+<br>
 
 ### How to enable Self-Service Password Reset in Hybrid deployment <a href="#h-how-to-enable-self-service-password-reset-in-hybrid-deployment" id="h-how-to-enable-self-service-password-reset-in-hybrid-deployment"></a>
 
@@ -70,8 +69,7 @@ Make sure you enable Self-Service Password Reset in Microsoft Entra ID, as shown
 
 <figure><img src="https://www.alitajran.com/wp-content/uploads/2024/05/Enable-Microsoft-Entra-Self-Service-Password-Reset-03.png" alt="Microsoft Entra Connect Sync customize synchronization options" height="620" width="880"><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 6. Enter your **Microsoft Entra ID global administrator credentials**
 7. Click **Next**
@@ -84,15 +82,13 @@ Make sure you enable Self-Service Password Reset in Microsoft Entra ID, as shown
 
 <figure><img src="https://www.alitajran.com/wp-content/uploads/2024/05/Enable-Microsoft-Entra-Self-Service-Password-Reset-05.png" alt="Enable Password writeback in Microsoft Enra Connect Sync" height="620" width="880"><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 11. Click **Configure**
 
 <figure><img src="https://www.alitajran.com/wp-content/uploads/2024/05/Enable-Microsoft-Entra-Self-Service-Password-Reset-06.png" alt="Microsoft Entra Connect Sync ready to configure" height="620" width="880"><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 12. The configuration did **complete successfully**
 13. Click **Exit**
@@ -127,8 +123,7 @@ The group policy for **Minimum password age** must be set to **0** for password 
 
 <figure><img src="https://www.alitajran.com/wp-content/uploads/2024/05/Enable-Microsoft-Entra-Self-Service-Password-Reset-09.png" alt="Enable Microsoft Entra password reset for on-premises minumum password age" height="598" width="787"><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 4. Run **Command Prompt** as administrator and use the **gpupdate /force** command.
 

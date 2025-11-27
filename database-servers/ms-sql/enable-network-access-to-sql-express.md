@@ -103,8 +103,7 @@ Establish server connection where Calibration Control is installed by simply usi
 
 Or, if the test connection is not successful, refer to this help page for [Troubleshooting SQL Server Connection](https://www.apesoftware.com/calibration-control/help/sql-server-connection-troubleshooting) for testing with a UDL File on the computer from which the SQL Connection failed.
 
-\
-
+<br>
 
 ***
 

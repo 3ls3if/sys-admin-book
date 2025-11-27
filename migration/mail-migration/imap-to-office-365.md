@@ -157,8 +157,7 @@ You will be asked to provide your IMAP server details, which include:
 
 
 
-\
-
+<br>
 
 ***
 

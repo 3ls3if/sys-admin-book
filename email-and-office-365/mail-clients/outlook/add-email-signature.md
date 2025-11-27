@@ -40,4 +40,4 @@ Once you're satisfied with your signature, select the checkbox that applies to y
 
 Don’t forget to click ‘Save’ at the bottom of the page when you’re done. Close the settings window, and now your new signature should appear at the bottom of every email you send.
 
-\
+<br>

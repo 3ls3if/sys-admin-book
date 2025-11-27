@@ -67,8 +67,7 @@ You can see the status of all of your pending bulk requests in the **Bulk operat
 
 <figure><img src="https://learn.microsoft.com/en-us/entra/identity/users/media/users-bulk-add/bulk-center.png" alt=""><figcaption></figcaption></figure>
 
-Next, you can check to see that the users you created exist in the Microsoft Entra organization either in the Azure portal or by using PowerShell.\
-
+Next, you can check to see that the users you created exist in the Microsoft Entra organization either in the Azure portal or by using PowerShell.<br>
 
 ## Verify users
 
@@ -85,8 +84,7 @@ Next, you can check to see that the users you created exist in the Microsoft Ent
 Get-MgUser -Filter "UserType eq 'Member'"
 ```
 
-\
-
+<br>
 
 ***
 

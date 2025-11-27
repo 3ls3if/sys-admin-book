@@ -9,15 +9,13 @@ icon: windows
 1. Go to Start >> Administrative Tools >> Internet Information Services (IIS) Manager.
 2. Select the server on which the certificate is installed.
 3.  Choose the Server Certificates option on the central menu:\
-    \
-
+    <br>
 
     <figure><img src="https://namecheap.simplekb.com/SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iis_exp_14.png" alt=""><figcaption></figcaption></figure>
 4.  Right-click on the needed certificate and select Export.\
     \
     Only the certificates associated with private keys are shown in the list of server certificates in IIS Manager.\
-    \
-
+    <br>
 
     <figure><img src="https://namecheap.simplekb.com/SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iis_exp_15.png" alt=""><figcaption></figcaption></figure>
 5.  Specify the filename, location, and PFX export password and click OK:\
@@ -28,4 +26,4 @@ icon: windows
 
     <figure><img src="https://namecheap.simplekb.com/SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iis_exp_16.png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

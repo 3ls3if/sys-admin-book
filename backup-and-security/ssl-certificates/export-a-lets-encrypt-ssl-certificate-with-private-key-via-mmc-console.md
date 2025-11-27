@@ -13,17 +13,14 @@ Step 1: Start MMC and Attempt to Export the Certificate:
 1. Open Microsoft Management Console (MMC).
 2. Add the Certificates snap-in.
 3. Locate the Let’s Encrypt certificate.
-4.  Right-click on the certificate, select All Tasks, and click Export….\
-
+4.  Right-click on the certificate, select All Tasks, and click Export….<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f056c9.png" alt=""><figcaption></figcaption></figure>
-5.  The Certificate Export Wizard will appear. Click Next.\
-
+5.  The Certificate Export Wizard will appear. Click Next.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f10e03.png" alt=""><figcaption></figcaption></figure>
 6. Select Yes, export the private key.
-7.  If this option is greyed out, click Cancel and proceed to the next step to import the private key.\
-
+7.  If this option is greyed out, click Cancel and proceed to the next step to import the private key.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f1dc6f.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,17 +29,14 @@ Before importing the private key, you need to obtain the certificate password fr
 
 1. Navigate to the Win-ACME installation folder.
 2. Launch the Win-ACME client.
-3.  Select A to manage renewals and press Enter.\
-
+3.  Select A to manage renewals and press Enter.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f2f6e7.png" alt=""><figcaption></figcaption></figure>
-4.  Choose D to display renewal details and press Enter.\
-
+4.  Choose D to display renewal details and press Enter.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f37afc.png" alt=""><figcaption></figcaption></figure>
 5.  Locate the .pfx password and copy it. Example:\
-    n8LVJLxx2vQrC3QB2G7cn/mdeMK/RyGMBt8ECq8GYjs=\
-
+    n8LVJLxx2vQrC3QB2G7cn/mdeMK/RyGMBt8ECq8GYjs=<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f4b6f6.png" alt=""><figcaption></figcaption></figure>
 6. Use this password in the next step to import the private key.
@@ -51,16 +45,13 @@ Step 3: Import the Private Key in Windows
 
 1. Navigate to the certificate directory:\
    C:\ProgramData\win-acme\acme-v02.api.letsencrypt.org\Certificates
-2.  Double-click the certificate to start the Certificate Import Wizard.\
-
+2.  Double-click the certificate to start the Certificate Import Wizard.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f71856.png" alt=""><figcaption></figcaption></figure>
-3.  Select Local Machine and click Next.\
-
+3.  Select Local Machine and click Next.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38f904c5.png" alt=""><figcaption></figcaption></figure>
-4.  The file path is automatically populated. Click Next.\
-
+4.  The file path is automatically populated. Click Next.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38fa4d81.png" alt=""><figcaption></figcaption></figure>
 5. Paste the private key password copied earlier.
@@ -78,16 +69,14 @@ Step 4: Export the Let’s Encrypt Certificate to PFX Format
 2. Navigate to Certificates snap-in.
 3. Right-click the Let’s Encrypt certificate, select All Tasks, then Export….
 4. Click Next.
-5.  This time, the Yes, export the private key option should be selectable. Click Next.\
-
+5.  This time, the Yes, export the private key option should be selectable. Click Next.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38fd1f1f.png" alt=""><figcaption></figcaption></figure>
 6. Check the following options:
    * Include all certificates in the certification path if possible
    * Export all extended properties
    * Enable certificate privacy
-7.  Click Next.\
-
+7.  Click Next.<br>
 
     <figure><img src="https://www.eukhost.com/kb/wp-content/uploads/2025/03/Snag_38fe6bf3.png" alt=""><figcaption></figcaption></figure>
 8. Select Password, enter a secure password, and confirm it. This password is required for future imports.

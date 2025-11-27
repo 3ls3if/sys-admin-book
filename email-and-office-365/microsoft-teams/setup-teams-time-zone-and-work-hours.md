@@ -25,8 +25,7 @@ icon: hourglass-half
 1\. To set your work schedule in Outlook, do the following:\
 &#x20;       &#x20;
 
-&#x20;       <mark style="color:green;">Select Settings > View all Outlook settings > Calendar.</mark>\
-
+&#x20;       <mark style="color:green;">Select Settings > View all Outlook settings > Calendar.</mark><br>
 
 Choose <mark style="color:green;">Work hours and location</mark>, and then define your work schedule by choosing days, times, and locations.\
 \

@@ -45,8 +45,7 @@ To verify changes, again open the **‘Server Manager’** and you will notice t
 
 ![screenshot of highlighted Computer Name](https://cdn.hostadvice.com/2022/04/how-to-change-hostname-or-server-name-in-windows-server-2022-8.png)
 
-\
-
+<br>
 
 ***
 

@@ -48,9 +48,8 @@ The file manager is used to upload, remove and organize all website files.
 
 ***
 
-How to create a new file\
-
-
+How to create a new file<br>
+----------------------------
 
 1. Log in to **Plesk**.
 2.  In the Websites & Domains section,  navigate to the **File Manager.**

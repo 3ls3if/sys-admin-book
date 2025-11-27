@@ -14,8 +14,7 @@ To get the **Root Certificate:**\
 2\. Go to the Certification Path tab, highlight the first certificate (Root), then click the View Certificate.\
 \
 ![root\_cert\_image.png](https://solarwindscore.my.site.com/SuccessCenter/servlet/rtaImage?eid=ka1Ht000000H7qg\&feoid=00N5000000AcxPm\&refid=0EMHt000005rn4x)\
-\
-
+<br>
 
 3\. Go to the Details Tab and hit Copy to file.\
 \

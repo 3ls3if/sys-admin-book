@@ -45,8 +45,7 @@ The Exchange administrator or another organization user will have access permiss
 
 ## Catch all mailbox risks
 
-The catch all mailbox is not a supported solution by Microsoft 365. Therefore, Microsoft has not published formal information about the catch all mailbox feature. It’s to avoid the fact that the catch all mailbox can increase spam emails in Microsoft 365 mail server.\
-
+The catch all mailbox is not a supported solution by Microsoft 365. Therefore, Microsoft has not published formal information about the catch all mailbox feature. It’s to avoid the fact that the catch all mailbox can increase spam emails in Microsoft 365 mail server.<br>
 
 {% hint style="warning" %}
 **Note:** Exchange Online does not have the catch-all mailbox feature enabled by default.
@@ -193,8 +192,7 @@ Set up the basics.
 
 <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-dynamic-distribution-3.png" alt="Create a dynamic distribution group in Exchange admin center to catch all mailbox" height="724" width="1042"><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Assign users.
 
@@ -274,91 +272,79 @@ Create a new transport rule in Exchange admin center.
     Click _Mail flow > Rules_\
     Click _Add a rule_\
     Select _Create a new rule_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-rule-1.png" alt=""><figcaption></figcaption></figure>
 2.  **Set rule conditions**
 
     Type the name _Catch all rule_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-rule-2.png" alt=""><figcaption></figcaption></figure>
 3.  **Apply this rule if**
 
     Select > _The sender_\
     Select > _is external/internal_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-rule-3.png" alt=""><figcaption></figcaption></figure>
 4.  **Select sender location**
 
     Select > _Outside the organization_\
     Click _Save_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-rule-4.png" alt=""><figcaption></figcaption></figure>
 5.  **Do the following**
 
     Select > _Redirect the message to_\
     Select > _these recipients_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-rule-5.png" alt=""><figcaption></figcaption></figure>
 6.  **Select members**
 
     Search and select the created shared mailbox from the list\
     Click _Save_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/06/Catch-all-mailbox-rule-6.png" alt=""><figcaption></figcaption></figure>
 7.  **Except if**
 
     Select > _The recipient_\
     Select > _is a member of this group_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-rule-7.png" alt=""><figcaption></figcaption></figure>
 8.  **Select members**
 
     Select the created dynamic distribution group > _All Microsoft 365 recipients_\
     Click _Save_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/06/Catch-all-mailbox-rule-8.png" alt=""><figcaption></figcaption></figure>
 9.  **Name and set conditions for your transport rule results**
 
     Click _Next_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/06/Catch-all-mailbox-rule-9.png" alt=""><figcaption></figcaption></figure>
 10. **Set rule settings**
 
     Leave the default settings & click _Next_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/06/Catch-all-mailbox-rule-10.png" alt=""><figcaption></figcaption></figure>
 11. **Review and finish**
 
     Click _Finish_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/06/Catch-all-mailbox-rule-11.png" alt=""><figcaption></figcaption></figure>
 12. **Transport rule created successfully**
 
     Click _Done_ to close the pane\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/05/Catch-all-mailbox-rule-12.png" alt=""><figcaption></figcaption></figure>
 
@@ -407,8 +393,7 @@ You did successfully configure the catch all mailbox rule in Exchange admin cent
 
 You learned how to configure a catch all mailbox for your organization in Exchange admin center. It solves the problem of missing important emails because of spelling errors. Remember that this is not a solution for every organization, as it can cause an increase in spam emails. But it’s an excellent way to control every message sent to the organization that didn’t reach the recipient’s mailbox.
 
-\
-
+<br>
 
 
 

@@ -6,8 +6,7 @@ icon: java
 
 ## CSR Generation Steps JBOSS
 
-In order to generate a keystore for your JBoss system perform the following instructions listed below.\
-
+In order to generate a keystore for your JBoss system perform the following instructions listed below.<br>
 
 ### **Step 1: Create a Keystore:**
 
@@ -43,12 +42,10 @@ Note: You will need to use this custom password later for installation and to co
    4. Locality or City (L): The Locality field is the city or town name, for example: Boston
    5. State or Province (S): Spell out the state completely; do not abbreviate the state or province name, for example: New York
    6.  Country Name (C): Use the two-letter code without punctuation for country, for example: US or CA.\
-       \
-
+       <br>
 
        <figure><img src="https://desk.zoho.com/galleryDocuments/edbsn079146678ef13d5d3fc556ac9a54183417fa34bdd9f3654ba7638f6ed5e0ecd5b523ccfdbad26706a39af67b6ca394d6?inline=true" alt=""><figcaption></figcaption></figure>
-4. **Confirm or reject the details by typing “Yes” or “No” and press Enter.**\
-
+4. **Confirm or reject the details by typing “Yes” or “No” and press Enter.**<br>
 
 ### Step 2: Creating your CSR from your keystore:
 

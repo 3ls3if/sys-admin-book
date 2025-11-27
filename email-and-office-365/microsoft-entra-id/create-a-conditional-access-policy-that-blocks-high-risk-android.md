@@ -112,7 +112,7 @@ Click highlight
 
 Click Select
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/TKWRxQwcy6DKyZgs96k0" alt=""><figcaption></figcaption></figure>
 
 Click highlight
 

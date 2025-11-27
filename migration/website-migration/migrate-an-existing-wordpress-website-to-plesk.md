@@ -32,8 +32,7 @@ In the screenshot below, we have moved all the files to a sub-folder called “o
 
 5\. Upload your zipped folder for your WordPress website files to the “httpdocs” folder. Select the folder and click “Archive” > “Extract Files” to unzip the folder.
 
-6\. After unzipping, if your WordPress files are all in a sub-folder, select all the files and use the “Move” button to move them all the “httpdocs” folder.\
-
+6\. After unzipping, if your WordPress files are all in a sub-folder, select all the files and use the “Move” button to move them all the “httpdocs” folder.<br>
 
 ## Setting Up Your Database
 
@@ -72,8 +71,7 @@ In the screenshot below, we have moved all the files to a sub-folder called “o
 
 ![](https://eggplant.b-cdn.net/wp-content/uploads/2021/09/plesk-files-add-wp-config-details.jpg)
 
-7\. Now you should be ready to view your website, visit your domain name to see your migrated site.\
-
+7\. Now you should be ready to view your website, visit your domain name to see your migrated site.<br>
 
 ***
 

@@ -8,8 +8,7 @@ icon: google
 
 A lot of hiccups in Gmail arise from corrupted cookies or cache.  There are instructions around on how to do this, but it can be difficult to find them.  The [Gmail Help Article](https://support.google.com/accounts/answer/32050) only gives the instructions for Google products.  The links to other browsers given there are almost useless because they just point to the home page for each other browser's support site.\
 \
-So here is a collection of instructions for all browsers.  Each heading is a link to the vendor's site where I collected the instructions.\
-
+So here is a collection of instructions for all browsers.  Each heading is a link to the vendor's site where I collected the instructions.<br>
 
 #### [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXysb5KxmLErL-6Ou1kOxXku5PjQXcFHVU5xDrc-zNb14Ivn1udCQfbXu1CWbypzXHacUqScHOWVDJs169vb-BNa-leNJhWHSXNkO3MXys8NnA2QdpPzXT2SdhmTYnYdIobGIqO9sx8us/s1600/_icon_chrome.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXysb5KxmLErL-6Ou1kOxXku5PjQXcFHVU5xDrc-zNb14Ivn1udCQfbXu1CWbypzXHacUqScHOWVDJs169vb-BNa-leNJhWHSXNkO3MXys8NnA2QdpPzXT2SdhmTYnYdIobGIqO9sx8us/s1600/_icon_chrome.jpg)[Chrome](https://support.google.com/accounts/answer/32050)
 
@@ -24,8 +23,7 @@ So here is a collection of instructions for all browsers.  Each heading is a lin
 
 #### ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNX8R1k5KVCsde98jejBrpH1_QdvWJhi_5DyNZQjLXoSSwngBWpICnXQuo_YiWyAVGbpggApuWg_SGLhXYmGEpNpR0R-raUZTLmf8N9MLBp7ts8iGavNnyDZk3tXLXaTbZZHUeZlu1VI/s1600/_icon_firefox.jpg) [Firefox](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache)
 
-On 9 October 2018, I noticed that version 62 has different menu structure.  For V62:\
-
+On 9 October 2018, I noticed that version 62 has different menu structure.  For V62:<br>
 
 1. On your computer, open Firefox.
 2. Sign out of your Google account if you are still signed in.
@@ -34,8 +32,7 @@ On 9 October 2018, I noticed that version 62 has different menu structure.  For 
 5. Under Cookies and Site Data , click on the Clear Data button.
 6. Select both Cookies and Site Data and Cached Web Content then, click Clear.
 
-If you are using an older version of Firefox, these instructions might apply\
-
+If you are using an older version of Firefox, these instructions might apply<br>
 
 1. On your computer, open Firefox.
 2. Sign out of your Google account if you are still signed in.
@@ -78,8 +75,7 @@ If you are using an older version of Firefox, these instructions might apply\
 
 #### [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjymhkDxGnD3XQPZP3M02R_9Cz_N2fAbyeRVBPy8qJVXkkpiQYgQsF_OU60Vxpg5H0xvgO2-g1HJ5ltiKxdJDLoEdfuVGNFOdgJmd0eP4fUfqAtjD53XomIAgzLlR44r1NWER6vTuBeGvg/s1600/_icon_safari.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjymhkDxGnD3XQPZP3M02R_9Cz_N2fAbyeRVBPy8qJVXkkpiQYgQsF_OU60Vxpg5H0xvgO2-g1HJ5ltiKxdJDLoEdfuVGNFOdgJmd0eP4fUfqAtjD53XomIAgzLlR44r1NWER6vTuBeGvg/s1600/_icon_safari.jpg) [Safari](http://www.czqsoft.com/useguides/Mac-OS-Sierra-Delete-Browsing-History-Cache)
 
-**Desktop**\
-
+**Desktop**<br>
 
 1. On your computer, open Safari.
 2. Sign out of your Google account if you are still signed in.

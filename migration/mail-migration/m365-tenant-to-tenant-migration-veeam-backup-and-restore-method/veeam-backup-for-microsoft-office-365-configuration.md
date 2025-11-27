@@ -6,13 +6,11 @@ icon: gears
 
 This post will walk through the configuration steps. The screen below is what you will see when you open the console and connect to a brand-new installation.
 
-The first task we have to perform is adding an organisation. Here we can add an Office 365 organisation but this product will also allow for protecting Microsoft Exchange on premises.\
-
+The first task we have to perform is adding an organisation. Here we can add an Office 365 organisation but this product will also allow for protecting Microsoft Exchange on premises.<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam1.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam2.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,11 +18,9 @@ For the walkthrough I am going to add my Office 365 organisation, I mean who has
 
 ![121919 2303 HowToVeeam3](https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam3.png)
 
-In the previous release of the product Modern Authentication was added as well as the existing basic authentication. It is always advised here to use Modern Authentication. Falko Banaszak did an awesome post for how to configure modern authentication within Microsoft Azure Active Directory for Veeam Backup for Microsoft Office 365, you can find that [here](https://www.virtualhome.blog/2019/05/02/modern-authentication-with-veeam-backup-for-office-365-v3/).\
+In the previous release of the product Modern Authentication was added as well as the existing basic authentication. It is always advised here to use Modern Authentication. Falko Banaszak did an awesome post for how to configure modern authentication within Microsoft Azure Active Directory for Veeam Backup for Microsoft Office 365, you can find that [here](https://www.virtualhome.blog/2019/05/02/modern-authentication-with-veeam-backup-for-office-365-v3/).<br>
 
-
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam4.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,15 +40,13 @@ There is always a default backup repository created, we are not going to use thi
 
 Before we create that new Backup Repository, we need to connect to our Object Storage Repository.
 
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam8.png" alt=""><figcaption></figcaption></figure>
 
 A very simple wizard driven approach again, give your new repository a name.
 
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam9.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,8 +56,7 @@ The biggest feature added in Veeam Backup for Microsoft Office 365 v4 is the fac
 
 For the series I am using AWS S3, all should become clearer later on in the series. We need to provide our cloud credentials here. This will be your access key and secret key for AWS accounts. Be careful here as you don’t want to be letting them get into the wrong hands.
 
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam11.png" alt=""><figcaption></figcaption></figure>
 
@@ -87,8 +80,7 @@ Before we can get going with creating a backup job, we need to create that repos
 
 Next you elect your backup proxy and the path to your local backup repository; this will be where metadata and cache will be stored. If you choose not to use Object Storage then this is where you would determine the location for all of your backup files.
 
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam17.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,20 +88,17 @@ If you are intending to use the direct to Object Storage, then you will need to 
 
 We also have another new feature here in the fact that you can encrypt the data being uploaded to object storage. Specifically calling out security when sending data into the public cloud.
 
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2303_HowToVeeam18.png" alt=""><figcaption></figcaption></figure>
 
 Finally, we can choose our retention policy,
 
-**Item-Level Retention**\
-
+**Item-Level Retention**<br>
 
 Select this type if you want to keep an item until its creation time or last modification time is within the retention coverage.
 
-**Snapshot-Based Retention**\
-
+**Snapshot-Based Retention**<br>
 
 Select this type if you want to keep an item until its latest restore point is within the retention coverage.
 

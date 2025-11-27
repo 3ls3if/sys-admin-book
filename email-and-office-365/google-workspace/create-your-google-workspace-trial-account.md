@@ -6,8 +6,7 @@ icon: cart-plus
 
 ## Exercise directions
 
-Explore each step of this exercise at your own pace. Please be sure to follow the embedded links to get the best experience.\
-
+Explore each step of this exercise at your own pace. Please be sure to follow the embedded links to get the best experience.<br>
 
 **Step 1**
 
@@ -17,8 +16,7 @@ Open an incognito web browser window, and navigate to the [Google Workspace pric
 
 **Step 2**
 
-The default Google Workspace trial edition is Business Standard. But, for this training, you will require a trial version of Business Plus, so click the **Start a trial** button in the Business Plus column. This will take you to the first screen in the sign-up process.\
-
+The default Google Workspace trial edition is Business Standard. But, for this training, you will require a trial version of Business Plus, so click the **Start a trial** button in the Business Plus column. This will take you to the first screen in the sign-up process.<br>
 
 **Step 3**
 
@@ -32,8 +30,7 @@ Enter the following information:
 
 **Step 4**
 
-Click **Next**. This takes you to the screen where you choose what domain you will associate with your new Google Workspace account.\
-
+Click **Next**. This takes you to the screen where you choose what domain you will associate with your new Google Workspace account.<br>
 
 **Step 5**
 
@@ -49,28 +46,23 @@ Enter your desired domain name. If the domain is available, you will automatical
 
 **Step 7**
 
-Check the box next to **I acknowledge that \<yourdomain> is not eligible for private registration and that my contact information will be publicly associated with this domain** and click **Next**.\
-
+Check the box next to **I acknowledge that \<yourdomain> is not eligible for private registration and that my contact information will be publicly associated with this domain** and click **Next**.<br>
 
 **Step 8**
 
-Enter your business address and phone number, then click **Next**.\
-
+Enter your business address and phone number, then click **Next**.<br>
 
 **Step 9**
 
-You must now create your Google Workspace administrator account. Enter an email address, e.g. admin@yourdomain and a password, and check the **I'm not a robot** box.\
-
+You must now create your Google Workspace administrator account. Enter an email address, e.g. admin@yourdomain and a password, and check the **I'm not a robot** box.<br>
 
 **Step 10**
 
-Click **Agree and continue**.\
-
+Click **Agree and continue**.<br>
 
 **Step 11**
 
-Click **Try free for 14 days** to activate a 2-week trial of the Google Workspace Business Plus subscription.\
-
+Click **Try free for 14 days** to activate a 2-week trial of the Google Workspace Business Plus subscription.<br>
 
 **Step 12**
 

@@ -9,8 +9,7 @@ icon: cpanel
 You can generate a Certificate Signing Request (CSR) in the cPanel account after your domain is pointing to the hosting product.
 
 1. Go to your GoDaddy [product page](https://account.godaddy.com/products/).
-2.  Under **Web Hosting**, next to the Linux Hosting account you want to use, click **Manage**.\
-
+2.  Under **Web Hosting**, next to the Linux Hosting account you want to use, click **Manage**.<br>
 
     <figure><img src="https://images.ctfassets.net/7y9uzj0z4srt/VxtljMzudNXXi1aL8msiW/c978f5679f4d13de66278650fbd21995/hosting-cpanel-click-manage-092719.png" alt=""><figcaption></figcaption></figure>
 3. In the account **Dashboard**, click **cPanel Admin**.

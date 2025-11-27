@@ -40,7 +40,7 @@ Please follow the procedures below to delete your FTP account.
 
 ![FTP Access.](https://utho.com/docs/control-panels/plesk/how-to-remove-ftp-account-in-plesk/images/image-208-1024x186.png)
 
-### \* Successfully deleted FTP account 
+### \* Successfully deleted FTP account <br>
 
 ***
 

@@ -21,8 +21,7 @@ An organizational unit (OU) is a group that an administrator can create in the G
 
 **Step 1**
 
-If you are not already signed in, sign in to your domain as the Administrator at [admin.google.com](https://admin.google.com/).\
-
+If you are not already signed in, sign in to your domain as the Administrator at [admin.google.com](https://admin.google.com/).<br>
 
 **Step 2**
 
@@ -32,8 +31,7 @@ From the main menu, select **Directory**, then click **Organizational units**.
 
 **Step 3**
 
-Click **Create organizational unit**.\
-
+Click **Create organizational unit**.<br>
 
 **Step 4**
 
@@ -43,8 +41,7 @@ Name the OU the _Executive_ and click **CREATE**.
 
 **Step 5**
 
-Create another OU called _Employees_.\
-
+Create another OU called _Employees_.<br>
 
 **Step 6**
 
@@ -54,8 +51,7 @@ From the main menu, navigate to **Directory** and select **Users**. You should s
 
 **Step 7**
 
-Select _Alex_, _Lars_, Sam, and Timothy by checking the box next to their name in the user list.\
-
+Select _Alex_, _Lars_, Sam, and Timothy by checking the box next to their name in the user list.<br>
 
 **Step 8**
 
@@ -73,8 +69,7 @@ Click **CHANGE** to confirm the move.
 
 Repeat steps 7-9, but, this time, move Ellie, Jon, Tom, and Will to the Employees OU.
 
-\
-
+<br>
 
 **Please note**: Changes can take 24 hours to propagate to all users.
 

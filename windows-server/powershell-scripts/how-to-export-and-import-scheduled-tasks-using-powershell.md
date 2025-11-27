@@ -16,8 +16,7 @@ To export a scheduled task with PowerShell, use these steps:
 
 Once you complete these steps, the task will export into a file using a .xml extension, which you can then use to import the same task on the same or another computer or installation.
 
-\
-
+<br>
 
 ***
 
@@ -35,8 +34,7 @@ To import a task with PowerShell, use these steps:
 
 After completing these steps, the exported scheduled task will be imported to the location you specified in Task Scheduler.
 
-\
-
+<br>
 
 ***
 

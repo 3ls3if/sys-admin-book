@@ -66,4 +66,4 @@ Click Continue
 
 Click Done
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/pZK5z8X53lHt22Z6dNJl" alt=""><figcaption></figcaption></figure>

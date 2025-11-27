@@ -69,11 +69,9 @@ To automate Microsoft 365 backups using Acronis True Image, follow this step-by-
   * Recover OneDrive files or specific folders.
   * Restore SharePoint data or Teams messages and files.
 
-By following these steps, you can ensure continuous protection of your Microsoft 365 data with minimal manual intervention.\
+By following these steps, you can ensure continuous protection of your Microsoft 365 data with minimal manual intervention.<br>
 
-
-\
-
+<br>
 
 ***
 

@@ -6,23 +6,19 @@ icon: turntable
 
 ## Exercise directions
 
-Each registrar has their own console. The instructions below assume your domain is hosted by Google Domains.\
-
+Each registrar has their own console. The instructions below assume your domain is hosted by Google Domains.<br>
 
 **Step 1**
 
-If you are not already signed in, sign in to your domain as the Administrator at [admin.google.com](http://admin.google.com/).\
-
+If you are not already signed in, sign in to your domain as the Administrator at [admin.google.com](http://admin.google.com/).<br>
 
 **Step 2**&#x20;
 
-From the main menu, select **Account**. Click **Domains**, then **Manage domains**.\
-
+From the main menu, select **Account**. Click **Domains**, then **Manage domains**.<br>
 
 **Step 3**&#x20;
 
-You’ll be redirected to a page that contains a table listing your domains. Locate the row containing your primary domain (typically the first row).\
-
+You’ll be redirected to a page that contains a table listing your domains. Locate the row containing your primary domain (typically the first row).<br>
 
 Under the **Actions** column, click the **View Details** link in that row.
 
@@ -30,8 +26,7 @@ Under the **Actions** column, click the **View Details** link in that row.
 
 **Step 4**&#x20;
 
-A panel will pop up containing a dropdown menu for advanced DNS settings. Expand the **Advanced DNS** settings option to see the login information for the DNS console, and click the **SIGN IN TO DNS CONSOLE** link within that section. After signing into the console, you will see a number of records already populated for you.\
-
+A panel will pop up containing a dropdown menu for advanced DNS settings. Expand the **Advanced DNS** settings option to see the login information for the DNS console, and click the **SIGN IN TO DNS CONSOLE** link within that section. After signing into the console, you will see a number of records already populated for you.<br>
 
 These include:
 

@@ -33,8 +33,7 @@ Once you have downloaded the latest version to your windows server you will then
     [![Smartermailp4](https://learn.xbytecloud.com/uploads/default/optimized/1X/280e340c1bc9b4a5330d702ad3e935637fd5a328_2_304x375.png)](https://learn.xbytecloud.com/uploads/default/original/1X/280e340c1bc9b4a5330d702ad3e935637fd5a328.png)
 
     _You shouldn’t need to pre-create a site in IIS for Smartermail unless the installer is not allowing you to create a new site._
-6.  If you chose “**Create a new site**”, then you should be able to leave things as is and click “**Next**”.\
-
+6.  If you chose “**Create a new site**”, then you should be able to leave things as is and click “**Next**”.<br>
 
     [![Smartermailp5](https://learn.xbytecloud.com/uploads/default/optimized/1X/e98db5fbef89de3e423d3259d09de661acc3599c_2_302x375.png)](https://learn.xbytecloud.com/uploads/default/original/1X/e98db5fbef89de3e423d3259d09de661acc3599c.png)
 
@@ -48,8 +47,7 @@ Once you have downloaded the latest version to your windows server you will then
 ## Post-install Setup <a href="#post-install-setup-2" id="post-install-setup-2"></a>
 
 1. On the server that you have installed Smartermail, Open up any browser other than IE and navigate to `http://127.0.0.1:9998/`
-2.  Enter the username, password, and Data path, then click “**Finish**”.\
-
+2.  Enter the username, password, and Data path, then click “**Finish**”.<br>
 
     [![image](https://learn.xbytecloud.com/uploads/default/optimized/1X/c88e952222f773f40ea0124322d92b545f728ac1_2_517x303.png)](https://learn.xbytecloud.com/uploads/default/original/1X/c88e952222f773f40ea0124322d92b545f728ac1.png)
 3. Now open “**Windows Firewall**”

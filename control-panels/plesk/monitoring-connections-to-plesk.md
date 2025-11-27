@@ -4,9 +4,8 @@ icon: cookie
 
 # Monitoring Connections to Plesk
 
-Monitoring User Sessions\
-
-
+Monitoring User Sessions<br>
+----------------------------
 
 To find out who of your customers is logged in to Plesk at the\
 moment:
@@ -39,9 +38,8 @@ moment:
 
 ***
 
-Monitoring FTP Users Sessions\
-
-
+Monitoring FTP Users Sessions<br>
+---------------------------------
 
 Your Plesk can show active FTP sessions only when any of the following\
 FTP server programs is installed on the hosting server:
@@ -63,8 +61,7 @@ or downloading from the server:
 
        ![image 17579.gif](https://docs.plesk.com/en-US/obsidian/administrator-guide/images/17579.gif) for anonymous FTP…
 
-\
-
+<br>
 
 ***
 

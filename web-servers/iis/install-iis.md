@@ -79,4 +79,4 @@ Run Web browser and verify IIS is running normally.
 
 <figure><img src="https://www.vdtutorials.com/wp-content/uploads/2022/01/install-configure-IIS-windows-server-2022-13.png" alt="Install and Configure IIS Web Server on Windows Server 2022" height="641" width="802"><figcaption></figcaption></figure>
 
-\
+<br>

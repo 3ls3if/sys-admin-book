@@ -6,8 +6,7 @@ icon: clipboard-list
 
 Head back to the “organizations” section of your console and select Backup.
 
-Very simply add a name and description for your backup job.\
-
+Very simply add a name and description for your backup job.<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2304_HowToVeeam1.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,8 +18,7 @@ Our first choice is do you want to backup the entire organisation or a subset of
 
 The next screen is choosing anything you wish to exclude, you may have selected entire organisation but there may be some accounts you do not need to protect.
 
-\
-
+<br>
 
 <figure><img src="https://vzilla.co.uk/wp-content/uploads/2019/12/121919_2304_HowToVeeam4.png" alt=""><figcaption></figcaption></figure>
 

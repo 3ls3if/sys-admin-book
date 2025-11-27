@@ -27,14 +27,12 @@ In SQL Server, there are different types of backups:
 3.  **Right-click** the database that need to backup, click on **Tasks**, and then click **Back Up.**
 
     <figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200910161620/bkp1.PNG" alt=""><figcaption></figcaption></figure>
-4.  In the Back-Up Database dialog box, the database that you selected appears in the drop-down list.\
-
+4.  In the Back-Up Database dialog box, the database that you selected appears in the drop-down list.<br>
 
     * In the Backup type **drop**–**down** list, select the **backup type** – the default is **Full**.
     * Under Backup component, select **Database**.
     * Review the default location for the backup file, in the Destination section.
-    * To remove a backup destination, click on it and **Remove**.\
-
+    * To remove a backup destination, click on it and **Remove**.<br>
     * To backup to a new device, change the selection using the **Add** and select destination.
 
     ![](https://media.geeksforgeeks.org/wp-content/uploads/20200910162100/bkp2.PNG)

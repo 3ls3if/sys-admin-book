@@ -14,8 +14,7 @@ icon: wordpress
 
 
 
-1.  Navigate to **Domains > example.com >** find WordPress section and click on **Install WordPress**: \
-
+1.  Navigate to **Domains > example.com >** find WordPress section and click on **Install WordPress**: <br>
 
     ![](https://support.plesk.com/hc/article_attachments/12377539444119/10.png)
 2.  The following installation options will be available:

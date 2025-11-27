@@ -156,8 +156,7 @@ For adding NS record (nameserver record) >> select NS >> enter the nameserver de
 ![](https://image.hostingraja.in/images/dns-zone-editor4.png)
 
 ![](https://image.hostingraja.in/images/dns-zone-editor5.png)\
-\
-
+<br>
 
 Step 4: After it is done log-in to root access in the command prompt and execute the following command
 

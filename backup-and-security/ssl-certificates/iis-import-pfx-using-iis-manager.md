@@ -9,13 +9,11 @@ icon: windows
 1. Launch Internet Information Services Manager (Start >> Administrative Tools >> Internet Information Services (IIS) Manager), and choose the server the certificate should be imported to.
 2. Double-click Server Certificates in the central menu.
 3.  Click the Import button in the right-hand menu:\
-    \
-
+    <br>
 
     <figure><img src="https://namecheap.simplekb.com/SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iis_exp_27.png" alt=""><figcaption></figcaption></figure>
 4.  Locate the PFX file on your machine and specify the password that was used when exporting the certificate. Optionally, you may check Allow this certificate to be exported. Then, click OK:\
-    \
-
+    <br>
 
     <figure><img src="https://namecheap.simplekb.com/SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iis_exp_28.png" alt=""><figcaption></figcaption></figure>
 

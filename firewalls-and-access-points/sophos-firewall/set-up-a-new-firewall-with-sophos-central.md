@@ -128,8 +128,7 @@ You can only manage firewalls with Sophos Central if they connect to the interne
 
     <mark style="color:green;">You'll see your new subscriptions under</mark> <mark style="color:green;"></mark><mark style="color:green;">**Module subscription details**</mark><mark style="color:green;">.</mark>
 
-\
-
+<br>
 
 ***
 

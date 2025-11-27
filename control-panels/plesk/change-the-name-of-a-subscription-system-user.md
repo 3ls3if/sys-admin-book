@@ -7,12 +7,10 @@ icon: user
 ## GUI
 
 1. [Log into Plesk](https://support.plesk.com/hc/en-us/articles/12377667582743-How-to-log-in-to-Plesk)
-2. Go to **Subscriptions > example.com > Hosting & DNS > Hosting > System user's credentials** section.\
-
+2. Go to **Subscriptions > example.com > Hosting & DNS > Hosting > System user's credentials** section.<br>
 3. Change the name of the system user in the **Username** field\
    ![](https://support.plesk.com/hc/article_attachments/28472805536535)
-4.  Press **Save**\
-
+4.  Press **Save**<br>
 
     **Note:** The **System user** and the **Special FTP user** usernames are always the same and that is expected
 

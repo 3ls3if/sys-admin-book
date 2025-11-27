@@ -5,8 +5,7 @@ icon: gear
 # HPE ProLiant ILO Configuration
 
 {% hint style="success" %}
-iLO (Integrated Lights-Out) is a proprietary **embedded server management technology by Hewlett Packard Enterprise (HPE)**. It's essentially a **dedicated management processor** built into HPE ProLiant and some other HPE servers, allowing administrators to **remotely manage servers** even when the OS is not running or the server is powered off.\
-
+iLO (Integrated Lights-Out) is a proprietary **embedded server management technology by Hewlett Packard Enterprise (HPE)**. It's essentially a **dedicated management processor** built into HPE ProLiant and some other HPE servers, allowing administrators to **remotely manage servers** even when the OS is not running or the server is powered off.<br>
 
 #### Key Uses of iLO in HPE Servers:
 

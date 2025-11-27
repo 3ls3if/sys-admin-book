@@ -62,8 +62,7 @@ Node.js Enabled.
 
 <figure><img src="https://github.com/uthoplatforms/utho-docs/raw/main/content/Control-Panels/Plesk/how-to-host-node-js-application-on-plesk/images/Screenshot_13-1-1024x530.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 ***
 

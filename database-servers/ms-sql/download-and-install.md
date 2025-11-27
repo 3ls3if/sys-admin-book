@@ -31,4 +31,4 @@ This guide uses the _Developer_ edition for development and testing in a non-pro
 
 ![Install SSMS](https://graphql-engine-cdn.hasura.io/learn-hasura/assets/database-mssql/install-ssms.png)
 
-\
+<br>

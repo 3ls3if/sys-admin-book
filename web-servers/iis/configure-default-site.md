@@ -38,4 +38,4 @@ Create an index.html file in the document root and Verify access with a Web brow
 
 <figure><img src="https://www.vdtutorials.com/wp-content/uploads/2022/01/install-configure-IIS-windows-server-2022-21.png" alt="Install and Configure IIS Web Server on Windows Server 2022" height="335" width="797"><figcaption></figcaption></figure>
 
-\
+<br>

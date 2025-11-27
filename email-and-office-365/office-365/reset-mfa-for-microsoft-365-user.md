@@ -22,31 +22,27 @@ Follow the steps below to reset MFA for a user in Microsoft Entra ID:
 
     Click _Identity > User > All users_\
     Click on _specific user_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/01/Reset-MFA-for-Microsoft-365-user-1.png" alt=""><figcaption></figcaption></figure>
 2.  **You will be redirected to the Users page**
 
     Click _Authentication methods_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/01/Reset-MFA-for-Microsoft-365-user-2.png" alt=""><figcaption></figcaption></figure>
 3.  **It opens a top status bar with options**
 
     Click _Require re-register multifactor authentication_\
     Click _OK_\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/01/Reset-MFA-for-Microsoft-365-user-3.png" alt=""><figcaption></figcaption></figure>
 4.  **Operation complete**
 
     You will get a notification that you completed it. You managed to reset the user’s MFA settings.\
-    \
-
+    <br>
 
     <figure><img src="https://o365info.com/wp-content/uploads/2023/01/Reset-MFA-for-Microsoft-365-user-4.png" alt=""><figcaption></figcaption></figure>
 
-When the user signs in next time, they must re-register their MFA details. If you can see the user account in the Authenticator app, you need to click on the user, click settings, and **remove account**.\
+When the user signs in next time, they must re-register their MFA details. If you can see the user account in the Authenticator app, you need to click on the user, click settings, and **remove account**.<br>

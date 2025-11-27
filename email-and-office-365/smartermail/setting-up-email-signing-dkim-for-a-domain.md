@@ -21,8 +21,7 @@ Please be aware that, even though DNS propagation is pretty fast these days, it 
 
 Once you're all set, you can use a tool like the [Domain Scanner at EasyDMARC](https://easydmarc.com/tools/domain-scanner) to check for any possible issues.
 
-\
-
+<br>
 
 ***
 

@@ -87,8 +87,7 @@ This may take some time to execute depending on how many connection history you 
     <figure><img src="https://cdnweb.devolutions.net/docs/docs_en_kb_KB4736.png" alt="!!KB4736"><figcaption></figcaption></figure>
 4. You are now ready to create the new data source in [Remote Desktop Manager](https://docs.devolutions.net/rdm/kb/how-to-articles/sql-server-database-migration/#connect-to-remote-desktop-manager) or update the [Devolutions Server Console](https://docs.devolutions.net/rdm/kb/how-to-articles/sql-server-database-migration/#connect-to-devolutions-server).
 
-\
-
+<br>
 
 ***
 
@@ -104,8 +103,7 @@ This may take some time to execute depending on how many connection history you 
 8. Only for Devolutions Server: In the case of a SQL data source, automatic detection already exists when exporting and the query is launched automatically, but not in Devolutions Server. Therefore, if you are migrating a Devolutions Server, you also need to run this query after the import: `UPDATE dbo.ConnectionHistory SET Version = 0x0000000000000000; UPDATE dbo.DatabaseInfo SET ConnectionCacheID = NEWID(), IntelligentCacheID = NEWID();`
 9. You are now ready to create the new data source in [Remote Desktop Manager](https://docs.devolutions.net/rdm/kb/how-to-articles/sql-server-database-migration/#connect-to-remote-desktop-manager) or update the [Devolutions Server Console](https://docs.devolutions.net/rdm/kb/how-to-articles/sql-server-database-migration/#connect-to-devolutions-server).
 
-\
-
+<br>
 
 ***
 
@@ -117,8 +115,7 @@ This solution is not supported for a local to local migration. Here is the error
 You cannot use this Wizard to move databases between local instances of SQL Server. Supported operations include deploying a local instance of SQL Server to Microsoft Azure SQL Database, from Microsoft Azure SQL Database to a local instance of SQL Server, or from one Microsoft Azure SQL Database to another Microsoft Azure SQL Database.
 {% endhint %}
 
-\
-
+<br>
 
 1. Using Microsoft SQL Server Management Studio (SSMS).
 2. Right-click on the _**database name (node)**_ – _**Tasks**_ – _**Deploy Database to Microsoft Azure SQL Database.**_

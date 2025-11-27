@@ -5,8 +5,7 @@ icon: users
 # Add several users at the same time to Microsoft 365
 
 {% hint style="warning" %}
-You can download [this sample spreadsheet](https://www.microsoft.com/download/details.aspx?id=45485) as a starting point. Remember that Microsoft 365 requires column headings in the first row so don't replace them with something else.\
-
+You can download [this sample spreadsheet](https://www.microsoft.com/download/details.aspx?id=45485) as a starting point. Remember that Microsoft 365 requires column headings in the first row so don't replace them with something else.<br>
 
 **Save the file with a new name, and specify CSV format.**
 

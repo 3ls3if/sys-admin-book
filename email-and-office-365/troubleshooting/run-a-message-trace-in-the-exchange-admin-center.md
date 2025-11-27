@@ -9,8 +9,7 @@ A message trace will show email sent into, out of, and within an email [organiza
 {% endhint %}
 
 1. Sign in to the [Exchange admin center](https://admin.exchange.microsoft.com/#/homepage). Use your Microsoft 365 email address and password.
-2.  Select **Mail flow** > **Message trace**.\
-
+2.  Select **Mail flow** > **Message trace**.<br>
 
     <figure><img src="https://images.ctfassets.net/7y9uzj0z4srt/2aC6FVR3w5zTNQmase7XcN/97e5b318f0f78ce6894e2087288cfd25/image-article-41252-01.png" alt=""><figcaption></figcaption></figure>
 3. Select **+ Start a trace**. The message trace page will open.
@@ -20,12 +19,10 @@ A message trace will show email sent into, out of, and within an email [organiza
    *
 
        <figure><img src="https://images.ctfassets.net/7y9uzj0z4srt/1tV6zbXMggrSM9SCbiZXTs/a85af403371bd5e120e052a5846c7fa1/Screen_Shot_2022-06-22_at_9.19.06_AM.png" alt=""><figcaption></figcaption></figure>
-5.  Under **Time range**, use the slider to select a time range of up to **10** days.\
-
+5.  Under **Time range**, use the slider to select a time range of up to **10** days.<br>
 
     <figure><img src="https://images.ctfassets.net/7y9uzj0z4srt/7dpwxSN9e169Y0N1Bd5gbi/b1dbd8973db859d4c4d750ae3f245177/image-article-41252-02.png" alt=""><figcaption></figcaption></figure>
-6.  Under **Report type**, select **Summary report**.\
-
+6.  Under **Report type**, select **Summary report**.<br>
 
     <figure><img src="https://images.ctfassets.net/7y9uzj0z4srt/5tiputKtmwfYcPZ9fsAmQv/b2e4478bc1b450090b1c031c7357f116/image-article-41252-03.png" alt=""><figcaption></figcaption></figure>
 7. To run the report, select **Search**. The **Message trace search results** will open.

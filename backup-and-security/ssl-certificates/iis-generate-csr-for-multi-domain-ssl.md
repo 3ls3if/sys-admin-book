@@ -10,8 +10,7 @@ Let’s see how to generate a multi-domain CSR on a Windows Server that can be u
 
 **Step 1. Open MMC on the Windows server**
 
-Hit **Win + R** to open the Run utilityType **mmc** in the box.Press **Ok**.\
-
+Hit **Win + R** to open the Run utilityType **mmc** in the box.Press **Ok**.<br>
 
 <figure><img src="https://www.datocms-assets.com/104397/1708625732-2021-03-10_19h12_16.png?auto=format" alt=""><figcaption></figcaption></figure>
 
@@ -27,8 +26,7 @@ Go to File > Add/Remove Snap-in..
 
 **Step 4. Select the User or Computer Certificate snap-in**
 
-Select the snap-in which you want to create the certificate. For demonstration, we are choosing **a Compute account**.Click **Next**.\
-
+Select the snap-in which you want to create the certificate. For demonstration, we are choosing **a Compute account**.Click **Next**.<br>
 
 <figure><img src="https://www.datocms-assets.com/104397/1708625754-2021-03-10_19h26_45.png?auto=format" alt=""><figcaption></figcaption></figure>
 
@@ -84,8 +82,7 @@ Access the **Subject** tab > in the **Subject name:** select the types (Common n
 **DNS =** \<example.com>\
 **DNS =** \<deals.com>\
 **DNS =** \<domain>\
-\
-
+<br>
 
 <figure><img src="https://www.datocms-assets.com/104397/1708634743-multi-domain-csr-1.png?auto=format" alt=""><figcaption></figcaption></figure>
 

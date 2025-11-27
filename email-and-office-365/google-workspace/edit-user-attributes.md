@@ -97,8 +97,7 @@ Under **Primary email**, enter _timothy.lee_.
 
 Click **Update user**.
 
-\
-
+<br>
 
 **Part 2: Add an email alias to Timmy’s account**
 
@@ -138,8 +137,7 @@ From the main menu, navigate to **Reporting**, then click **User Reports** and *
 * 2-Step verification enforcement
 * Password length compliance
 * Password strength
-* Less secure apps access\
-
+* Less secure apps access<br>
 
 **Part 2: Enforce a strong password**
 
@@ -165,8 +163,7 @@ To force users to change their password, check the **Enforce password policy at 
 
 **Step 6**
 
-In the **Expiration** section, select 60 days.\
-
+In the **Expiration** section, select 60 days.<br>
 
 **Note**: If a user account has added a delegated user, the delegated user can still access the account, even if the account password has expired. To prevent ongoing access, either reset the account password or remove the delegated user.
 

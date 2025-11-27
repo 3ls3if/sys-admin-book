@@ -50,8 +50,7 @@ The recommended way to set up forwarding is from the Microsoft365 Admin Center. 
 
 9\. Configure the forwarding rule and click Next. Finally, review the created rule and click Finish. The rule is turned off by default, navigate to the rules page to turn it on.
 
-\
-
+<br>
 
 <figure><img src="https://help.desk365.io/en/wp-content/uploads/2023/08/configuring-the-forwarding-rule-desk365-768x513.webp" alt=""><figcaption></figcaption></figure>
 

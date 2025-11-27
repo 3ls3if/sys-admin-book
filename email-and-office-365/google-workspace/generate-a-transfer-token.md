@@ -66,4 +66,4 @@ To transfer the management of your account to a reseller, Google needs a transfe
 
 All done! Return to the Transfer Request Form and submit the other required information and we will get back with you within 48 hours to confirm the transfer.
 
-\
+<br>

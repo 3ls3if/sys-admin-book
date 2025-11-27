@@ -16,8 +16,7 @@ When you delete a user, they lose access to all services and data associated wit
 
 ## Exercise directions: Part 1
 
-**Suspend Jon’s account**\
-
+**Suspend Jon’s account**<br>
 
 **Step 1**
 
@@ -41,8 +40,7 @@ Click **SUSPEND**. The **Status** column for Jon will change from _Active_ to _S
 
 ## Exercise directions: Part 2
 
-**Restore Jon’s account**\
-
+**Restore Jon’s account**<br>
 
 **Step 1**
 
@@ -104,8 +102,7 @@ Click **DELETE USER**.
 
 
 
-**Jon’s account will now be temporarily suspended during the transfer. The account will then be deleted.**\
-
+**Jon’s account will now be temporarily suspended during the transfer. The account will then be deleted.**<br>
 
 **Step 6**
 

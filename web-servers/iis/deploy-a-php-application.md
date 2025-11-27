@@ -46,9 +46,8 @@ icon: php
 
 
 {% hint style="warning" %}
-[HTTP Error 500.0 - Internal Server Error An unknown FastCGI error occured](https://stackoverflow.com/questions/6176093/http-error-500-0-internal-server-error-an-unknown-fastcgi-error-occured)\
-
-
+[HTTP Error 500.0 - Internal Server Error An unknown FastCGI error occured](https://stackoverflow.com/questions/6176093/http-error-500-0-internal-server-error-an-unknown-fastcgi-error-occured)<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Go to IIS manager
 2. Click on your server's `Application Pools` tab

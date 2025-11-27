@@ -11,8 +11,7 @@ You must be a [user administrator](https://learn.microsoft.com/en-us/microsoft-3
 1. <mark style="color:green;">In the admin center, go to the</mark> <mark style="color:green;"></mark><mark style="color:green;">**Users**</mark> <mark style="color:green;"></mark><mark style="color:green;">></mark> [<mark style="color:green;">Active users</mark>](https://go.microsoft.com/fwlink/p/?linkid=834822) <mark style="color:green;">page.</mark>
 2. <mark style="color:green;">Select the user's name, and then on the</mark> <mark style="color:green;"></mark><mark style="color:green;">**Account**</mark> <mark style="color:green;"></mark><mark style="color:green;">tab select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Manage username and email**</mark><mark style="color:green;">.</mark>
 3. <mark style="color:green;">In the first box, type the first part of the new email address. If you added your own domain to Microsoft 365, choose the domain for the new email alias by using the drop-down list.</mark> [<mark style="color:green;">Learn how to add a domain</mark>](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/add-domain?view=o365-worldwide)<mark style="color:green;">.</mark>
-4. <mark style="color:green;">Select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Done**</mark><mark style="color:green;">.</mark>\
-
+4. <mark style="color:green;">Select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Done**</mark><mark style="color:green;">.</mark><br>
 
 ***
 

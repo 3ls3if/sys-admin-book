@@ -30,4 +30,4 @@ OK twice to finish adding the user to Remote Desktop User.
 
 ![](https://www.snel.com/wp-content/uploads/add-rdp-permission.png)
 
-\
+<br>

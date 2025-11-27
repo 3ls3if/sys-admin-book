@@ -58,8 +58,7 @@ Click Enter User or Group Name. Type at least 3 char...
 
 Click Row checkbox
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

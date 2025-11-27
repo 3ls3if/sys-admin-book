@@ -14,8 +14,7 @@ Login credentials into your Plesk Server.
 
 ### Instructions <a href="#instructions" id="instructions"></a>
 
-1.  Log into the Website hosting for your domain and select the _**Websites and Domains**_ tab, then click on _**PHP Settings:**_\
-
+1.  Log into the Website hosting for your domain and select the _**Websites and Domains**_ tab, then click on _**PHP Settings:**_<br>
 
     <figure><img src="https://conetix.com.au/wp-content/uploads/2016/05/20/xphp_upload.png.pagespeed.ic.uJcex5YjdR.webp" alt=""><figcaption></figcaption></figure>
 2.  Under _**Performance settings**_ you will need to increase both _**upload\_max\_filesize**_ and _**post\_max\_size**_ limits.\
@@ -29,8 +28,7 @@ Login credentials into your Plesk Server.
 
 
 
-\
-
+<br>
 
 ***
 

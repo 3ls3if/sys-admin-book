@@ -56,8 +56,7 @@ icon: windows
     \
     10\.  After you receive your SSL certificate from CA, you can install it.
 
-    \
-
+    <br>
 
 ***
 

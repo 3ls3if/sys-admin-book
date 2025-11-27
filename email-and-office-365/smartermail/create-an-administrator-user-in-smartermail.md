@@ -20,8 +20,7 @@ SmarterMail allows administrators to manage email services efficiently. Creating
 #### Step 1: Access the SmarterMail Admin Interface
 
 *   Log in to the **SmarterMail** web interface as an administrator.\
-    \
-
+    <br>
 
     <figure><img src="https://www.ipserverone.info/wp-content/uploads/2025/03/Screenshot-2025-03-17-140219.png" alt=""><figcaption></figcaption></figure>
 

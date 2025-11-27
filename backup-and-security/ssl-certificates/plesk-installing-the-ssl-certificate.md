@@ -15,12 +15,10 @@ After you order and receive your SSL certificate, you are ready to install it in
 3.  Click SSL Certificates:
 
     ![Plesk - SSL Certificates icon](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-ssl-certificates-icon.png)
-4.  The SSL Certificates page for the domain appears. Click the certificate name:\
-
+4.  The SSL Certificates page for the domain appears. Click the certificate name:<br>
 
     ![Plesk - Certificate name](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-certificate-name.png)
-5.  Scroll down to the Upload the certificate as text section, and then in the Certificate (\*.crt) text box, paste all of the certificate text, including the **BEGIN CERTIFICATE** and **END CERTIFICATE** headers:\
-
+5.  Scroll down to the Upload the certificate as text section, and then in the Certificate (\*.crt) text box, paste all of the certificate text, including the **BEGIN CERTIFICATE** and **END CERTIFICATE** headers:<br>
 
     ![Plesk - Upload the certificate as text](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-upload-certificate.png)
 
@@ -38,8 +36,7 @@ After you install the SSL certificate, you must enable SSL support for the domai
 3.  Click Hosting Settings:
 
     ![Plesk - Hosting Settings](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-hosting-settings.png)
-4.  Under Security, select the SSL support check box:\
-
+4.  Under Security, select the SSL support check box:<br>
 
     ![Plesk - Hosting Settings - Security](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-hosting-settings-security.png)
 5. In the Certificate list box, select the SSL certificate you installed in the previous procedure.

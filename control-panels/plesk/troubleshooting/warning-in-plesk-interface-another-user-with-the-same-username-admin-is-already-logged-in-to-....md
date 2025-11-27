@@ -14,8 +14,7 @@ Another user with the same username (admin) is already logged in to Plesk.
 
 ### Cause
 
-This behavior is expected if **Profile & Preferences > Allow multiple sessions under this account** option is enabled and several logins to Plesk UI were performed:\
-
+This behavior is expected if **Profile & Preferences > Allow multiple sessions under this account** option is enabled and several logins to Plesk UI were performed:<br>
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

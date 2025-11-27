@@ -115,8 +115,7 @@ After initial installation, macOS prompts the user to enable FortiClient (macOS)
 
 ![](https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/resources/e518fda0-b66f-11ef-9411-ae1fcf29f169/images/c43e3a99a8de7f73fca33218bb83d1d5_mac_fct_7.0.3_notification_permission_setting.png)
 
-\
-
+<br>
 
 ***
 

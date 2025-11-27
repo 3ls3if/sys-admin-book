@@ -34,4 +34,4 @@ Next, reboot a computer, and when you logon you should be prompted with the GPO 
 
 <figure><img src="https://activedirectorypro.com/wp-content/uploads/2022/09/test-gpo-logon-banner.webp" alt="windows 10 logon banner example" height="404" width="804"><figcaption></figcaption></figure>
 
-\
+<br>

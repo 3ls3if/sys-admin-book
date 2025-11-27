@@ -80,8 +80,7 @@ You can create a retention policy without adding any retention tags to it, but i
 \
 After you create a retention policy, you must apply it to mailbox users. You can apply different retention policies to different set of users. For detailed instructions, see [Apply a retention policy to mailboxes](https://learn.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy).
 
-\
-
+<br>
 
 After you create retention tags, add them to a retention policy, and apply the policy to a mailbox user, the next time the MRM mailbox assistant processes the mailbox, messages are moved or deleted based on settings you configured in the retention tags.
 

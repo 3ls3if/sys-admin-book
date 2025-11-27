@@ -35,8 +35,7 @@ To activate your account and get your security software, do as follows:
 
     <figure><img src="https://docs.sophos.com/central/customer/help/en-us/GettingStarted/images/NewActivateyouraccount.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 ## Get software installers
 

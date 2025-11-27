@@ -104,28 +104,23 @@ If you use two-step verification with your work or school account and your admin
 Note: If your administrator hasn't turned on the security info experience, you must follow the instructions and information in the [Manage app passwords for two-step verification](https://support.microsoft.com/en-us/account-billing/app-passwords-for-a-work-or-school-account-d6dc8c6d-4bf7-4851-ad95-6d07799387e9) section.
 
 1.  Sign in to your work or school account and then go to your [My Account](https://myaccount.microsoft.com/) page.\
-    \
-
+    <br>
 
     <figure><img src="https://cxcs.microsoft.net/static/public/account/neutral/f38ca848-7e4f-497c-a5d4-6ab28638c582/8d551c1afeb04c26647ab2c90484823344eb1494.png" alt=""><figcaption></figcaption></figure>
 2.  Select Security info from the left navigation pane or from the link in the Security info block, and then select Add method from the Security info page.\
-    \
-
+    <br>
 
     <figure><img src="https://cxcs.microsoft.net/static/public/account/neutral/9fafdf50-e5be-42d1-866f-8a1f35456f24/63de89a9930d7861c2fe86db195b312b0231b125.png" alt=""><figcaption></figcaption></figure>
 3.  On the Add a method page, select App password from the list, and then select Add.\
-    \
-
+    <br>
 
     <figure><img src="https://cxcs.microsoft.net/static/public/account/neutral/b3a14fae-79df-42d9-9a70-789ea0ddeeb3/5ac16aa62a4b246c5b6c3db69bc40eda47fbe8bc.png" alt=""><figcaption></figcaption></figure>
 4.  Type the name of the app that requires the app password, and then select Next.\
-    \
-
+    <br>
 
     <figure><img src="https://cxcs.microsoft.net/static/public/account/neutral/545eee95-e669-4933-8618-4f22b7b076fc/a92b5d3ea2fc0fb0eb19f6d52a88649ed9ed48d9.png" alt=""><figcaption></figcaption></figure>
 5.  Copy the text from the Password box, paste the password in the password area of the app (in this example, Outlook 2010), and then select Done.\
-    \
-
+    <br>
 
     <figure><img src="https://cxcs.microsoft.net/static/public/account/neutral/e4e03086-ef2c-4087-86f9-426d04a3ddf9/88374f15bd74bff4d284f4fdcf337f75644e1e52.png" alt=""><figcaption></figcaption></figure>
 
@@ -136,8 +131,7 @@ If you no longer need to use an app that requires an app password, you can delet
 Important: If you delete an app password by mistake, there's no way to undo it. You'll have to create a new app password and re-enter it into the app, following the steps in the "Create new app passwords" section of this article.
 
 1.  On the Security info page, select the Delete link next to the App password option for the specific app.\
-    \
-
+    <br>
 
     <figure><img src="https://cxcs.microsoft.net/static/public/account/neutral/8dda93a5-9767-41c4-9145-97c639552c54/e6bfec4d4cd5a7c5bd32882268c757845100f04b.png" alt=""><figcaption></figcaption></figure>
 2. Select Yes from the confirmation box to delete the app password. After the app password is deleted, it's removed from your security info and it disappears from the Security info page.

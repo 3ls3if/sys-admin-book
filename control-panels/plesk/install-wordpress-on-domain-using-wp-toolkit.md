@@ -11,8 +11,7 @@ icon: wordpress
     Open **Extensions > Extension catalog >** in search box type **WordPress** > click on **WP Toolkit** in search results list > click **Install**.
 
     <img src="https://support.plesk.com/hc/article_attachments/12377524004503/wp_toolkit_1.PNG" alt="" data-size="original">
-3.  Navigate to **Domains > example.com >** find WordPress section and click on **Install WordPress**: \
-
+3.  Navigate to **Domains > example.com >** find WordPress section and click on **Install WordPress**: <br>
 
     [![](https://support.plesk.com/hc/article_attachments/12377539444119/10.png)](https://support.plesk.com/hc/article_attachments/12377539444119/10.png)
 4. The following installation options will be available:
@@ -21,8 +20,7 @@ icon: wordpress
 
        [![](https://docs.plesk.com/en-US/onyx/administrator-guide/images/79654.png)](https://docs.plesk.com/en-US/onyx/administrator-guide/images/79654.png%20data-rel=)
 
-\
-
+<br>
 
 ***
 

@@ -36,4 +36,4 @@ Congratulations! You have successfully installed MS SQL Server 2019 and SQL Serv
 
     <figure><img src="https://graphql-engine-cdn.hasura.io/learn-hasura/assets/database-mssql/dbengine-connect.png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

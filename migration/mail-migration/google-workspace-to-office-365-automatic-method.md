@@ -9,8 +9,7 @@ icon: g
 {% hint style="success" %}
 ## Need to Enable the below Settings on admin.google.com
 
-<mark style="color:red;">"Google Cloud Platform service has been disabled. Please contact your administrator to turn the service on in the Google Workspace Admin console." - ERROR while creating the migration batch</mark>\
-
+<mark style="color:red;">"Google Cloud Platform service has been disabled. Please contact your administrator to turn the service on in the Google Workspace Admin console." - ERROR while creating the migration batch</mark><br>
 
 * **Go to** the [Google Admin Console](https://admin.google.com).
 * Navigate to:\

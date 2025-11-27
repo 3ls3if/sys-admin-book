@@ -46,8 +46,7 @@ To navigate to the DNS Editor in Plesk, please follow the instructions below.
 
     ![Host to Edit](https://content.hostgator.com/img/ples18_edit_mx.png)
 
-\
-
+<br>
 
 ***
 
@@ -70,8 +69,7 @@ To navigate to the DNS Editor in Plesk, please follow the instructions below.
     ![edit existing A record in Plesk](https://content.hostgator.com/img/plesk18_edit_existing_a_record.png)
 8. After making your changes, click **OK**.
 
-\
-
+<br>
 
 ***
 

@@ -38,8 +38,7 @@ The steps outlined below will assist you in installing an SSL certificate on a J
 keytool -importcert -alias "alias name" -file cert.crt -keystore keystore.jks -storepass "store password"
 ```
 
-3. Update the JBoss configuration file, standalone.xml or domain.xml, to use the Keystore that you just created.\
-
+3. Update the JBoss configuration file, standalone.xml or domain.xml, to use the Keystore that you just created.<br>
 4. Restart the JBoss server for the changes to take effect.
 
 

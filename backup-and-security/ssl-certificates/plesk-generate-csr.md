@@ -19,16 +19,13 @@ To watch a video that demonstrates the following procedure, please click below:
 3.  Click SSL/TLS Certificates:
 
     ![Plesk - SSL Certificates icon](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-ssl-certificates-icon.png)
-4.  Click Add SSL/TLS Certificate:\
-
+4.  Click Add SSL/TLS Certificate:<br>
 
     ![Plesk - Add SSL Certificate button](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-add-ssl-certificate.png)
-5. On the Add SSL/TLS Certificate page, complete the fields in the request form, and then click Request.\
-
+5. On the Add SSL/TLS Certificate page, complete the fields in the request form, and then click Request.<br>
 
 {% hint style="success" %}
-Most of the fields in the request form are self-explanatory, but a few fields require special attention:\
-
+Most of the fields in the request form are self-explanatory, but a few fields require special attention:<br>
 
 * **Certificate name:** This is how the certificate is displayed in Plesk. To make it easy to identify later, you should use the domain name.
 * **Domain name:** If you want your SSL certificate to protect the domain with and without the _www_ prefix, you must type _www_, for example, _www.example.com_.
@@ -39,11 +36,9 @@ Most of the fields in the request form are self-explanatory, but a few fields re
 
 
 
-1.  The SSL Certificates page for the domain appears. Click the certificate name:\
-
+1.  The SSL Certificates page for the domain appears. Click the certificate name:<br>
 
     ![Plesk - Certificate name](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-certificate-name.png)
-2.  Scroll down to the CSR section, and then copy all of the text, including the **BEGIN CERTIFICATE REQUEST** and **END CERTIFICATE REQUEST** headers:\
-
+2.  Scroll down to the CSR section, and then copy all of the text, including the **BEGIN CERTIFICATE REQUEST** and **END CERTIFICATE REQUEST** headers:<br>
 
     ![Plesk - CSR text](https://www.a2hosting.com/images/uploads/knowledgebase_images/kb-plesk-csr-text.png)

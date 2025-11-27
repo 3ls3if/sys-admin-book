@@ -22,8 +22,7 @@ Outbound messages report – This report shows the details of the emails that we
 
 <mark style="color:$success;">Step:3 There are you can find two separate reports on Inbound messages and outbound messages.</mark>
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

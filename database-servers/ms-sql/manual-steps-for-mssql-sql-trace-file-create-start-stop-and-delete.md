@@ -74,8 +74,7 @@ sp_trace_setstatus 2 , 0;
 sp_trace_setstatus 2 , 2
 ```
 
-4\. Delete the trace files from the Agent Home directory.\
-
+4\. Delete the trace files from the Agent Home directory.<br>
 
 ***
 

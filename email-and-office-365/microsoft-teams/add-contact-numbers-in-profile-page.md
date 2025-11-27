@@ -23,8 +23,7 @@ The time it takes for a phone number update to reflect in **Microsoft Teams** de
 * **Propagation Time:** **Up to 24 hours**, but usually within a few hours.
 * If it's not updating immediately, try signing out and back into Teams.
 
-\
-
+<br>
 
 #### **Microsoft Teams Cache Update**
 

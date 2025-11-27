@@ -37,8 +37,7 @@ If you are not already signed in, sign in to your domain as the Administrator at
 
 **Step 2**
 
-From the main menu, navigate to **Directory**, then click **Users**.\
-
+From the main menu, navigate to **Directory**, then click **Users**.<br>
 
 **Step 3**
 
@@ -62,8 +61,7 @@ In the dialog box that appears, create your company's IT Manager user account as
 
 * Each user is assigned to an organizational unit. At this stage of the course, we have just one single top level organization, so Alex will be placed into that organization by default. We will discuss organizational structure later in this course.
 * Leave the secondary email and phone number fields empty.
-* You can assign a temporary, randomly generated password or manually enter a temporary password. Note: Passwords must be at least 8 characters long and cannot exceed 100 characters. Either way, it’s best practice to ensure that the new user changes this when signing in for the first time so ensure that 'Ask for a password change at next sign in' is enabled. For this exercise, allow Google Workspace to generate the temporary password.\
-
+* You can assign a temporary, randomly generated password or manually enter a temporary password. Note: Passwords must be at least 8 characters long and cannot exceed 100 characters. Either way, it’s best practice to ensure that the new user changes this when signing in for the first time so ensure that 'Ask for a password change at next sign in' is enabled. For this exercise, allow Google Workspace to generate the temporary password.<br>
 
 **Step 5**
 
@@ -71,8 +69,7 @@ Click **ADD NEW USER** to create Alex's account.
 
 
 
-Congratulations! You've added your first user in your new domain.\
-
+Congratulations! You've added your first user in your new domain.<br>
 
 Notice the eye icon in the dialog box. This allows you to see the temporary password generated. You can also copy the password to your clipboard using the **COPY PASSWORD** link.&#x20;
 
@@ -106,26 +103,21 @@ If you are not already signed in, sign in to your domain as the Administrator at
 
 **Step 2**
 
-From the main menu, navigate to **Directory**, then click **Users**.\
-
+From the main menu, navigate to **Directory**, then click **Users**.<br>
 
 **Step 3**
 
-Click **Bulk update users**, and then click **DOWNLOAD BLANK CSV TEMPLATE**. This will download a blank file with all the required columns to your local machine. Leave this dialog box open to upload the file after editing.  \
-
+Click **Bulk update users**, and then click **DOWNLOAD BLANK CSV TEMPLATE**. This will download a blank file with all the required columns to your local machine. Leave this dialog box open to upload the file after editing.  <br>
 
 **Step 4**
 
-Open the CSV file in a spreadsheet application or a text editor if you prefer.\
-
+Open the CSV file in a spreadsheet application or a text editor if you prefer.<br>
 
 **Step 5**
 
-Populate the file with a row for each user using the information from the table Alex provided.\
+Populate the file with a row for each user using the information from the table Alex provided.<br>
 
-
-The file contains a column for each attribute that appears on the user profile in the admin console and in Gmail contacts.\
-
+The file contains a column for each attribute that appears on the user profile in the admin console and in Gmail contacts.<br>
 
 The following columns are mandatory:
 
@@ -137,8 +129,7 @@ The following columns are mandatory:
 
 If you prefer, you can use the example CSV file below as your starting point. Simply edit this file, and change the domain part of the email address to match your domain:
 
-[users-for-upload.csv](https://storage.googleapis.com/cloud-training/T-INTROD-B/users-for-upload.csv)\
-
+[users-for-upload.csv](https://storage.googleapis.com/cloud-training/T-INTROD-B/users-for-upload.csv)<br>
 
 **Step 6**
 

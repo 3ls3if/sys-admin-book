@@ -19,8 +19,7 @@ This guide explains how to implement, monitor, and fine-tune Microsoft Entra ID 
 Before configuring any policies, it's important to understand the two main types of risks in Microsoft Entra ID Protection:
 
 1. **User Risk** – Indicates a user account is likely compromised (e.g., leaked credentials, unusual activity).\
-   \
-
+   <br>
 2. **Sign-in Risk** – Flags suspicious login attempts (e.g., login from unfamiliar locations, atypical devices).
 
 These risks are calculated using Microsoft’s machine learning models and updated continuously based on global telemetry. You can view detected risks from the [Identity Protection](https://learn.microsoft.com/en-us/entra/id-protection/overview-identity-protection) pane in the portal or by querying Microsoft Graph APIs for automation.
@@ -206,8 +205,7 @@ For real-world testing:
 
 * Use non-production test accounts.
 * Simulate high-risk sign-ins by logging in from unusual locations or using TOR/VPN (in a controlled environment).
-* Monitor the Risky sign-ins and Risky users’ reports to see how the risks are detected.\
-
+* Monitor the Risky sign-ins and Risky users’ reports to see how the risks are detected.<br>
 
 You can also use Microsoft’s Risky Sign-in Simulator to generate test signals.
 

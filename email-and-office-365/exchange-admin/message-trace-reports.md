@@ -24,8 +24,7 @@ As an admin, you can find out what happened to an email message whether a messag
 
 <mark style="color:$success;">**Step:7**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">Specify the Report type and start the Search.</mark>
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

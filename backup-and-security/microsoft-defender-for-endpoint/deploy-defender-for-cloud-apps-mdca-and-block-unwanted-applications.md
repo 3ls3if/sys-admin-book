@@ -29,30 +29,26 @@ icon: cloud
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/MDCA%20Integration%2000.png)
 
-\
-
+<br>
 
 Click on **Advanced Features** under **General** and toggle the **Microsoft Defender for Cloud Apps** Toggle switch to **On** as illustrated below:
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/MDCA%20Integration%2001.png)
 
-\
-
+<br>
 
 * Enabling this feature sends telemetry collected by Defender for Endpoint over to Defender for Cloud Apps. You can confirm by going back to **the unified security portal » Settings » Cloud Apps » Automatic Log Upload** and verifying the following entry populates (it can take a few hours for data to populate):
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/Automatic%20Log%20Upload.png)
 
-\
-
+<br>
 
 > 💡 While you’re in here, you’ll need to toggle **Custom Network Indicators** to the **On** position:
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/custom_network_indicators.png)
 
 \
-\
-
+<br>
 
 ***
 
@@ -81,8 +77,7 @@ So perhaps you don’t have all of your devices onboarded to Defender for Endpoi
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/onboarded.png)
 
 \
-\
-
+<br>
 
 ***
 
@@ -96,8 +91,7 @@ So perhaps you don’t have all of your devices onboarded to Defender for Endpoi
 Get-MpComputerStatus
 ```
 
-\
-
+<br>
 
 * Confirm the following pre-requisites are met:
 
@@ -113,8 +107,7 @@ Here’s a [list of available commands for reference](https://learn.microsoft.co
 
 > 💡 Alternatively, you’d have to use Intune, Group Policy, SCCM, or a combination thereof to onboard and configure your fleet.
 
-\
-
+<br>
 
 ***
 
@@ -126,29 +119,25 @@ Navigate to the **Cloud Discovery** blade, then go to the **Discovered Apps** ta
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/Traffic01.png)
 
-\
-
+<br>
 
 I spun up a vm for a couple hours just for this blog post so this traffic is not indicative of a typical production environment. For this example, lets open the **Microsoft 365** app from the **Discovered Apps** tab to see it’s details, including it’s **Cloud App** score. This is great for compliance purposes. As illustrated, the Microsoft 365 app is compliant with GDPR, SOC, ISO 27001, ITAR, FINRA, to name a few:
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/Traffic02.png)
 
-\
-
+<br>
 
 Click into the app from the list to bring up additional metrics:
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/Traffic03.png)
 
-\
-
+<br>
 
 Lastly, slide over to the **Cloud App Usage** tab to identify usage by user:
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/Traffic04.png)
 
-\
-
+<br>
 
 ***
 
@@ -169,20 +158,17 @@ Now that we’ve got our devices onboarded and our MDE and MDCA platforms integr
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/UnSanctioned.png)
 
-\
-
+<br>
 
 Give it a few minutes and try to navigate to one of those applications in a browser or through their designated local applications on a device that you’ve onboarded to MDE to see them fail (gloriously):
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/Steam_Games_block.png)
 
-\
-
+<br>
 
 ![](https://www.hanley.cloud/assets/img/Defender%20for%20Cloud%20Apps/Netflix_Block.png)
 
-\
-
+<br>
 
 
 
