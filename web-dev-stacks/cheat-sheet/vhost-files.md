@@ -105,3 +105,25 @@ cd C:\xampp\apache\bin httpd.exe -t -D DUMP_INCLUDES
 </VirtualHost>
 ```
 
+***
+
+## Add Redirect Rule to Force HTTPS
+
+```
+<VirtualHost *:80>
+    ServerName example.com
+    DocumentRoot "C:\xampp\htdocs\example.com"
+
+    # Redirect all HTTP traffic to HTTPS
+    Redirect / https://example.com/
+
+    <Directory "C:\xampp\htdocs\example.com">
+        Options Indexes FollowSymLinks Includes ExecCGI
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    ErrorLog "logs/lexaone-error.log"
+    CustomLog "logs/lexaone-access.log" combined
+</VirtualHost>
+```
