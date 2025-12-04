@@ -394,6 +394,7 @@
     * [Detect Logons Outside of Trusted Locations in Microsoft Entra ID](email-and-office-365/microsoft-entra-id/detect-logons-outside-of-trusted-locations-in-microsoft-entra-id.md)
     * [Enable Microsoft Entra Self-Service Password Reset (SSPR)](email-and-office-365/microsoft-entra-id/enable-microsoft-entra-self-service-password-reset-sspr.md)
     * [How to Check Who Reset an M365 User’s Password Using Entra ID](email-and-office-365/microsoft-entra-id/how-to-check-who-reset-an-m365-users-password-using-entra-id.md)
+    * [How to Resolve “Approval Required” When Connecting Microsoft 365 Mail to Pipedrive CRM](email-and-office-365/microsoft-entra-id/how-to-resolve-approval-required-when-connecting-microsoft-365-mail-to-pipedrive-crm.md)
   * [Exchange Admin](email-and-office-365/exchange-admin/README.md)
     * [Mail Flow Reports](email-and-office-365/exchange-admin/mail-flow-reports.md)
     * [Message Trace Reports](email-and-office-365/exchange-admin/message-trace-reports.md)
