@@ -370,6 +370,7 @@
     * [Teams Chat DIfferent Domain: Enable External Access](email-and-office-365/microsoft-teams/teams-chat-different-domain-enable-external-access.md)
     * [Setup Teams Time Zone and Work Hours](email-and-office-365/microsoft-teams/setup-teams-time-zone-and-work-hours.md)
     * [Add Contact Numbers in Profile Page](email-and-office-365/microsoft-teams/add-contact-numbers-in-profile-page.md)
+    * [How to Fix the “Maximum Private Channels Reached” Issue in Microsoft Teams](email-and-office-365/microsoft-teams/how-to-fix-the-maximum-private-channels-reached-issue-in-microsoft-teams.md)
   * [Microsoft Defender for Office 365](email-and-office-365/microsoft-defender-for-office-365/README.md)
     * [Remove blocked users from the Restricted entities page](email-and-office-365/microsoft-defender-for-office-365/remove-blocked-users-from-the-restricted-entities-page.md)
     * [Disable or Modify the Spam Quarantine Policy](email-and-office-365/microsoft-defender-for-office-365/disable-or-modify-the-spam-quarantine-policy.md)
