@@ -38,6 +38,10 @@ Connection failed: connection to server at "192.168.\*.\*", port 5432 failed: FA
 
     ```
     host    Help-Desk-Stg    Help-Desk    0.0.0.0/0    scram-sha-256
+
+    OR
+
+    host    all             all             0.0.0.0/0   scram-sha-256
     ```
 
 ***
