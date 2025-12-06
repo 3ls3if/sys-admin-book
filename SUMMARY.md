@@ -187,6 +187,7 @@
     * [Host React Application](web-dev-stacks/xampp/host-react-application.md)
     * [Host a Laravel Application](web-dev-stacks/xampp/host-a-laravel-application.md)
     * [Configure a Laravel Project with a Custom Domain Name](web-dev-stacks/xampp/configure-a-laravel-project-with-a-custom-domain-name.md)
+    * [Develop Servlets with Tomcat on XAMPP](web-dev-stacks/xampp/develop-servlets-with-tomcat-on-xampp.md)
 * [IT Ticketing Systems](it-ticketing-systems/README.md)
   * [Jira Ticketing System](it-ticketing-systems/jira-ticketing-system.md)
 * [Linux Servers](linux-servers.md)
