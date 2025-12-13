@@ -474,6 +474,8 @@
     * [Fixing SSL Certificate Chain Issues in IIS and API Applications](other-technologies/some-r-and-ds/fixing-ssl-certificate-chain-issues-in-iis-and-api-applications.md)
     * [Understanding Exchange Online Plan 2 Licensing and Its Impact on Microsoft 365 Mailbox Features](other-technologies/some-r-and-ds/understanding-exchange-online-plan-2-licensing-and-its-impact-on-microsoft-365-mailbox-features.md)
     * [Why SQL Server Fails to Backup Databases to Desktop: Root Cause and Fix](other-technologies/some-r-and-ds/why-sql-server-fails-to-backup-databases-to-desktop-root-cause-and-fix.md)
+    * [Hosting a Local Application Behind HTTPS Using IIS Reverse Proxy](other-technologies/some-r-and-ds/hosting-a-local-application-behind-https-using-iis-reverse-proxy.md)
+    * [Troubleshooting IIS HTTP Error 503 Due to Missing or Corrupted DLL Files](other-technologies/some-r-and-ds/troubleshooting-iis-http-error-503-due-to-missing-or-corrupted-dll-files.md)
 * [Certifications](certifications/README.md)
   * [MS-102 Microsoft 365 Administrator: Notes](certifications/ms-102-microsoft-365-administrator-notes.md)
   * [SC-200 Microsoft Security Operations Analyst: Notes](certifications/sc-200-microsoft-security-operations-analyst-notes.md)
