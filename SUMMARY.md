@@ -314,6 +314,7 @@
     * [How to Access the Office 365 Admin Center](email-and-office-365/office-365/how-to-access-the-office-365-admin-center.md)
     * [Creating a Tenant](email-and-office-365/office-365/creating-a-tenant.md)
     * [Create Users](email-and-office-365/office-365/create-users.md)
+    * [Create an M365 (Microsoft 365) group](email-and-office-365/office-365/create-an-m365-microsoft-365-group.md)
     * [Add several users at the same time to Microsoft 365](email-and-office-365/office-365/add-several-users-at-the-same-time-to-microsoft-365.md)
     * [Creating & Managing Roles](email-and-office-365/office-365/creating-and-managing-roles.md)
     * [Add a Domain](email-and-office-365/office-365/add-a-domain.md)
