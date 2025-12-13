@@ -137,6 +137,7 @@
       * [Troubleshooting IIS HTTP Error 503 Due to Missing or Corrupted DLL Files](web-servers/iis/troubleshooting/troubleshooting-iis-http-error-503-due-to-missing-or-corrupted-dll-files.md)
     * [URL Rewrite](web-servers/iis/url-rewrite/README.md)
       * [How to Redirect One Domain to Another in IIS Using URL Rewrite](web-servers/iis/url-rewrite/how-to-redirect-one-domain-to-another-in-iis-using-url-rewrite.md)
+      * [Hosting a Local Application Behind HTTPS Using IIS Reverse Proxy](web-servers/iis/url-rewrite/hosting-a-local-application-behind-https-using-iis-reverse-proxy.md)
     * [Install IIS](web-servers/iis/install-iis.md)
     * [Configure Default Site](web-servers/iis/configure-default-site.md)
     * [Application Pool](web-servers/iis/application-pool.md)
