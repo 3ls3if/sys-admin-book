@@ -134,6 +134,7 @@
   * [IIS](web-servers/iis/README.md)
     * [Troubleshooting](web-servers/iis/troubleshooting/README.md)
       * [Fixing the "Login failed for user 'IIS APPPOOL'" Error in SQL Server with IIS and ASP.NET Core](web-servers/iis/troubleshooting/fixing-the-login-failed-for-user-iis-apppool-error-in-sql-server-with-iis-and-asp.net-core.md)
+      * [Troubleshooting IIS HTTP Error 503 Due to Missing or Corrupted DLL Files](web-servers/iis/troubleshooting/troubleshooting-iis-http-error-503-due-to-missing-or-corrupted-dll-files.md)
     * [URL Rewrite](web-servers/iis/url-rewrite/README.md)
       * [How to Redirect One Domain to Another in IIS Using URL Rewrite](web-servers/iis/url-rewrite/how-to-redirect-one-domain-to-another-in-iis-using-url-rewrite.md)
     * [Install IIS](web-servers/iis/install-iis.md)
