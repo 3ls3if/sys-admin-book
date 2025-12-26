@@ -23,6 +23,7 @@
     * [Maximum Path Length Limitation](windows-server/troubleshooting/maximum-path-length-limitation.md)
     * [Delete pagefile.sys file from C drive](windows-server/troubleshooting/delete-pagefile.sys-file-from-c-drive.md)
     * [Troubleshooting Disk Partitioning Issues on C: Drive](windows-server/troubleshooting/troubleshooting-disk-partitioning-issues-on-c-drive.md)
+    * [RDP: This problem can occur if the remote PC is running a version of Windows that is not configured](windows-server/troubleshooting/rdp-this-problem-can-occur-if-the-remote-pc-is-running-a-version-of-windows-that-is-not-configured.md)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
     * [Change Default RDP Port](windows-server/basic-configurations/change-default-rdp-port.md)
