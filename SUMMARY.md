@@ -289,6 +289,7 @@
     * [Powershell: Recovering Deleted Users in Microsoft 365](email-and-office-365/automation/powershell-recovering-deleted-users-in-microsoft-365.md)
     * [Enable Archive Policy & Assign Retention Tag for a User in Microsoft 365](email-and-office-365/automation/enable-archive-policy-and-assign-retention-tag-for-a-user-in-microsoft-365.md)
     * [List all allias in m365 with a for a specific username](email-and-office-365/automation/list-all-allias-in-m365-with-a-for-a-specific-username.md)
+    * [Delete all the guest users from m365 tenant](email-and-office-365/automation/delete-all-the-guest-users-from-m365-tenant.md)
   * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup/README.md)
     * [Set Up Connectors Between Microsoft 365 and SmarterMail](email-and-office-365/hybrid-mail-setup/set-up-connectors-between-microsoft-365-and-smartermail.md)
     * [Hybrid Setup: G-Suite to M365](email-and-office-365/hybrid-mail-setup/hybrid-setup-g-suite-to-m365.md)
