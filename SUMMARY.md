@@ -10,7 +10,6 @@
     * [OneDrive for Business, Map as Network Drive in Windows](system-configuration/windows/onedrive-for-business-map-as-network-drive-in-windows.md)
     * [PDF Printer](system-configuration/windows/pdf-printer.md)
     * [Reset Windows Password](system-configuration/windows/reset-windows-password.md)
-  * [Linux](system-configuration/linux.md)
   * [Mac](system-configuration/mac/README.md)
     * [Factory Reset Mac Mini](system-configuration/mac/factory-reset-mac-mini.md)
     * [Install FortiClient VPN](system-configuration/mac/install-forticlient-vpn.md)
