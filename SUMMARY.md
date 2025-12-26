@@ -157,6 +157,8 @@
   * [VPNs](vpns-and-proxy-servers/vpns/README.md)
     * [Install and Uninstall Proton VPN on Windows](vpns-and-proxy-servers/vpns/install-and-uninstall-proton-vpn-on-windows.md)
 * [Database Servers](database-servers.md)
+  * [PowerShell Scripts](database-servers/powershell-scripts/README.md)
+    * [Automating Weekly MS SQL Database Backups Using PowerShell and Task Scheduler](database-servers/powershell-scripts/automating-weekly-ms-sql-database-backups-using-powershell-and-task-scheduler.md)
   * [MS SQL](database-servers/ms-sql/README.md)
     * [Download and Install](database-servers/ms-sql/download-and-install.md)
     * [Install SSMS](database-servers/ms-sql/install-ssms.md)
