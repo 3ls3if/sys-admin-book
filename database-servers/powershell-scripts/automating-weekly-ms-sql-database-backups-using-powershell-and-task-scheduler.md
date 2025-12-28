@@ -63,8 +63,8 @@ C:\SQLScripts\WeeklySqlBackup.ps1
 # Configuration
 # -------------------------------
 $SqlServer  = "localhost"
-$Database   = "MyDatabase"
-$BackupPath = "C:\SQLBackups"
+$Database   = "ARMCPA_DATA".Trim()  # Trim extra spaces
+$BackupPath = "C:\SQLBackups"  # Ensure this is correct with no spaces
 $MaxBackups = 5
 
 # Ensure backup folder exists
@@ -89,7 +89,7 @@ if ($ExistingBackups.Count -ge $MaxBackups) {
 $BackupNumber = (Get-ChildItem $BackupPath -Filter "$Database*.bak").Count + 1
 if ($BackupNumber -gt $MaxBackups) { $BackupNumber = $MaxBackups }
 
-# Create backup file name
+# Create backup file name without extra spaces
 $Date = Get-Date -Format "yyyy-MM-dd"
 $BackupFile = "$BackupPath\$Database" + "_" + $Date + "_" + $BackupNumber + ".bak"
 
@@ -104,6 +104,7 @@ WITH INIT, STATS = 10
 Invoke-Sqlcmd -ServerInstance $SqlServer -Query $SqlQuery
 
 Write-Output "Backup completed: $BackupFile"
+
 ```
 
 ***
