@@ -159,6 +159,7 @@
 * [Database Servers](database-servers.md)
   * [PowerShell Scripts](database-servers/powershell-scripts/README.md)
     * [Automating Weekly MS SQL Database Backups Using PowerShell and Task Scheduler](database-servers/powershell-scripts/automating-weekly-ms-sql-database-backups-using-powershell-and-task-scheduler.md)
+    * [Script: DB Backup and Restore](database-servers/powershell-scripts/script-db-backup-and-restore.md)
   * [MS SQL](database-servers/ms-sql/README.md)
     * [Download and Install](database-servers/ms-sql/download-and-install.md)
     * [Install SSMS](database-servers/ms-sql/install-ssms.md)
