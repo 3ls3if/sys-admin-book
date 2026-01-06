@@ -370,6 +370,7 @@
     * [Restricting Email Communication to One Domain in Google Workspace (Gmail)](email-and-office-365/google-workspace/restricting-email-communication-to-one-domain-in-google-workspace-gmail.md)
   * [MailEnable](email-and-office-365/mailenable/README.md)
     * [Enable/Disable a User](email-and-office-365/mailenable/enable-disable-a-user.md)
+    * [HOW TO INSTALL MAILENABLE ON WINDOWS SERVER](email-and-office-365/mailenable/how-to-install-mailenable-on-windows-server.md)
   * [SmarterMail](email-and-office-365/smartermail/README.md)
     * [SmarterMail Installation](email-and-office-365/smartermail/smartermail-installation.md)
     * [SmarterMail Server Setup](email-and-office-365/smartermail/smartermail-server-setup.md)
