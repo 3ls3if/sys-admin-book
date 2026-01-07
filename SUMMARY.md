@@ -134,6 +134,7 @@
     * [Launch Proxmox Installer](virtualization/proxmox-ve/launch-proxmox-installer.md)
     * [Create a VM](virtualization/proxmox-ve/create-a-vm.md)
     * [Proxmox Virtual Environment (PVE) – Useful Commands](virtualization/proxmox-ve/proxmox-virtual-environment-pve-useful-commands.md)
+    * [Windows server installation on Proxmox](virtualization/proxmox-ve/windows-server-installation-on-proxmox.md)
 * [Web Servers](web-servers.md)
   * [IIS](web-servers/iis/README.md)
     * [Troubleshooting](web-servers/iis/troubleshooting/README.md)
