@@ -371,6 +371,8 @@
   * [MailEnable](email-and-office-365/mailenable/README.md)
     * [Enable/Disable a User](email-and-office-365/mailenable/enable-disable-a-user.md)
     * [HOW TO INSTALL MAILENABLE ON WINDOWS SERVER](email-and-office-365/mailenable/how-to-install-mailenable-on-windows-server.md)
+    * [How to create a Post Office in MailEnable?](email-and-office-365/mailenable/how-to-create-a-post-office-in-mailenable.md)
+    * [How to Add Domain and Create New Email Account in MailEnable](email-and-office-365/mailenable/how-to-add-domain-and-create-new-email-account-in-mailenable.md)
   * [SmarterMail](email-and-office-365/smartermail/README.md)
     * [SmarterMail Installation](email-and-office-365/smartermail/smartermail-installation.md)
     * [SmarterMail Server Setup](email-and-office-365/smartermail/smartermail-server-setup.md)
