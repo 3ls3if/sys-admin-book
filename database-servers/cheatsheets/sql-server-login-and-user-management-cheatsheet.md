@@ -1,10 +1,8 @@
 ---
-icon: sheet-plastic
+icon: windows
 ---
 
-# CheatSheets
-
-## SQL Server Login & User Management – Cheatsheet
+# SQL Server Login & User Management – Cheatsheet
 
 ### 1️⃣ Create Login (Server Level)
 
