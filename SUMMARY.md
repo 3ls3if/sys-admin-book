@@ -140,6 +140,7 @@
     * [Resize Disk Size via Proxmox GUI](virtualization/proxmox-ve/resize-disk-size-via-proxmox-gui.md)
     * [Move Proxmox VM Disk to Another Storage](virtualization/proxmox-ve/move-proxmox-vm-disk-to-another-storage.md)
     * [Migrate and attach existing disk of a VM to another VM on remote machine](virtualization/proxmox-ve/migrate-and-attach-existing-disk-of-a-vm-to-another-vm-on-remote-machine.md)
+    * [Attaching One Proxmox VM Disk to Another VM](virtualization/proxmox-ve/attaching-one-proxmox-vm-disk-to-another-vm.md)
 * [Web Servers](web-servers.md)
   * [IIS](web-servers/iis/README.md)
     * [Troubleshooting](web-servers/iis/troubleshooting/README.md)
