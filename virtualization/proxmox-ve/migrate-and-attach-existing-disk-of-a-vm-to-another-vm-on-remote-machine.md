@@ -25,3 +25,291 @@ Using web interface, go to `Datacenter --> Storage` and select `local`. Click `E
 `Select your VM` on the left, go to `Hardware` tab, select `Hard Disk` and click `Move disk`. On `Target Storage` of the pop-up box, select `local-lvm` and choose appropriate `Format`. When you are done, unselect `Disk image` from `Datacenter --> Storage`, select `local` and finally click `OK`.
 
 **Turn on the VM!**
+
+
+
+***
+
+## Explanation
+
+You’re basically doing a **manual VM migration** between two **stand-alone Proxmox hosts** that use **LVM-thin** for VM disks and have **no cluster or shared storage**. Let me break this down conceptually first, then map it cleanly to the steps you described and explain _why each step is necessary_.
+
+***
+
+### 1. Why this is harder in “newer” Proxmox
+
+#### Old Proxmox (file-based storage)
+
+Earlier Proxmox setups commonly stored VM disks as:
+
+```
+/var/lib/vz/images/VMID/vm-VMID-disk-1.raw
+```
+
+or `qcow2`.
+
+➡️ Result:\
+You could just `scp` or `rsync` the file to another host and attach it.
+
+***
+
+#### New Proxmox (LVM-thin storage)
+
+Now, most installs use **local-lvm (LVM-thin)** by default.
+
+Key differences:
+
+* VM disks are **logical volumes**, not files
+* Stored under `/dev/pve/vm-VMID-disk-*`
+* Managed entirely by LVM
+* **Not directly copyable** with rsync/scp
+
+➡️ Result:\
+You must **convert LVM volumes into files**, transfer them, then **convert them back into LVM volumes**.
+
+That’s exactly what your process does.
+
+***
+
+### 2. High-level idea of the migration
+
+You’re doing this:
+
+```
+LVM volume (source)
+   ↓
+QCOW2 file (source)
+   ↓ rsync/scp
+QCOW2 file (destination)
+   ↓
+LVM volume (destination)
+```
+
+The Web UI steps are just a friendly wrapper around this conversion.
+
+***
+
+### 3. Understanding the SOURCE steps (proxmox #1)
+
+#### 🔹 Why enable “Disk image” on `local`
+
+By default:
+
+* `local` → ISO, backups, templates
+* `local-lvm` → VM disks
+
+To temporarily store a **VM disk as a file**, Proxmox needs permission to store “Disk image” on `local`.
+
+So:
+
+```
+Datacenter → Storage → local → Content → Disk image
+```
+
+This allows Proxmox to place VM disks in:
+
+```
+/var/lib/vz/images/VMID/
+```
+
+***
+
+#### 🔹 Why “Move disk” → local (qcow2)
+
+When you click **Move disk**:
+
+* Proxmox exports the LVM-thin volume
+* Converts it to a file format (`qcow2` or `raw`)
+* Writes it to `local`
+
+Internally, this is similar to:
+
+```
+qemu-img convert /dev/pve/vm-100-disk-1 vm-100-disk-1.qcow2
+```
+
+Result:
+
+```
+/var/lib/vz/images/VMID/vm-VMID-disk-1.qcow2
+```
+
+Now your VM disk is:
+
+* Portable
+* Copyable
+* Independent of LVM
+
+***
+
+#### 🔹 Why “Delete source” is optional
+
+If checked:
+
+* Proxmox removes the original LVM volume\
+  If unchecked:
+* You must delete it manually later
+
+Best practice: **delete source** once verified.
+
+***
+
+#### 🔹 Why disable “Disk image” afterward
+
+You don’t want Proxmox accidentally storing VM disks on `local` long-term.\
+`local-lvm` is optimized for VM disks (snapshots, performance).
+
+***
+
+### 4. Understanding the DESTINATION steps (proxmox #2)
+
+#### 🔹 Why create a dummy VM first
+
+Proxmox needs:
+
+* A VMID
+* A config file: `/etc/pve/qemu-server/VMID.conf`
+
+Creating a VM:
+
+* Generates the config
+* Sets CPU, RAM, BIOS, NIC, etc.
+
+⚠️ You **must match**:
+
+* BIOS (SeaBIOS vs OVMF)
+* Machine type (i440fx vs q35)
+* Disk bus (SCSI / VirtIO)
+
+Otherwise the VM may not boot.
+
+***
+
+#### 🔹 Why delete the auto-created disk
+
+When you create the VM with a disk:
+
+* Proxmox creates a placeholder qcow2 file\
+  or
+* LVM volume
+
+You delete it because:
+
+* You’re replacing it with the migrated disk
+* Disk names must match:
+
+```
+vm-VMID-disk-1.qcow2
+```
+
+***
+
+#### 🔹 Why copy into `/var/lib/vz/images/VMID/`
+
+This is where Proxmox expects file-based disks on `local`.
+
+Using:
+
+```
+rsync -avP vm-VMID-disk-1.qcow2 root@proxmox2:/var/lib/vz/images/VMID/
+```
+
+At this point:
+
+* The VM is pointing to a file-based disk
+* Still not ideal for production
+
+***
+
+#### 🔹 Why “Move disk” → local-lvm
+
+This converts the file back into an LVM-thin volume:
+
+```
+qcow2 file
+   ↓
+/dev/pve/vm-VMID-disk-1
+```
+
+This gives you:
+
+* Snapshots
+* Better performance
+* Standard Proxmox layout
+
+After this step:
+
+* The qcow2 file is removed
+* The disk lives in `local-lvm`
+
+***
+
+#### 🔹 Why disable “Disk image” again
+
+Same reason as source:
+
+* Prevent accidental file-based disks
+* Keep storage clean
+
+***
+
+### 5. What happens to snapshots, state, etc.
+
+❌ **Snapshots are NOT migrated**
+
+* LVM snapshots don’t survive export
+* Only the **current disk state** is transferred
+
+❌ **VM state (suspend)** is lost
+
+* Must shut down the VM before migration
+
+***
+
+### 6. What could go wrong (important!)
+
+#### Common boot failures
+
+* Wrong disk controller (IDE vs VirtIO vs SCSI)
+* BIOS mismatch (UEFI vs Legacy)
+* Missing VirtIO drivers (Windows)
+
+#### Network issues
+
+* New MAC address → DHCP issues
+* Static IPs may need adjustment
+
+***
+
+### 7. Easier alternatives (for future)
+
+#### ✔ Option 1: vzdump + restore (recommended)
+
+If both hosts run compatible Proxmox versions:
+
+```bash
+vzdump VMID --mode stop --compress zstd
+scp /var/lib/vz/dump/vzdump-qemu-VMID*.zst proxmox2:/var/lib/vz/dump/
+qmrestore vzdump-qemu-VMID*.zst VMID
+```
+
+✔ Preserves:
+
+* VM config
+* Disk layout
+* Much safer
+
+***
+
+#### ✔ Option 2: `qm move_disk` via CLI
+
+More control, same logic as UI.
+
+***
+
+### 8. Mental model (TL;DR)
+
+Think of LVM-thin like a **sealed container**:
+
+* You can’t copy it directly
+* You must **export → move → import**
