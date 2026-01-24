@@ -138,6 +138,7 @@
     * [How to Backup and Restore Virtual Machines and Containers in Proxmox VE](virtualization/proxmox-ve/how-to-backup-and-restore-virtual-machines-and-containers-in-proxmox-ve.md)
     * [Restore Proxmox Virtual Machine](virtualization/proxmox-ve/restore-proxmox-virtual-machine.md)
     * [Resize Disk Size via Proxmox GUI](virtualization/proxmox-ve/resize-disk-size-via-proxmox-gui.md)
+    * [Move Proxmox VM Disk to Another Storage](virtualization/proxmox-ve/move-proxmox-vm-disk-to-another-storage.md)
 * [Web Servers](web-servers.md)
   * [IIS](web-servers/iis/README.md)
     * [Troubleshooting](web-servers/iis/troubleshooting/README.md)
