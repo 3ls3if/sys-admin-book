@@ -428,6 +428,8 @@
   * [Exchange Admin](email-and-office-365/exchange-admin/README.md)
     * [Mail Flow Reports](email-and-office-365/exchange-admin/mail-flow-reports.md)
     * [Message Trace Reports](email-and-office-365/exchange-admin/message-trace-reports.md)
+  * [Sharepoint](email-and-office-365/sharepoint/README.md)
+    * [Create a Shared Library (SharePoint) for Large Data](email-and-office-365/sharepoint/create-a-shared-library-sharepoint-for-large-data.md)
   * [Zoho Mail](email-and-office-365/zoho-mail/README.md)
     * [Setting up business email](email-and-office-365/zoho-mail/setting-up-business-email.md)
 * [Firewalls and Access Points](firewalls-and-access-points/README.md)
