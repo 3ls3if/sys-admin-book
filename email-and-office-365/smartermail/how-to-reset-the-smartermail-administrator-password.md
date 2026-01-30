@@ -1,4 +1,8 @@
-# Page 1
+---
+icon: key
+---
+
+# How to Reset the SmarterMail Administrator Password
 
 ## How to Reset the SmarterMail Administrator Password
 
