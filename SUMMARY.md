@@ -121,6 +121,7 @@
     * [How to reset a password of a Plesk user account](control-panels/plesk/how-to-reset-a-password-of-a-plesk-user-account.md)
     * [Monitoring Connections to Plesk](control-panels/plesk/monitoring-connections-to-plesk.md)
     * [How to set Hard Quota on disk space for subscription(s) in Plesk](control-panels/plesk/how-to-set-hard-quota-on-disk-space-for-subscription-s-in-plesk.md)
+    * [Run SSL cert repair for ALL domains (IIS)](control-panels/plesk/run-ssl-cert-repair-for-all-domains-iis.md)
   * [OVI Panel](control-panels/ovi-panel/README.md)
     * [DNS Zone Editor](control-panels/ovi-panel/dns-zone-editor.md)
   * [SolidCP](control-panels/solidcp/README.md)
