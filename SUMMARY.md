@@ -25,6 +25,7 @@
     * [RDP: This problem can occur if the remote PC is running a version of Windows that is not configured](windows-server/troubleshooting/rdp-this-problem-can-occur-if-the-remote-pc-is-running-a-version-of-windows-that-is-not-configured.md)
     * [Uninstall windows update](windows-server/troubleshooting/uninstall-windows-update.md)
     * [Copy-Paste is not working on windows server 2019](windows-server/troubleshooting/copy-paste-is-not-working-on-windows-server-2019.md)
+    * [Delete Recovery Partition using DiskPart (Admin)](windows-server/troubleshooting/delete-recovery-partition-using-diskpart-admin.md)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
     * [Change Default RDP Port](windows-server/basic-configurations/change-default-rdp-port.md)
