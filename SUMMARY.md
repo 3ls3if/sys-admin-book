@@ -206,6 +206,8 @@
     * [PostgreSQL - pgAdmin4](database-servers/postgresql/postgresql-pgadmin4.md)
     * [Connect to PostgreSQL database server using pgAdmin](database-servers/postgresql/connect-to-postgresql-database-server-using-pgadmin.md)
     * [Create a User in PostgreSQL](database-servers/postgresql/create-a-user-in-postgresql.md)
+  * [PhpMyAdmin](database-servers/phpmyadmin/README.md)
+    * [How to install PHP on Windows Server](database-servers/phpmyadmin/how-to-install-php-on-windows-server.md)
 * [CDN Servers](cdn-servers.md)
 * [Web Dev Stacks](web-dev-stacks/README.md)
   * [Cheat Sheet](web-dev-stacks/cheat-sheet/README.md)
