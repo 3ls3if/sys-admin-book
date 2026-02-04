@@ -39,6 +39,7 @@
     * [Extend Partition](windows-server/basic-configurations/extend-partition.md)
     * [How to Remove the Remote Desktop Services (RDS) Grace Period in Windows Server](windows-server/basic-configurations/how-to-remove-the-remote-desktop-services-rds-grace-period-in-windows-server.md)
     * [How to Change Date Format (Windows Server 2012 / 2016 / 2019 / 2022)](windows-server/basic-configurations/how-to-change-date-format-windows-server-2012-2016-2019-2022.md)
+    * [Reset Windows Server without Losing Data](windows-server/basic-configurations/reset-windows-server-without-losing-data.md)
   * [FTP Server](windows-server/ftp-server/README.md)
     * [Install FTP Server (IIS)](windows-server/ftp-server/install-ftp-server-iis.md)
     * [Create User Group](windows-server/ftp-server/create-user-group.md)
