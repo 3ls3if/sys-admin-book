@@ -170,6 +170,7 @@
       * [5. Make sure the Django Application is functional](web-servers/iis/setting-up-django-on-windows-iis-server/5.-make-sure-the-django-application-is-functional.md)
       * [6. Install IIS with CGI](web-servers/iis/setting-up-django-on-windows-iis-server/6.-install-iis-with-cgi.md)
       * [7. Configure IIS to serve Django Applications](web-servers/iis/setting-up-django-on-windows-iis-server/7.-configure-iis-to-serve-django-applications.md)
+    * [How to Increase File Upload Limit for WordPress on IIS (Up to 3 GB)](web-servers/iis/how-to-increase-file-upload-limit-for-wordpress-on-iis-up-to-3-gb.md)
 * [VPNs and Proxy Servers](vpns-and-proxy-servers/README.md)
   * [Reverse Proxy](vpns-and-proxy-servers/reverse-proxy/README.md)
     * [IIS - Node.js Application](vpns-and-proxy-servers/reverse-proxy/iis-node.js-application.md)
