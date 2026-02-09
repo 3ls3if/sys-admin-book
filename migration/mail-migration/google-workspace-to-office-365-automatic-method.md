@@ -57,6 +57,8 @@ Here's how you do it:
    3. <mark style="color:green;">**Owner**</mark>
    4. <mark style="color:green;">**Service Account Key Admin**</mark>
    5. <mark style="color:green;">**Service Account User**</mark>
+   6. <mark style="color:green;">**Project Creator**</mark>
+   7. <mark style="color:green;">**Organization Policy Administrator**</mark>
 9. <mark style="color:green;">**Other Roles (Need to Assign on the Organization):**</mark>
    1. <mark style="color:green;">**Access Transparency Admin**</mark>
    2. <mark style="color:green;">**Browser**</mark>
@@ -65,8 +67,9 @@ Here's how you do it:
    5. <mark style="color:green;">**Editor**</mark>
    6. <mark style="color:green;">**Organization Administrator**</mark>
    7. <mark style="color:green;">**Organization Policy Viewer**</mark>
-   8. <mark style="color:green;">**Owner**</mark>
-   9. <mark style="color:green;">**Project Creator**</mark>
+   8. <mark style="color:green;">**Organization Policy Administrator**</mark>
+   9. <mark style="color:green;">**Owner**</mark>
+   10. <mark style="color:green;">**Project Creator**</mark>
 10. <mark style="color:green;">Select</mark> <mark style="color:green;"></mark><mark style="color:green;">**Save**</mark><mark style="color:green;">.</mark>
 
 
