@@ -494,6 +494,7 @@
     * [Plesk to Plesk Migration](migration/website-migration/plesk-to-plesk-migration.md)
     * [Migrate an existing WordPress website to Plesk](migration/website-migration/migrate-an-existing-wordpress-website-to-plesk.md)
     * [Cloning a WordPress WebsitePage](migration/website-migration/cloning-a-wordpress-websitepage.md)
+    * [Migrate using All-in-One WP Migration](migration/website-migration/migrate-using-all-in-one-wp-migration.md)
   * [Database Migration](migration/database-migration/README.md)
     * [SQL Server database migration](migration/database-migration/sql-server-database-migration.md)
 * [Monitoring](monitoring/README.md)
