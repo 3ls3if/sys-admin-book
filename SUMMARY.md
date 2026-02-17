@@ -325,6 +325,7 @@
     * [List all allias in m365 with a for a specific username](email-and-office-365/automation/list-all-allias-in-m365-with-a-for-a-specific-username.md)
     * [Delete all the guest users from m365 tenant](email-and-office-365/automation/delete-all-the-guest-users-from-m365-tenant.md)
     * [How to Enable “Send From Alias” in Microsoft 365 (Exchange Online)](email-and-office-365/automation/how-to-enable-send-from-alias-in-microsoft-365-exchange-online.md)
+    * [Create Bulk Contacts](email-and-office-365/automation/create-bulk-contacts.md)
   * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup/README.md)
     * [Set Up Connectors Between Microsoft 365 and SmarterMail](email-and-office-365/hybrid-mail-setup/set-up-connectors-between-microsoft-365-and-smartermail.md)
     * [Hybrid Setup: G-Suite to M365](email-and-office-365/hybrid-mail-setup/hybrid-setup-g-suite-to-m365.md)
