@@ -326,6 +326,7 @@
     * [Delete all the guest users from m365 tenant](email-and-office-365/automation/delete-all-the-guest-users-from-m365-tenant.md)
     * [How to Enable “Send From Alias” in Microsoft 365 (Exchange Online)](email-and-office-365/automation/how-to-enable-send-from-alias-in-microsoft-365-exchange-online.md)
     * [Create Bulk Contacts](email-and-office-365/automation/create-bulk-contacts.md)
+    * [How to Move Mailbox Items to Archive Using Managed Folder Assistant (Exchange Online)](email-and-office-365/automation/how-to-move-mailbox-items-to-archive-using-managed-folder-assistant-exchange-online.md)
   * [Hybrid Mail Setup](email-and-office-365/hybrid-mail-setup/README.md)
     * [Set Up Connectors Between Microsoft 365 and SmarterMail](email-and-office-365/hybrid-mail-setup/set-up-connectors-between-microsoft-365-and-smartermail.md)
     * [Hybrid Setup: G-Suite to M365](email-and-office-365/hybrid-mail-setup/hybrid-setup-g-suite-to-m365.md)
