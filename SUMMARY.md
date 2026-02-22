@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Hardware/Physical Machines](README.md)
+* [🌸 INTRO](README.md)
+* [Hardware/Physical Machines](<README (3).md>)
   * [Physical Networking](hardware-physical-machines/physical-networking/README.md)
     * [Patch Panel](hardware-physical-machines/physical-networking/patch-panel.md)
   * [Hardware Devices](hardware-physical-machines/hardware-devices.md)
@@ -532,3 +533,4 @@
   * [SC-200 Microsoft Security Operations Analyst: Notes](certifications/sc-200-microsoft-security-operations-analyst-notes.md)
   * [FortiGate Operator 7.6: Notes](certifications/fortigate-operator-7.6-notes/README.md)
     * [Overview and Features](certifications/fortigate-operator-7.6-notes/overview-and-features.md)
+* [🌸 OUTRO](outro.md)
