@@ -109,6 +109,10 @@ Open `data_old` and copy **only your project databases**.
 
 Paste your own database folders into the new `data` folder.
 
+{% hint style="info" icon="lightbulb" %}
+Do not forget to copy the ibdata1 file from your old data folder to the new one.
+{% endhint %}
+
 ***
 
 ### Step 6: Start MySQL
