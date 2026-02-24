@@ -214,6 +214,7 @@
     * [PostgreSQL - pgAdmin4](database-servers/postgresql/postgresql-pgadmin4.md)
     * [Connect to PostgreSQL database server using pgAdmin](database-servers/postgresql/connect-to-postgresql-database-server-using-pgadmin.md)
     * [Create a User in PostgreSQL](database-servers/postgresql/create-a-user-in-postgresql.md)
+    * [How to Configure PostgreSQL for Remote Access Using the Superuser (Windows Server)](database-servers/postgresql/how-to-configure-postgresql-for-remote-access-using-the-superuser-windows-server.md)
   * [PhpMyAdmin](database-servers/phpmyadmin/README.md)
     * [How to install PHP on Windows Server](database-servers/phpmyadmin/how-to-install-php-on-windows-server.md)
     * [Protect phpMyAdmin using Apache (.htaccess)](database-servers/phpmyadmin/protect-phpmyadmin-using-apache-.htaccess.md)
