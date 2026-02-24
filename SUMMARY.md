@@ -206,6 +206,7 @@
     * [Create User and Import Database](database-servers/mysql/create-user-and-import-database.md)
     * [Importing a Database Using MySQL](database-servers/mysql/importing-a-database-using-mysql.md)
     * [How to Resolve the “MySQL – Too Many Connections” Error](database-servers/mysql/how-to-resolve-the-mysql-too-many-connections-error.md)
+    * [How to Configure MySQL for Remote Access Using the Root User (Windows Server)](database-servers/mysql/how-to-configure-mysql-for-remote-access-using-the-root-user-windows-server.md)
   * [Postgresql](database-servers/postgresql/README.md)
     * [Troubleshooting](database-servers/postgresql/troubleshooting/README.md)
       * [Connection Failed: Error](database-servers/postgresql/troubleshooting/connection-failed-error.md)
