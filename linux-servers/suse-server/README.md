@@ -1,0 +1,6 @@
+---
+icon: suse
+---
+
+# SUSE Server
+
