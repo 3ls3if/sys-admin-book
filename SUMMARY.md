@@ -91,6 +91,7 @@
     * [How to export and import scheduled tasks using PowerShell](windows-server/powershell-scripts/how-to-export-and-import-scheduled-tasks-using-powershell.md)
     * [Windows Server Audit Script](windows-server/powershell-scripts/windows-server-audit-script.md)
     * [Server Configuration Script](windows-server/powershell-scripts/server-configuration-script.md)
+    * [Gaining Deep Visibility into Windows with PowerShell and NtObjectManager](windows-server/powershell-scripts/gaining-deep-visibility-into-windows-with-powershell-and-ntobjectmanager.md)
   * [Malware Detection & Prevention](windows-server/malware-detection-and-prevention/README.md)
     * [Tools](windows-server/malware-detection-and-prevention/tools/README.md)
       * [Microsoft Safety Scanner – stand-alone scan tool for Windows](windows-server/malware-detection-and-prevention/tools/microsoft-safety-scanner-stand-alone-scan-tool-for-windows.md)
