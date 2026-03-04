@@ -103,6 +103,8 @@
 * [Linux Servers](linux-servers/README.md)
   * [SUSE Server](linux-servers/suse-server/README.md)
     * [How to Configure Network Settings on a SUSE Server](linux-servers/suse-server/how-to-configure-network-settings-on-a-suse-server.md)
+  * [Alma Linux](linux-servers/alma-linux/README.md)
+    * [How to Change the IPv4 Address in AlmaLinux](linux-servers/alma-linux/how-to-change-the-ipv4-address-in-almalinux.md)
 * [Containers](containers/README.md)
   * [Install Docker: Windows Server](containers/install-docker-windows-server.md)
 * [Control Panels](control-panels/README.md)

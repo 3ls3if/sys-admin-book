@@ -1,0 +1,6 @@
+---
+icon: spinner
+---
+
+# Alma Linux
+
