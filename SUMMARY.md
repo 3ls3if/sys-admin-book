@@ -100,6 +100,7 @@
   * [Server Monitoring Scripts](windows-server/server-monitoring-scripts/README.md)
     * [PowerShell script for continuous server monitoring](windows-server/server-monitoring-scripts/powershell-script-for-continuous-server-monitoring.md)
     * [Monitor and Log all active TCP connections](windows-server/server-monitoring-scripts/monitor-and-log-all-active-tcp-connections.md)
+  * [TS Plus Remote Access](windows-server/ts-plus-remote-access.md)
 * [Linux Servers](linux-servers/README.md)
   * [SUSE Server](linux-servers/suse-server/README.md)
     * [How to Configure Network Settings on a SUSE Server](linux-servers/suse-server/how-to-configure-network-settings-on-a-suse-server.md)
