@@ -482,6 +482,8 @@
   * [Cisco Router Config](networking/cisco-router-config.md)
   * [Cisco Switch Config](networking/cisco-switch-config/README.md)
     * [Basic Data and Voice VLAN Setup Homelab](networking/cisco-switch-config/basic-data-and-voice-vlan-setup-homelab.md)
+  * [TP-Link Router](networking/tp-link-router/README.md)
+    * [How to Manage Omada Devices at Different Sites Using Omada SDN Controller via Port Forwarding](networking/tp-link-router/how-to-manage-omada-devices-at-different-sites-using-omada-sdn-controller-via-port-forwarding.md)
 * [Migration](migration/README.md)
   * [Drive Migration](migration/drive-migration/README.md)
     * [Google Drive to One Drive](migration/drive-migration/google-drive-to-one-drive.md)
