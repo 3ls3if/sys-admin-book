@@ -329,6 +329,7 @@
     * [Clear cache for the mail id  (Outlook)](email-and-office-365/troubleshooting/clear-cache-for-the-mail-id-outlook.md)
     * [Error 657rx then 4vt9f when Office 365 asks for password twice](email-and-office-365/troubleshooting/error-657rx-then-4vt9f-when-office-365-asks-for-password-twice.md)
     * [Fix "Cannot install this product in the selected update channel" Error 0-2054 in Microsoft Office](email-and-office-365/troubleshooting/fix-cannot-install-this-product-in-the-selected-update-channel-error-0-2054-in-microsoft-office.md)
+    * [Clearing Cache in Outlook](email-and-office-365/troubleshooting/clearing-cache-in-outlook.md)
   * [Automation](email-and-office-365/automation/README.md)
     * [Powershell Commands](email-and-office-365/automation/powershell-commands.md)
     * [MS-Graph Commands](email-and-office-365/automation/ms-graph-commands.md)
