@@ -400,6 +400,8 @@
     * [Restricting Email Communication to One Domain in Microsoft 365 (Exchange Online)](email-and-office-365/office-365/restricting-email-communication-to-one-domain-in-microsoft-365-exchange-online.md)
     * [How to Convert a Federated Domain to Managed Authentication Using Microsoft Graph PowerShell](email-and-office-365/office-365/how-to-convert-a-federated-domain-to-managed-authentication-using-microsoft-graph-powershell.md)
   * [Google Workspace](email-and-office-365/google-workspace/README.md)
+    * [Troubleshooting](email-and-office-365/google-workspace/troubleshooting/README.md)
+      * [How to Fix “Folder Not Empty” and Permission Errors in Google Cloud (gcloud CLI)](email-and-office-365/google-workspace/troubleshooting/how-to-fix-folder-not-empty-and-permission-errors-in-google-cloud-gcloud-cli.md)
     * [Intro & Plans](email-and-office-365/google-workspace/intro-and-plans.md)
     * [Create your Google Workspace trial account](email-and-office-365/google-workspace/create-your-google-workspace-trial-account.md)
     * [Review your DNS records](email-and-office-365/google-workspace/review-your-dns-records.md)
