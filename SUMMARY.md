@@ -416,6 +416,7 @@
     * [Auto-forward From Google Workspace Using Routing](email-and-office-365/google-workspace/auto-forward-from-google-workspace-using-routing.md)
     * [Recovering administrator access to your account](email-and-office-365/google-workspace/recovering-administrator-access-to-your-account.md)
     * [Restricting Email Communication to One Domain in Google Workspace (Gmail)](email-and-office-365/google-workspace/restricting-email-communication-to-one-domain-in-google-workspace-gmail.md)
+    * [How to Delete a Google Workspace Account](email-and-office-365/google-workspace/how-to-delete-a-google-workspace-account.md)
   * [MailEnable](email-and-office-365/mailenable/README.md)
     * [Enable/Disable a User](email-and-office-365/mailenable/enable-disable-a-user.md)
     * [HOW TO INSTALL MAILENABLE ON WINDOWS SERVER](email-and-office-365/mailenable/how-to-install-mailenable-on-windows-server.md)
