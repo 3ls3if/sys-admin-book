@@ -159,6 +159,7 @@
       * [Fixing the "Login failed for user 'IIS APPPOOL'" Error in SQL Server with IIS and ASP.NET Core](web-servers/iis/troubleshooting/fixing-the-login-failed-for-user-iis-apppool-error-in-sql-server-with-iis-and-asp.net-core.md)
       * [Troubleshooting IIS HTTP Error 503 Due to Missing or Corrupted DLL Files](web-servers/iis/troubleshooting/troubleshooting-iis-http-error-503-due-to-missing-or-corrupted-dll-files.md)
       * [How to Fix IIS HTTP 500.19 & 500.52 Errors in Reverse Proxy (ARR + URL Rewrite)](web-servers/iis/troubleshooting/how-to-fix-iis-http-500.19-and-500.52-errors-in-reverse-proxy-arr-+-url-rewrite.md)
+      * [How to Fix HTTP Error 500.21 and 403.14 in ASP.NET Core on IIS](web-servers/iis/troubleshooting/how-to-fix-http-error-500.21-and-403.14-in-asp.net-core-on-iis.md)
     * [URL Rewrite](web-servers/iis/url-rewrite/README.md)
       * [How to Redirect One Domain to Another in IIS Using URL Rewrite](web-servers/iis/url-rewrite/how-to-redirect-one-domain-to-another-in-iis-using-url-rewrite.md)
       * [Hosting a Local Application Behind HTTPS Using IIS Reverse Proxy](web-servers/iis/url-rewrite/hosting-a-local-application-behind-https-using-iis-reverse-proxy.md)
