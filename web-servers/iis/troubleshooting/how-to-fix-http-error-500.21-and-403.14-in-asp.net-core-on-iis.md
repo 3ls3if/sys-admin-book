@@ -123,19 +123,28 @@ iisreset
 Your `web.config` must include the handler:
 
 ```xml
-<handlers>
-  <add name="aspNetCore"
-       path="*"
-       verb="*"
-       modules="AspNetCoreModuleV2"
-       resourceType="Unspecified" />
-</handlers>
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <location path="." inheritInChildApplications="false">
+    <system.webServer>
 
-<aspNetCore processPath="dotnet"
-            arguments="Hajri.dll"
-            stdoutLogEnabled="false"
-            stdoutLogFile=".\logs\stdout"
-            hostingModel="inprocess" />
+      <handlers>
+        <add name="aspNetCore"
+             path="*"
+             verb="*"
+             modules="AspNetCoreModuleV2"
+             resourceType="Unspecified" />
+      </handlers>
+
+      <aspNetCore processPath="dotnet"
+                  arguments="Hajri.dll"
+                  stdoutLogEnabled="true"
+                  stdoutLogFile=".\logs\stdout"
+                  hostingModel="inprocess" />
+
+    </system.webServer>
+  </location>
+</configuration>
 ```
 
 > ❌ Removing this handler will break your app
