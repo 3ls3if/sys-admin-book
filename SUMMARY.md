@@ -162,6 +162,7 @@
       * [How to Fix IIS HTTP 500.19 & 500.52 Errors in Reverse Proxy (ARR + URL Rewrite)](web-servers/iis/troubleshooting/how-to-fix-iis-http-500.19-and-500.52-errors-in-reverse-proxy-arr-+-url-rewrite.md)
       * [How to Fix HTTP Error 500.21 and 403.14 in ASP.NET Core on IIS](web-servers/iis/troubleshooting/how-to-fix-http-error-500.21-and-403.14-in-asp.net-core-on-iis.md)
       * [Debugging HTTP 500 Errors in IIS Reverse Proxy for a React App](web-servers/iis/troubleshooting/debugging-http-500-errors-in-iis-reverse-proxy-for-a-react-app.md)
+      * [Complete Guide: Fixing IIS 404 Errors and Database Connection Issues for ASP.NET Websites](web-servers/iis/troubleshooting/complete-guide-fixing-iis-404-errors-and-database-connection-issues-for-asp.net-websites.md)
     * [URL Rewrite](web-servers/iis/url-rewrite/README.md)
       * [How to Redirect One Domain to Another in IIS Using URL Rewrite](web-servers/iis/url-rewrite/how-to-redirect-one-domain-to-another-in-iis-using-url-rewrite.md)
       * [Hosting a Local Application Behind HTTPS Using IIS Reverse Proxy](web-servers/iis/url-rewrite/hosting-a-local-application-behind-https-using-iis-reverse-proxy.md)
