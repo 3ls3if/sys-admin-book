@@ -233,6 +233,8 @@
     * [Protect phpMyAdmin using Apache (.htaccess)](database-servers/phpmyadmin/protect-phpmyadmin-using-apache-.htaccess.md)
 * [CDN Servers](cdn-servers.md)
 * [Web Dev Stacks](web-dev-stacks/README.md)
+  * [Troubleshooting](web-dev-stacks/troubleshooting/README.md)
+    * [How to Fix phpMyAdmin Import Errors for Large SQL Files on Windows (Complete Guide)](web-dev-stacks/troubleshooting/how-to-fix-phpmyadmin-import-errors-for-large-sql-files-on-windows-complete-guide.md)
   * [Cheat Sheet](web-dev-stacks/cheat-sheet/README.md)
     * [CMD / Laravel](web-dev-stacks/cheat-sheet/cmd-laravel.md)
     * [Basic Vhost Files](web-dev-stacks/cheat-sheet/basic-vhost-files.md)
