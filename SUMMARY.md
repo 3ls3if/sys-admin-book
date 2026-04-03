@@ -195,6 +195,7 @@
 * [Database Servers](database-servers.md)
   * [Troubleshooting](database-servers/troubleshooting/README.md)
     * [How to Fix MySQL “Table mysql.db is Marked as Crashed” Error in XAMPP (Complete Guide)](database-servers/troubleshooting/how-to-fix-mysql-table-mysql.db-is-marked-as-crashed-error-in-xampp-complete-guide.md)
+    * [How to Fix “Table '.\mysql\db' is Marked as Crashed” Error in MySQL](database-servers/troubleshooting/how-to-fix-table-.-mysql-db-is-marked-as-crashed-error-in-mysql.md)
   * [CheatSheets](database-servers/cheatsheets/README.md)
     * [SQL Server Login & User Management – Cheatsheet](database-servers/cheatsheets/sql-server-login-and-user-management-cheatsheet.md)
   * [PowerShell Scripts](database-servers/powershell-scripts/README.md)
