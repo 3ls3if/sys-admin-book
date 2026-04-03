@@ -443,6 +443,7 @@
     * [Setting up Email Signing (DKIM) for a Domain](email-and-office-365/smartermail/setting-up-email-signing-dkim-for-a-domain.md)
     * [Setting up an email alias in SmarterMail](email-and-office-365/smartermail/setting-up-an-email-alias-in-smartermail.md)
     * [How to Reset the SmarterMail Administrator Password](email-and-office-365/smartermail/how-to-reset-the-smartermail-administrator-password.md)
+    * [How to Whitelist a Domain in SmarterMail: A Complete Guide](email-and-office-365/smartermail/how-to-whitelist-a-domain-in-smartermail-a-complete-guide.md)
   * [Microsoft Teams](email-and-office-365/microsoft-teams/README.md)
     * [Guest Access vs. External Access](email-and-office-365/microsoft-teams/guest-access-vs.-external-access.md)
     * [Adding Guests To Microsoft Teams Team](email-and-office-365/microsoft-teams/adding-guests-to-microsoft-teams-team.md)
