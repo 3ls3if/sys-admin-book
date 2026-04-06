@@ -542,6 +542,8 @@
     * [Monitoring Windows Servers Using Prometheus](monitoring/prometheus/monitoring-windows-servers-using-prometheus.md)
   * [Grafana](monitoring/grafana/README.md)
     * [Visualize Data in Grafana](monitoring/grafana/visualize-data-in-grafana.md)
+  * [Centralized Fleet Monitoring System](monitoring/centralized-fleet-monitoring-system/README.md)
+    * [How to Master Infrastructure with the Centralized Fleet Monitoring System](monitoring/centralized-fleet-monitoring-system/how-to-master-infrastructure-with-the-centralized-fleet-monitoring-system.md)
 * [Data Center](data-center/README.md)
   * [HPE ProLiant ILO Configuration](data-center/hpe-proliant-ilo-configuration.md)
 * [Load Balancers](load-balancers.md)
