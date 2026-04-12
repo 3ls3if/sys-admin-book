@@ -1,4 +1,8 @@
-# Simple-ACME guide for Windows Server | FairSSL
+---
+icon: windows
+---
+
+# Simple-ACME guide for Windows Server
 
 Simple-acme is the most widely used ACME client for Windows Server and a drop-in replacement for [win-acme](https://www.win-acme.com/), built by the same developer. It can be used everywhere win-acme is used today. This guide covers everything from installation to production with FairSSL as ACME server.
 
@@ -447,7 +451,10 @@ Check that `--installation iis` is included in the renewal configuration. Open t
 
 Check the log files in simple-acme's log folder (default: `%ProgramData%\simple-acme\logs`). The most common causes: the account running the task does not have IIS permissions, DNS API keys have expired, or the certificate has not yet reached its renewal date (default: 55 days before expiry). Run manually with `--renew --verbose` to see detailed output.
 
-### CAA record blocks issuance
 
-If you have CAA DNS records, they must allow the CA issuing the certificate. FairSSL uses DigiCert, GlobalSign and Sectigo as CAs. Use our [CAA Record Generator](https://www.fairssl.dk/en/tools/caa-generator) to generate correct CAA records for your domain.
 
+***
+
+## REFERENCES
+
+* [https://www.fairssl.dk/en/guides/simple-acme-windows-guide/?srsltid=AfmBOorpHTAaG-ltNCrz4zWm3Y0RDvoRv6naoF4Fs1vnG0csAWDKBmSP](https://www.fairssl.dk/en/guides/simple-acme-windows-guide/?srsltid=AfmBOorpHTAaG-ltNCrz4zWm3Y0RDvoRv6naoF4Fs1vnG0csAWDKBmSP)
