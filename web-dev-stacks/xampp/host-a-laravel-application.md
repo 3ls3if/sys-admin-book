@@ -120,6 +120,10 @@ Laravel has a built-in development server. Run:
 C:\xampp\php8.2\php.exe -S 0.0.0.0:9000 -t public
 ```
 
+```php
+C:\php-8.2.3\php.exe artisan serve --port=8001
+```
+
 * The app will be accessible on:\
   👉 `http://localhost:9000`
 * If you want to access it from another machine in the same network, use your server’s IP:\
