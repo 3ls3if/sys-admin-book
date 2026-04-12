@@ -291,6 +291,8 @@
     * [Tomcat: Install Let's Encrypt SSL-Windows](backup-and-security/ssl-certificates/tomcat-install-lets-encrypt-ssl-windows.md)
     * [Let's Encrypt SSL with Apache (Reverse Proxy) + Tomcat using win-acme](backup-and-security/ssl-certificates/lets-encrypt-ssl-with-apache-reverse-proxy-+-tomcat-using-win-acme.md)
     * [HOW TO CREATE A FULL-CHAIN PFX FROM YOUR SSL FILES](backup-and-security/ssl-certificates/how-to-create-a-full-chain-pfx-from-your-ssl-files.md)
+    * [Win-ACME](backup-and-security/ssl-certificates/win-acme/README.md)
+      * [Simple-ACME guide for Windows Server | FairSSL](backup-and-security/ssl-certificates/win-acme/simple-acme-guide-for-windows-server-or-fairssl.md)
   * [Backup](backup-and-security/backup/README.md)
     * [Database](backup-and-security/backup/database/README.md)
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
