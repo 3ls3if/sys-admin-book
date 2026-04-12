@@ -293,6 +293,7 @@
     * [HOW TO CREATE A FULL-CHAIN PFX FROM YOUR SSL FILES](backup-and-security/ssl-certificates/how-to-create-a-full-chain-pfx-from-your-ssl-files.md)
     * [Win-ACME](backup-and-security/ssl-certificates/win-acme/README.md)
       * [Simple-ACME guide for Windows Server](backup-and-security/ssl-certificates/win-acme/simple-acme-guide-for-windows-server.md)
+      * [Step-by-Step Guide to Generate a PFX Certificate Using win-acme with acme-dns](backup-and-security/ssl-certificates/win-acme/step-by-step-guide-to-generate-a-pfx-certificate-using-win-acme-with-acme-dns.md)
   * [Backup](backup-and-security/backup/README.md)
     * [Database](backup-and-security/backup/database/README.md)
       * [MS SQL DB Backup](backup-and-security/backup/database/ms-sql-db-backup.md)
