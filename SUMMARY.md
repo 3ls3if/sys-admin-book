@@ -186,6 +186,8 @@
       * [6. Install IIS with CGI](web-servers-and-wafs/iis/setting-up-django-on-windows-iis-server/6.-install-iis-with-cgi.md)
       * [7. Configure IIS to serve Django Applications](web-servers-and-wafs/iis/setting-up-django-on-windows-iis-server/7.-configure-iis-to-serve-django-applications.md)
     * [How to Increase File Upload Limit for WordPress on IIS (Up to 3 GB)](web-servers-and-wafs/iis/how-to-increase-file-upload-limit-for-wordpress-on-iis-up-to-3-gb.md)
+    * [HttpPlatformHandler Module](web-servers-and-wafs/iis/httpplatformhandler-module/README.md)
+      * [Hosting a Next.js Application on IIS Using HttpPlatformHandler](web-servers-and-wafs/iis/httpplatformhandler-module/hosting-a-next.js-application-on-iis-using-httpplatformhandler.md)
   * [ModSecurity WAF](web-servers-and-wafs/modsecurity-waf/README.md)
     * [Secure IIS with Modsecurity](web-servers-and-wafs/modsecurity-waf/secure-iis-with-modsecurity.md)
 * [VPNs and Proxy Servers](vpns-and-proxy-servers/README.md)
