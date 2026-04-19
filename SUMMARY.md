@@ -545,6 +545,7 @@
     * [Migrate using All-in-One WP Migration](migration/website-migration/migrate-using-all-in-one-wp-migration.md)
   * [Database Migration](migration/database-migration/README.md)
     * [SQL Server database migration](migration/database-migration/sql-server-database-migration.md)
+    * [Migrating a PostgreSQL Database Between Windows Servers (Including Users & Permissions)](migration/database-migration/migrating-a-postgresql-database-between-windows-servers-including-users-and-permissions.md)
 * [Monitoring](monitoring/README.md)
   * [Prometheus](monitoring/prometheus/README.md)
     * [Monitoring Windows Servers Using Prometheus](monitoring/prometheus/monitoring-windows-servers-using-prometheus.md)
