@@ -69,6 +69,7 @@
   * [Services](windows-server/services/README.md)
     * [NSSM - the Non-Sucking Service Manager](windows-server/services/nssm-the-non-sucking-service-manager.md)
     * [Node-windows Library](windows-server/services/node-windows-library.md)
+    * [Creating a Windows Service for a Node.js Project Using NSSM](windows-server/services/creating-a-windows-service-for-a-node.js-project-using-nssm.md)
   * [Task Scheduler](windows-server/task-scheduler/README.md)
     * [Automate Program Execution](windows-server/task-scheduler/automate-program-execution.md)
     * [Restart Windows Server Daily](windows-server/task-scheduler/restart-windows-server-daily.md)
