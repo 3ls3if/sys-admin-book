@@ -1,6 +1,8 @@
 # Table of contents
 
 * [▶️ INTRO](README.md)
+* [Tech Consultancy](tech-consultancy/README.md)
+  * [The 2026 Technical Buyer’s Guide: Choosing the Right Cloud, Server, and Security Stack](tech-consultancy/the-2026-technical-buyers-guide-choosing-the-right-cloud-server-and-security-stack.md)
 * [Hardware/Physical Machines](<README (3).md>)
   * [Physical Networking](hardware-physical-machines/physical-networking/README.md)
     * [Patch Panel](hardware-physical-machines/physical-networking/patch-panel.md)
