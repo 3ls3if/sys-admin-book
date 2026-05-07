@@ -330,6 +330,7 @@
     * [Sophos Endpoint Tech Specs](backup-and-security/sophos-endpoint-protection/sophos-endpoint-tech-specs.md)
     * [Create an account](backup-and-security/sophos-endpoint-protection/create-an-account.md)
     * [Activate your account and get software](backup-and-security/sophos-endpoint-protection/activate-your-account-and-get-software.md)
+    * [Implementing Data Loss Prevention (DLP) and Endpoint Security Controls in Sophos Central](backup-and-security/sophos-endpoint-protection/implementing-data-loss-prevention-dlp-and-endpoint-security-controls-in-sophos-central.md)
   * [Data Loss Prevention (DLP)](backup-and-security/data-loss-prevention-dlp/README.md)
     * [Data Loss Prevention (DLP) and It's Working](backup-and-security/data-loss-prevention-dlp/data-loss-prevention-dlp-and-its-working.md)
 * [Email and Office 365](email-and-office-365/README.md)
