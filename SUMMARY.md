@@ -325,6 +325,7 @@
     * [Performing a file-level recovery](backup-and-security/acronis/performing-a-file-level-recovery.md)
     * [Enabling Active Protection and Vulnerability Assessment](backup-and-security/acronis/enabling-active-protection-and-vulnerability-assessment.md)
     * [Endpoint Detection and Response (EDR)](backup-and-security/acronis/endpoint-detection-and-response-edr.md)
+    * [Immutable Storage in Acronis Cyber Protect: Governance vs Compliance Mode](backup-and-security/acronis/immutable-storage-in-acronis-cyber-protect-governance-vs-compliance-mode.md)
   * [Sophos Endpoint Protection](backup-and-security/sophos-endpoint-protection/README.md)
     * [Policies](backup-and-security/sophos-endpoint-protection/policies.md)
     * [Sophos Endpoint Tech Specs](backup-and-security/sophos-endpoint-protection/sophos-endpoint-tech-specs.md)
