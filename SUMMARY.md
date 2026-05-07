@@ -498,6 +498,7 @@
   * [Exchange Admin](email-and-office-365/exchange-admin/README.md)
     * [Mail Flow Reports](email-and-office-365/exchange-admin/mail-flow-reports.md)
     * [Message Trace Reports](email-and-office-365/exchange-admin/message-trace-reports.md)
+    * [Enable auto-expanding archiving](email-and-office-365/exchange-admin/enable-auto-expanding-archiving.md)
   * [OneDrive / Sharepoint](email-and-office-365/onedrive-sharepoint/README.md)
     * [Create a Shared Library (SharePoint) for Large Data](email-and-office-365/onedrive-sharepoint/create-a-shared-library-sharepoint-for-large-data.md)
     * [Managing OneDrive Access Permissions in Microsoft 365](email-and-office-365/onedrive-sharepoint/managing-onedrive-access-permissions-in-microsoft-365.md)
