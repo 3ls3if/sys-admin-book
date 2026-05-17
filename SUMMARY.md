@@ -30,6 +30,7 @@
     * [Uninstall windows update](windows-server/troubleshooting/uninstall-windows-update.md)
     * [Copy-Paste is not working on windows server 2019](windows-server/troubleshooting/copy-paste-is-not-working-on-windows-server-2019.md)
     * [Delete Recovery Partition using DiskPart (Admin)](windows-server/troubleshooting/delete-recovery-partition-using-diskpart-admin.md)
+    * [How I Fixed “The License Period for This Installation of Windows Has Expired” on Windows Server 2025](windows-server/troubleshooting/how-i-fixed-the-license-period-for-this-installation-of-windows-has-expired-on-windows-server-2025.md)
   * [Basic Configurations](windows-server/basic-configurations/README.md)
     * [Change Hostname](windows-server/basic-configurations/change-hostname.md)
     * [Change Default RDP Port](windows-server/basic-configurations/change-default-rdp-port.md)
