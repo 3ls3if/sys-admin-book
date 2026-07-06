@@ -89,6 +89,7 @@
   * [Event Viewer](windows-server/event-viewer/README.md)
     * [Restart / Shutdown Event](windows-server/event-viewer/restart-shutdown-event.md)
     * [User Logoff Event](windows-server/event-viewer/user-logoff-event.md)
+    * [How to Find the IP Address Used to Access Your Windows Server via Remote Desktop (RDP)](windows-server/event-viewer/how-to-find-the-ip-address-used-to-access-your-windows-server-via-remote-desktop-rdp.md)
   * [Active Directory](windows-server/active-directory.md)
   * [Restrictions](windows-server/restrictions/README.md)
     * [Block Access to Specific Websites](windows-server/restrictions/block-access-to-specific-websites.md)
