@@ -112,6 +112,7 @@
   * [Optimization](windows-server/optimization/README.md)
     * [Storage Optimization](windows-server/optimization/storage-optimization/README.md)
       * [Managing Disk Space on Windows IIS Servers: A Practical Guide with PowerShell](windows-server/optimization/storage-optimization/managing-disk-space-on-windows-iis-servers-a-practical-guide-with-powershell.md)
+      * [SQL Server Disk Space Investigation and Cleanup: Resolving Excessive Storage Consumption](windows-server/optimization/storage-optimization/sql-server-disk-space-investigation-and-cleanup-resolving-excessive-storage-consumption.md)
 * [Linux Servers](linux-servers/README.md)
   * [SUSE Server](linux-servers/suse-server/README.md)
     * [How to Configure Network Settings on a SUSE Server](linux-servers/suse-server/how-to-configure-network-settings-on-a-suse-server.md)
