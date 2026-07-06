@@ -490,6 +490,8 @@
     * [Create a Top-Secret sensitivity label for email only](email-and-office-365/microsoft-purview/create-a-top-secret-sensitivity-label-for-email-only.md)
     * [Create a 3 year retention label for when data is last modified](email-and-office-365/microsoft-purview/create-a-3-year-retention-label-for-when-data-is-last-modified.md)
   * [Microsoft Entra ID](email-and-office-365/microsoft-entra-id/README.md)
+    * [Troubleshooting](email-and-office-365/microsoft-entra-id/troubleshooting/README.md)
+      * [Understanding and Resolving Microsoft Entra ID Error AADSTS700016](email-and-office-365/microsoft-entra-id/troubleshooting/understanding-and-resolving-microsoft-entra-id-error-aadsts700016.md)
     * [Bulk Delete Users](email-and-office-365/microsoft-entra-id/bulk-delete-users.md)
     * [Bulk create users](email-and-office-365/microsoft-entra-id/bulk-create-users.md)
     * [Microsoft Entra ID Protection Guide](email-and-office-365/microsoft-entra-id/microsoft-entra-id-protection-guide.md)
