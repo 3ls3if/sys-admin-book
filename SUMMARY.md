@@ -323,6 +323,7 @@
     * [Product Introduction](backup-and-security/microsoft-intune-endpoint-management/product-introduction.md)
     * [Intune Policies for MacOS](backup-and-security/microsoft-intune-endpoint-management/intune-policies-for-macos.md)
     * [Enroll your macOS device using the Company Portal app](backup-and-security/microsoft-intune-endpoint-management/enroll-your-macos-device-using-the-company-portal-app.md)
+    * [How to Fix Non-Compliant Devices in Microsoft Intune](backup-and-security/microsoft-intune-endpoint-management/how-to-fix-non-compliant-devices-in-microsoft-intune.md)
   * [Vulnerability Scanning](backup-and-security/vulnerability-scanning/README.md)
     * [OpenVAS Quick Guide](backup-and-security/vulnerability-scanning/openvas-quick-guide.md)
     * [Nessus Quick Guide](backup-and-security/vulnerability-scanning/nessus-quick-guide.md)
