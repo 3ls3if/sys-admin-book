@@ -213,6 +213,7 @@
     * [How to Fix “Table '.\mysql\db' is Marked as Crashed” Error in MySQL](database-servers/troubleshooting/how-to-fix-table-.-mysql-db-is-marked-as-crashed-error-in-mysql.md)
     * [How to Fix phpMyAdmin Import Errors for Large SQL Files on Windows (Complete Guide)](database-servers/troubleshooting/how-to-fix-phpmyadmin-import-errors-for-large-sql-files-on-windows-complete-guide.md)
     * [Resolving SQL Server Restore Failure Due to Insufficient Disk Space](database-servers/troubleshooting/resolving-sql-server-restore-failure-due-to-insufficient-disk-space.md)
+    * [Troubleshooting SQL Server Startup Error 17120: TDSSNIClient Initialization Failed with Error 0x8009](database-servers/troubleshooting/troubleshooting-sql-server-startup-error-17120-tdssniclient-initialization-failed-with-error-0x8009.md)
   * [CheatSheets](database-servers/cheatsheets/README.md)
     * [SQL Server Login & User Management – Cheatsheet](database-servers/cheatsheets/sql-server-login-and-user-management-cheatsheet.md)
   * [PowerShell Scripts](database-servers/powershell-scripts/README.md)
