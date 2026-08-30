@@ -165,6 +165,8 @@
     * [Move Proxmox VM Disk to Another Storage](virtualization/proxmox-ve/move-proxmox-vm-disk-to-another-storage.md)
     * [Migrate and attach existing disk of a VM to another VM on remote machine](virtualization/proxmox-ve/migrate-and-attach-existing-disk-of-a-vm-to-another-vm-on-remote-machine.md)
     * [Attaching One Proxmox VM Disk to Another VM](virtualization/proxmox-ve/attaching-one-proxmox-vm-disk-to-another-vm.md)
+  * [Hyper-V](virtualization/hyper-v/README.md)
+    * [Configuring Hyper-V Internal Network with NAT and Port Forwarding](virtualization/hyper-v/configuring-hyper-v-internal-network-with-nat-and-port-forwarding.md)
 * [Web Servers and WAFs](web-servers-and-wafs/README.md)
   * [IIS](web-servers-and-wafs/iis/README.md)
     * [Troubleshooting](web-servers-and-wafs/iis/troubleshooting/README.md)
