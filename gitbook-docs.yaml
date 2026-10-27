@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: system-admin-book
+  structure:
+    - type: space
+      key: space-1
+      title: WINDOWS SYSTEM ADMIN BOOK
+      path: windows-system-admin-book
+      default: true
+      content:
+        directory: ./windows-system-admin-book
