@@ -1,0 +1,6 @@
+---
+icon: robot
+---
+
+# Automation
+
