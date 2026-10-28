@@ -8,4 +8,4 @@ site:
       path: windows-system-admin-book
       default: true
       content:
-        directory: ./windows-system-admin-book
+        directory: ./
