@@ -587,6 +587,7 @@
       * [How to Enable and Review the SQL Server Audit Log](it-auditing/database-audit/ms-sql-server-auditing/how-to-enable-and-review-the-sql-server-audit-log.md)
 * [Load Balancers](load-balancers/README.md)
   * [Configure Windows Server Network Load Balancing (NLB)](load-balancers/configure-windows-server-network-load-balancing-nlb.md)
+  * [Configure a Web Farm with IIS Servers](load-balancers/configure-a-web-farm-with-iis-servers.md)
 * [Other Technologies](other-technologies/README.md)
   * [Some R\&Ds](other-technologies/some-r-and-ds/README.md)
     * [Active vs. Passive Mode in FTP](other-technologies/some-r-and-ds/active-vs.-passive-mode-in-ftp.md)
