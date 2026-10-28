@@ -24,7 +24,7 @@ For example:
 Public Internet
       |
       |
-103.181.108.232
+13.10.10.10 (public IP)
       |
 +----------------------+
 |   Hyper-V Host       |
@@ -246,7 +246,7 @@ We can expose it through another port on the Hyper-V host.
 For example:
 
 ```
-Public IP: 103.181.108.232
+Public IP: 13.10.10.10
 External Port: 3390
 
 VM:
@@ -276,7 +276,7 @@ The traffic flow will now be:
 ```
 Internet
     |
-    | 103.181.108.232:3390
+    | 13.10.10.10:3390
     |
 Hyper-V Host
     |
@@ -310,9 +310,9 @@ For example:
 The mappings would be:
 
 ```
-103.181.108.232:3390 → 192.168.100.10:3389
-103.181.108.232:3391 → 192.168.100.11:3389
-103.181.108.232:3392 → 192.168.100.12:3389
+13.10.10.10:3390 → 192.168.100.10:3389
+13.10.10.10:3391 → 192.168.100.11:3389
+13.10.10.10:3392 → 192.168.100.12:3389
 ```
 
 The external port must be unique because all VMs are sharing the same public IP.
@@ -332,7 +332,7 @@ Suppose SQL Server is listening on:
 You could create:
 
 ```
-103.181.108.232:14331
+13.10.10.10:14331
         ↓
 192.168.100.10:1433
 ```
@@ -474,7 +474,7 @@ A simple Hyper-V NAT environment can therefore look like:
                      INTERNET
                          |
                          |
-                 103.181.108.232
+                13.10.10.10
                          |
                 +----------------+
                 |  Hyper-V Host  |
@@ -496,11 +496,11 @@ A simple Hyper-V NAT environment can therefore look like:
 Port forwarding:
 
 ```
-103.181.108.232:3390
+13.10.10.10:3390
         ↓
-192.168.100.10:3389
+13.10.10.10:3389
 
-103.181.108.232:3391
+13.10.10.10:3391
         ↓
 192.168.100.11:3389
 ```
