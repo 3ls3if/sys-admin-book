@@ -1,3 +1,7 @@
+---
+icon: network-wired
+---
+
 # Configure Windows Server Network Load Balancing (NLB)
 
 ## 1. Objective

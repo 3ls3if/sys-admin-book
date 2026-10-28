@@ -1,3 +1,7 @@
+---
+icon: globe-pointer
+---
+
 # Configure a Web Farm with IIS Servers
 
 ## Overview

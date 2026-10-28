@@ -1,3 +1,7 @@
+---
+icon: windows
+---
+
 # Windows DNS Zone Migration with PowerShell
 
 This guide explains how to use the [Windows DNS Migration Toolkit on GitHub](https://github.com/3ls3if/Windows-DNS-Migration-Toolkit) to prepare a DNS migration from a source Windows DNS server to a destination server.

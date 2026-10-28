@@ -1,3 +1,7 @@
+---
+icon: cloudflare
+---
+
 # DNS Migration
 
 Guides and tools for migrating DNS services between Windows Server environments.
