@@ -4,7 +4,7 @@ icon: windows
 
 # Integrating On-Premises and Cloud with Hybrid Azure AD Join
 
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 ### What is Hybrid Azure AD Join? <a href="#what-is-hybrid-azure-a-d-join" id="what-is-hybrid-azure-a-d-join"></a>
 
@@ -16,7 +16,7 @@ Using Hybrid Azure AD Join to integrate on-premises and cloud environments offer
 
 #### Streamlined user experience <a href="#streamlined-user-experience" id="streamlined-user-experience"></a>
 
-Joining on-premises and cloud services using Azure AD Hybrid Join provides users with a seamless and consistent experience across all resources. Users can access both on-premises and cloud-based applications using [single sign-on (SSO)](https://www.ninjaone.com/blog/saml-vs-sso-whats-the-difference/) with the same set of credentials, eliminating the need for multiple logins and reducing user frustration. &#x20;
+Joining on-premises and cloud services using Azure AD Hybrid Join provides users with a seamless and consistent experience across all resources. Users can access both on-premises and cloud-based applications using [single sign-on (SSO)](https://www.ninjaone.com/blog/saml-vs-sso-whats-the-difference/) with the same set of credentials, eliminating the need for multiple logins and reducing user frustration.
 
 #### Centralized user management <a href="#centralized-user-management" id="centralized-user-management"></a>
 
@@ -28,7 +28,7 @@ Your organization can enforce stronger security measures within an integrated en
 
 ### How Hybrid Azure AD Join works <a href="#how-hybrid-azure-a-d-join-works" id="how-hybrid-azure-a-d-join-works"></a>
 
-Hybrid Azure AD Join requires these services to operate:&#x20;
+Hybrid Azure AD Join requires these services to operate:
 
 #### Active Directory Domain Services (AD DS) and Azure AD <a href="#active-directory-domain-services-a-d-ds-and-azure-ad" id="active-directory-domain-services-a-d-ds-and-azure-ad"></a>
 
@@ -45,7 +45,7 @@ The Azure AD Hybrid Join process involves the following steps:
 1. Install and configure Azure AD Connect on a server in the on-premises environment. This server acts as a bridge between AD DS and Azure AD.
 2. Synchronize user accounts from the on-premises AD DS to Azure AD to ensure accounts and their attributes are consistent across both environments.
 3. Register the device that is part of the on-premises network with Azure AD. This establishes a trust relationship between the device and Azure AD.
-4. Complete the Hybrid Azure AD Join process. After registering the device, it can join both the on-premises AD DS domain and Azure AD simultaneously.&#x20;
+4. Complete the Hybrid Azure AD Join process. After registering the device, it can join both the on-premises AD DS domain and Azure AD simultaneously.
 
 ### Requirements for setting up Hybrid Azure AD Join <a href="#requirements-for-setting-up-hybrid-azure-a-d-join" id="requirements-for-setting-up-hybrid-azure-a-d-join"></a>
 
@@ -63,7 +63,7 @@ Follow these steps to set up Hybrid Azure AD Join:
 
 #### Step 1: Install and configure Azure AD Connect <a href="#step-1-install-and-configure-azure-a-d-connect" id="step-1-install-and-configure-azure-a-d-connect"></a>
 
-Install and configure Azure AD Connect on a server in the on-premises environment by completing these actions.&#x20;
+Install and configure Azure AD Connect on a server in the on-premises environment by completing these actions.
 
 * Download Azure AD Connect from the Microsoft website.
 * Launch the Azure AD Connect installation wizard and follow the on-screen instructions.
@@ -127,8 +127,6 @@ Hybrid Azure AD Join takes several steps and configurations to set up and mainta
 ### Integrating on-premises and cloud <a href="#integrating-on-premises-and-cloud" id="integrating-on-premises-and-cloud"></a>
 
 Integrating on-premises and cloud environments allows you to maintain your existing infrastructure while leveraging the benefits of cloud-based services. Hybrid Azure AD Join is a simple way to bridge the gap between on-premises Active Directory and Azure AD, enabling seamless user access, centralized management and [enhanced security](https://www.ninjaone.com/blog/it-security-checklist-protect-your-business/).
-
-&#x20;
 
 ## REFERENCES
 

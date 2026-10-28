@@ -6,7 +6,7 @@ icon: arrow-progress
 
 ## **Exchange Admin Center:** <a href="#exchange-admin-center" id="exchange-admin-center"></a>
 
-**1. Mail Flow Reports**&#x20;
+**1. Mail Flow Reports**
 
 The new Exchange admin center includes a range of mail flow reports that help identify and fix problems related to mail flow in the organization. You can find separate reports for inbound and outbound messages in the pile of reports.
 
@@ -24,9 +24,7 @@ Outbound messages report – This report shows the details of the emails that we
 
 <br>
 
-<figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

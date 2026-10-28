@@ -6,21 +6,17 @@ icon: album
 
 ## Instructions
 
-
-
 1.  Go back to the service console (SC).
 
     Please select _DEVICES_-> _All devices_ in the blue main menu on the left.
 2. In the device view select the new machine and select _Protect_ on the right popping up menu.
 
-<figure><img src="../../.gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 3. Create a new Protection plan for Backup.
 
 {% hint style="warning" %}
 **Please use the following details:**
-
-
 
 Protection Plan name: ses-hrzps3d0o-disk (_If the correct vm session ID is not shown, please click the gear on top to find you actual ID.)_
 
@@ -39,5 +35,4 @@ Keep all other Backup module settings on defaults
 Disable all other modules (except for Backup)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>

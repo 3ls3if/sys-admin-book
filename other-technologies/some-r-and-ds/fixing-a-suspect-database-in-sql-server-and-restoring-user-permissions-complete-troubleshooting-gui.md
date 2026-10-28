@@ -6,7 +6,7 @@ icon: triangle-exclamation
 
 ## **Fixing a SUSPECT Database in SQL Server and Restoring User Permissions: Complete Troubleshooting Guide**
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 SQL Server databases may enter a **SUSPECT** state when SQL Server cannot complete the recovery process. This usually happens due to corruption, unexpected shutdowns, insufficient disk space, hardware failures, or missing database files. When this happens, the database becomes inaccessible, users cannot connect, and administrative actions such as ALTER DATABASE fail—especially if the logged-in user does not have sysadmin privileges.
 

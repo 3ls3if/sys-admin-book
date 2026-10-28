@@ -10,25 +10,23 @@ As an admin, you can find out what happened to an email message whether a messag
 
 ### Steps:
 
-<mark style="color:$success;">**Step:1**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">Open Exchange Admin Center.</mark>
+<mark style="color:$success;">**Step:1**</mark> <mark style="color:$success;">Open Exchange Admin Center.</mark>
 
-<mark style="color:$success;">**Step:2**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">Navigate to Mail Flow –> Message Trace.</mark>
+<mark style="color:$success;">**Step:2**</mark> <mark style="color:$success;">Navigate to Mail Flow –> Message Trace.</mark>
 
-<mark style="color:$success;">**Step:3**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">Select Start a trace.</mark>
+<mark style="color:$success;">**Step:3**</mark> <mark style="color:$success;">Select Start a trace.</mark>
 
-<mark style="color:$success;">**Step:4**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">You can find the message trace for either all users or can specify the senders and recipients.</mark>
+<mark style="color:$success;">**Step:4**</mark> <mark style="color:$success;">You can find the message trace for either all users or can specify the senders and recipients.</mark>
 
-<mark style="color:$success;">**Step:5**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">Set the Time range.</mark>
+<mark style="color:$success;">**Step:5**</mark> <mark style="color:$success;">Set the Time range.</mark>
 
-<mark style="color:$success;">**Step:6**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">Under Detailed search option –> Direction, you can configure if you want to start a trace for Inbound or Outbound or All mails.</mark>
+<mark style="color:$success;">**Step:6**</mark> <mark style="color:$success;">Under Detailed search option –> Direction, you can configure if you want to start a trace for Inbound or Outbound or All mails.</mark>
 
-<mark style="color:$success;">**Step:7**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">Specify the Report type and start the Search.</mark>
+<mark style="color:$success;">**Step:7**</mark> <mark style="color:$success;">Specify the Report type and start the Search.</mark>
 
 <br>
 
-<figure><img src="../../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
