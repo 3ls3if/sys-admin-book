@@ -3,6 +3,7 @@ description: >-
   Practical guide to the reusable DLSAR Audit Framework for infrastructure
   evidence collection, configurable control assessment, and audit report
   generation.
+icon: bowling-ball-pin
 ---
 
 # DLSAR Audit Framework: Setup, Evidence Collection, and Reporting

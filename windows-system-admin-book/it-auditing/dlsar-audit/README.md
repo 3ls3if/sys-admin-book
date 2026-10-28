@@ -1,3 +1,7 @@
+---
+icon: head-side-headphones
+---
+
 # DLSAR Audit
 
 Documentation for the reusable **DLSAR Audit Framework**: a PowerShell and Python toolkit for collecting infrastructure evidence, evaluating configurable audit controls, preserving evidence integrity, and generating structured DL SAR / infrastructure audit reports.
