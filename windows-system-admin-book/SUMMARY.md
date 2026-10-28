@@ -572,6 +572,8 @@
   * [Database Migration](migration/database-migration/README.md)
     * [SQL Server database migration](migration/database-migration/sql-server-database-migration.md)
     * [Migrating a PostgreSQL Database Between Windows Servers (Including Users & Permissions)](migration/database-migration/migrating-a-postgresql-database-between-windows-servers-including-users-and-permissions.md)
+  * [DNS Migration](migration/dns-migration/README.md)
+    * [Windows DNS Zone Migration with PowerShell](migration/dns-migration/windows-dns-zone-migration-with-powershell.md)
 * [Monitoring](monitoring/README.md)
   * [Prometheus](monitoring/prometheus/README.md)
     * [Monitoring Windows Servers Using Prometheus](monitoring/prometheus/monitoring-windows-servers-using-prometheus.md)
