@@ -1,4 +1,8 @@
-# Chapter 11 - Application Management
+---
+icon: window
+---
+
+# Application Management
 
 This chapter covers application delivery and lifecycle management for Windows devices managed by Microsoft Intune.
 

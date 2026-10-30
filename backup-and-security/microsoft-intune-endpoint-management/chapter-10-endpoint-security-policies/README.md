@@ -1,4 +1,8 @@
-# Chapter 10 - Endpoint Security Policies
+---
+icon: building-shield
+---
+
+# Endpoint Security Policies
 
 This chapter covers Windows endpoint security controls managed through Microsoft Intune.
 
