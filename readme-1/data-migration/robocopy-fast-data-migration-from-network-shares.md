@@ -3,6 +3,7 @@ description: >-
   Practical guide to copying local and network-share data with Robocopy,
   including multithreading, exclusions, logging, troubleshooting, and folder
   attributes.
+icon: robot
 ---
 
 # Robocopy: Fast Data Migration from Network Shares
