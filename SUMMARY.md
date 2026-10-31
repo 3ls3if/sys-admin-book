@@ -114,6 +114,8 @@
     * [Storage Optimization](readme-1/optimization/storage-optimization/README.md)
       * [Managing Disk Space on Windows IIS Servers: A Practical Guide with PowerShell](readme-1/optimization/storage-optimization/managing-disk-space-on-windows-iis-servers-a-practical-guide-with-powershell.md)
       * [SQL Server Disk Space Investigation and Cleanup: Resolving Excessive Storage Consumption](readme-1/optimization/storage-optimization/sql-server-disk-space-investigation-and-cleanup-resolving-excessive-storage-consumption.md)
+  * [Data Migration](readme-1/data-migration/README.md)
+    * [Robocopy: Fast Data Migration from Network Shares](readme-1/data-migration/robocopy-fast-data-migration-from-network-shares.md)
 * [Linux Servers](linux-servers/README.md)
   * [SUSE Server](linux-servers/suse-server/README.md)
     * [How to Configure Network Settings on a SUSE Server](linux-servers/suse-server/how-to-configure-network-settings-on-a-suse-server.md)
