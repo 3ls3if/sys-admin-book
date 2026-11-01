@@ -259,6 +259,7 @@
     * [Protect phpMyAdmin using Apache (.htaccess)](database-servers/phpmyadmin/protect-phpmyadmin-using-apache-.htaccess.md)
 * [CDN](cdn-servers/README.md)
   * [What Is a CDN (Content Delivery Network)? Architecture, Working, Benefits, and Top CDN Providers](cdn-servers/what-is-a-cdn-content-delivery-network-architecture-working-benefits-and-top-cdn-providers.md)
+  * [CDN Architecture and HTTP Request Flow: A Deep Technical Guide](cdn-servers/cdn-architecture-and-http-request-flow-a-deep-technical-guide.md)
 * [Web Dev Stacks](web-dev-stacks/README.md)
   * [Troubleshooting](web-dev-stacks/troubleshooting/README.md)
     * [How to Fix phpMyAdmin Import Errors for Large SQL Files on Windows (Complete Guide)](web-dev-stacks/troubleshooting/how-to-fix-phpmyadmin-import-errors-for-large-sql-files-on-windows-complete-guide.md)
