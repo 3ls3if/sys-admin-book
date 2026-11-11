@@ -603,6 +603,8 @@
       * [SQL Server: Reset Login Password and Remap Database Users Across Multiple Databases 1](migration/database-migration/ms-sql-db-migration-scripts/sql-server-reset-login-password-and-remap-database-users-across-multiple-databases-1.md)
   * [DNS Migration](migration/dns-migration/README.md)
     * [Windows DNS Zone Migration with PowerShell](migration/dns-migration/windows-dns-zone-migration-with-powershell.md)
+  * [S3 Bucket Migration](migration/s3-bucket-migration/README.md)
+    * [Transferring an Amazon S3 Bucket from One AWS Account to Another](migration/s3-bucket-migration/transferring-an-amazon-s3-bucket-from-one-aws-account-to-another.md)
 * [Monitoring](monitoring/README.md)
   * [Prometheus](monitoring/prometheus/README.md)
     * [Monitoring Windows Servers Using Prometheus](monitoring/prometheus/monitoring-windows-servers-using-prometheus.md)
