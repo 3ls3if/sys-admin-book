@@ -4,8 +4,6 @@ icon: octopus-deploy
 
 # Deploying Anubis on Windows Server with IIS – Complete Installation and Configuration Guide
 
-## Deploying Anubis on Windows Server with IIS – Complete Installation and Configuration Guide
-
 ### 1. Introduction
 
 Modern websites receive traffic from different types of automated clients, including search engine crawlers, monitoring services, automated scripts, and AI-powered web scrapers. While some bots are useful, others can generate excessive requests, consume server resources, and collect website content without permission.
