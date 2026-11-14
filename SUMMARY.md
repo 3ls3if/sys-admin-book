@@ -100,6 +100,7 @@
     * [Windows Server Audit Script](readme-1/powershell-scripts/windows-server-audit-script.md)
     * [Server Configuration Script](readme-1/powershell-scripts/server-configuration-script.md)
     * [Gaining Deep Visibility into Windows with PowerShell and NtObjectManager](readme-1/powershell-scripts/gaining-deep-visibility-into-windows-with-powershell-and-ntobjectmanager.md)
+    * [Windows Server C: Drive Disk Usage Analysis Using PowerShell](readme-1/powershell-scripts/windows-server-c-drive-disk-usage-analysis-using-powershell.md)
   * [Malware Detection & Prevention](readme-1/malware-detection-and-prevention/README.md)
     * [Tools](readme-1/malware-detection-and-prevention/tools/README.md)
       * [Microsoft Safety Scanner – stand-alone scan tool for Windows](readme-1/malware-detection-and-prevention/tools/microsoft-safety-scanner-stand-alone-scan-tool-for-windows.md)
