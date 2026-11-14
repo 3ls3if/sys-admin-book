@@ -37,34 +37,7 @@ The framework is designed around a typical Windows infrastructure environment co
 
 #### Reference Architecture
 
-```mermaid
-flowchart TB
-    ADMIN["Audit Administrator<br/>Management Workstation"]
-
-    subgraph NETWORK["Infrastructure Management Network"]
-        DC["Domain Controller<br/>Active Directory / DNS"]
-
-        subgraph HV["Hyper-V Infrastructure"]
-            HV1["Hyper-V Host 01<br/>Virtual Machines"]
-            HV2["Hyper-V Host 02<br/>Virtual Machines"]
-            HV3["Hyper-V Host 03<br/>Virtual Machines"]
-        end
-
-        REPLICA["Hyper-V Replica Host<br/>Disaster Recovery"]
-    end
-
-    ADMIN -->|"DC Audit Script"| DC
-    ADMIN -->|"Hyper-V Audit Script"| HV1
-    ADMIN -->|"Hyper-V Audit Script"| HV2
-    ADMIN -->|"Hyper-V Audit Script"| HV3
-    ADMIN -->|"Replica Audit Script"| REPLICA
-
-    HV1 -.->|"Replication where configured"| REPLICA
-    HV2 -.->|"Replication where configured"| REPLICA
-    HV3 -.->|"Replication where configured"| REPLICA
-
-    ADMIN --> OUTPUT["Audit Evidence<br/>JSON / CSV / TXT / ZIP"]
-```
+<figure><img src="../../.gitbook/assets/Server Infrastructure Audit Framework.png" alt=""><figcaption></figcaption></figure>
 
 The audit administrator executes the relevant scripts against the authorized infrastructure systems. Each script collects information related to its designated infrastructure component and generates evidence for subsequent review.
 
