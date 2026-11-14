@@ -206,6 +206,8 @@
       * [Hosting a Next.js Application on IIS Using HttpPlatformHandler](web-servers-and-wafs/iis/httpplatformhandler-module/hosting-a-next.js-application-on-iis-using-httpplatformhandler.md)
   * [ModSecurity WAF](web-servers-and-wafs/modsecurity-waf/README.md)
     * [Secure IIS with Modsecurity](web-servers-and-wafs/modsecurity-waf/secure-iis-with-modsecurity.md)
+  * [Anubis](web-servers-and-wafs/anubis/README.md)
+    * [Deploying Anubis on Windows Server with IIS – Complete Installation and Configuration Guide](web-servers-and-wafs/anubis/deploying-anubis-on-windows-server-with-iis-complete-installation-and-configuration-guide.md)
 * [VPNs and Proxy Servers](vpns-and-proxy-servers/README.md)
   * [Reverse Proxy](vpns-and-proxy-servers/reverse-proxy/README.md)
     * [IIS - Node.js Application](vpns-and-proxy-servers/reverse-proxy/iis-node.js-application.md)
