@@ -621,6 +621,8 @@
       * [How to Enable and Review the SQL Server Audit Log](it-auditing/database-audit/ms-sql-server-auditing/how-to-enable-and-review-the-sql-server-audit-log.md)
   * [DLSAR Audit](it-auditing/dlsar-audit/README.md)
     * [DLSAR Audit Framework: Setup, Evidence Collection, and Reporting](it-auditing/dlsar-audit/dlsar-audit-framework-setup-evidence-collection-and-reporting.md)
+  * [Infra Audit](it-auditing/infra-audit/README.md)
+    * [Building a Server Infrastructure Audit Framework Using PowerShell](it-auditing/infra-audit/building-a-server-infrastructure-audit-framework-using-powershell.md)
 * [Load Balancers](load-balancers/README.md)
   * [Configure Windows Server Network Load Balancing (NLB)](load-balancers/configure-windows-server-network-load-balancing-nlb.md)
   * [Configure a Web Farm with IIS Servers](load-balancers/configure-a-web-farm-with-iis-servers.md)
