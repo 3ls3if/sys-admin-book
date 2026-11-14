@@ -625,6 +625,7 @@
   * [Configure Windows Server Network Load Balancing (NLB)](load-balancers/configure-windows-server-network-load-balancing-nlb.md)
   * [Configure a Web Farm with IIS Servers](load-balancers/configure-a-web-farm-with-iis-servers.md)
   * [Implementing HAProxy Load Balancer with Two IIS Web Servers on Ubuntu Server](load-balancers/implementing-haproxy-load-balancer-with-two-iis-web-servers-on-ubuntu-server.md)
+  * [Configure NGINX as a Reverse Proxy and Load Balancer with Windows IIS Servers](load-balancers/configure-nginx-as-a-reverse-proxy-and-load-balancer-with-windows-iis-servers.md)
 * [Automation](automation/README.md)
   * [Ansible](automation/ansible.md)
   * [Terraform](automation/terraform.md)
