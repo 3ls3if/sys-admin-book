@@ -554,7 +554,6 @@
     * [Enable Sophos Central management of Sophos Firewall](firewalls-and-access-points/sophos-firewall/enable-sophos-central-management-of-sophos-firewall.md)
   * [Sophos AP](firewalls-and-access-points/sophos-ap.md)
   * [FortiGate Firewall](firewalls-and-access-points/fortigate-firewall.md)
-  * [FortiAP](firewalls-and-access-points/fortiap.md)
 * [Networking](networking/README.md)
   * [Troubleshooting](networking/troubleshooting.md)
   * [Cisco Router Config](networking/cisco-router-config.md)
