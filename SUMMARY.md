@@ -6,7 +6,6 @@
 * [Hardware/Physical Machines](readme-3/README.md)
   * [Physical Networking](readme-3/physical-networking/README.md)
     * [Patch Panel](readme-3/physical-networking/patch-panel.md)
-  * [Hardware Devices](readme-3/hardware-devices.md)
   * [RAID Configs](readme-3/raid-configs/README.md)
     * [RAID Types](readme-3/raid-configs/raid-types.md)
 * [System Configuration](readme-2/README.md)
