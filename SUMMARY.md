@@ -633,6 +633,8 @@
 * [Automation](automation/README.md)
   * [Ansible](automation/ansible.md)
   * [Terraform](automation/terraform.md)
+* [Production Architectures](production-architectures/README.md)
+  * [Building a Segmented Reverse Proxy and Load Balancing Architecture Using OPNsense, HAProxy and IIS](production-architectures/building-a-segmented-reverse-proxy-and-load-balancing-architecture-using-opnsense-haproxy-and-iis.md)
 * [Other Technologies](other-technologies/README.md)
   * [Some R\&Ds](other-technologies/some-r-and-ds/README.md)
     * [Active vs. Passive Mode in FTP](other-technologies/some-r-and-ds/active-vs.-passive-mode-in-ftp.md)
