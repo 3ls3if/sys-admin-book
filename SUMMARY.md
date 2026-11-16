@@ -596,6 +596,7 @@
     * [Migrate using All-in-One WP Migration](migration/website-migration/migrate-using-all-in-one-wp-migration.md)
   * [Database Migration](migration/database-migration/README.md)
     * [SQL Server database migration](migration/database-migration/sql-server-database-migration.md)
+    * [SQL Server Database Migration from a Higher Version to a Lower Version Using Generate Scripts](migration/database-migration/sql-server-database-migration-from-a-higher-version-to-a-lower-version-using-generate-scripts.md)
     * [Migrating a PostgreSQL Database Between Windows Servers (Including Users & Permissions)](migration/database-migration/migrating-a-postgresql-database-between-windows-servers-including-users-and-permissions.md)
     * [MS SQL DB Migration Scripts](migration/database-migration/ms-sql-db-migration-scripts/README.md)
       * [Automated Backup of All Microsoft SQL Server Databases 1](migration/database-migration/ms-sql-db-migration-scripts/automated-backup-of-all-microsoft-sql-server-databases-1.md)
