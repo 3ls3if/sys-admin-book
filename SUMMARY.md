@@ -640,6 +640,7 @@
   * [Networking](cloudflare/networking/README.md)
     * [Tunnel](cloudflare/networking/tunnel/README.md)
       * [Cloudflare Tunnel Easy Setup](cloudflare/networking/tunnel/cloudflare-tunnel-easy-setup.md)
+      * [Cloudflare Tunnel: Replicas and High Availability](cloudflare/networking/tunnel/cloudflare-tunnel-replicas-and-high-availability.md)
 * [Other Technologies](other-technologies/README.md)
   * [Some R\&Ds](other-technologies/some-r-and-ds/README.md)
     * [Active vs. Passive Mode in FTP](other-technologies/some-r-and-ds/active-vs.-passive-mode-in-ftp.md)
