@@ -535,6 +535,7 @@
     * [How to Check Who Reset an M365 User’s Password Using Entra ID](email-and-office-365/microsoft-entra-id/how-to-check-who-reset-an-m365-users-password-using-entra-id.md)
     * [How to Resolve “Approval Required” When Connecting Microsoft 365 Mail to Pipedrive CRM](email-and-office-365/microsoft-entra-id/how-to-resolve-approval-required-when-connecting-microsoft-365-mail-to-pipedrive-crm.md)
     * [Azure AD Connect: Install and Setup Guide](email-and-office-365/microsoft-entra-id/azure-ad-connect-install-and-setup-guide.md)
+    * [How to Convert a Microsoft 365 Guest User to a Member in Microsoft Entra ID](email-and-office-365/microsoft-entra-id/how-to-convert-a-microsoft-365-guest-user-to-a-member-in-microsoft-entra-id.md)
   * [Exchange Admin](email-and-office-365/exchange-admin/README.md)
     * [Mail Flow Reports](email-and-office-365/exchange-admin/mail-flow-reports.md)
     * [Message Trace Reports](email-and-office-365/exchange-admin/message-trace-reports.md)
