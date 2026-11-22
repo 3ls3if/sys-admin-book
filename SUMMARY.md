@@ -116,6 +116,8 @@
       * [SQL Server Disk Space Investigation and Cleanup: Resolving Excessive Storage Consumption](readme-1/optimization/storage-optimization/sql-server-disk-space-investigation-and-cleanup-resolving-excessive-storage-consumption.md)
   * [Data Migration](readme-1/data-migration/README.md)
     * [Robocopy: Fast Data Migration from Network Shares](readme-1/data-migration/robocopy-fast-data-migration-from-network-shares.md)
+  * [OS Upgrade](readme-1/os-upgrade/README.md)
+    * [In-Place Upgrade Windows Server to 2019/2022](readme-1/os-upgrade/in-place-upgrade-windows-server-to-2019-2022.md)
 * [Linux Servers](linux-servers/README.md)
   * [SUSE Server](linux-servers/suse-server/README.md)
     * [How to Configure Network Settings on a SUSE Server](linux-servers/suse-server/how-to-configure-network-settings-on-a-suse-server.md)
