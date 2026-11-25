@@ -1,3 +1,7 @@
+---
+icon: hand-holding-skull
+---
+
 # High Availability with Cloudflare Tunnels and Docker Swarm
 
 ## High Availability with Cloudflare Tunnels and Docker Swarm
