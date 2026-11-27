@@ -120,6 +120,7 @@
     * [In-Place Upgrade Windows Server to 2019/2022](readme-1/os-upgrade/in-place-upgrade-windows-server-to-2019-2022.md)
 * [Linux Servers](linux-servers/README.md)
   * [SUSE Server](linux-servers/suse-server/README.md)
+    * [How to Install SUSE Linux Enterprise Server 15 SP4](linux-servers/suse-server/how-to-install-suse-linux-enterprise-server-15-sp4.md)
     * [How to Configure Network Settings on a SUSE Server](linux-servers/suse-server/how-to-configure-network-settings-on-a-suse-server.md)
   * [Alma Linux](linux-servers/alma-linux/README.md)
     * [How to Change the IPv4 Address in AlmaLinux](linux-servers/alma-linux/how-to-change-the-ipv4-address-in-almalinux.md)
