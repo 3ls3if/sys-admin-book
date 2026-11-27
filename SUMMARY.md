@@ -651,6 +651,7 @@
   * [Zero Trust](cloudflare/zero-trust/README.md)
     * [Traffic Controls](cloudflare/zero-trust/traffic-controls/README.md)
       * [From Perimeter Security to Zero Trust: Implementing Cloudflare One for Enterprise Traffic Control on](cloudflare/zero-trust/traffic-controls/from-perimeter-security-to-zero-trust-implementing-cloudflare-one-for-enterprise-traffic-control-on.md)
+      * [Secure SQL Server and RDP Access Using Cloudflare Zero Trust](cloudflare/zero-trust/traffic-controls/secure-sql-server-and-rdp-access-using-cloudflare-zero-trust.md)
 * [Server Security](server-security/README.md)
   * [EDR Solutions](server-security/edr-solutions/README.md)
     * [Protecting Endpoints with Xcitium OpenEDR](server-security/edr-solutions/protecting-endpoints-with-xcitium-openedr.md)
